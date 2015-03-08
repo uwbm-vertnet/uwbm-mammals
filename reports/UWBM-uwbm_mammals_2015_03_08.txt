@@ -1,0 +1,197 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 1291
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 62
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 3
+	Date: 2015-02-02 ; Times: 3
+	Date: 2015-02-03 ; Times: 3
+	Date: 2015-02-04 ; Times: 6
+	Date: 2015-02-05 ; Times: 4
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-07 ; Times: 4
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-10 ; Times: 6
+	Date: 2015-02-11 ; Times: 3
+	Date: 2015-02-12 ; Times: 11
+	Date: 2015-02-13 ; Times: 3
+	Date: 2015-02-16 ; Times: 3
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 4
+	Date: 2015-02-20 ; Times: 7
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 13
+	Date: 2015-02-25 ; Times: 1
+	Date: 2015-02-27 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "uwbm 58841" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 3
+	Query: "Panthera onca country:"Mexico"" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "genus:Volemys class:Mammalia" ; Times: 1
+	Query: "county:"Okanogan" stateprovince:"Washington" specificepithet:hudsonicus genus:Tamiasciurus institutioncode:UWBM" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "genus:Berardius" ; Times: 1
+	Query: "stateprovince:"Oregon" specificepithet:siskiyou class:Mammalia" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 3
+	Query: "county:"Hartford" stateprovince:"Connecticut" class:mammalia year >= 1950 year <= 2015" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 2
+	Query: "Mclean county illinois" ; Times: 1
+	Query: "red panda" ; Times: 2
+	Query: ""Dasypus novemcinctus " mappable:1" ; Times: 1
+	Query: "specificepithet:triton genus:Tscherskia" ; Times: 1
+	Query: "genus:dasypus" ; Times: 3
+	Query: "Nasua narica" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1970 year <= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1970" ; Times: 1
+	Query: "pangolin" ; Times: 2
+	Query: "bubalus" ; Times: 1
+	Query: "type:specimen stateprovince:"Tennessee" specificepithet:gossypinus genus:Peromyscus" ; Times: 1
+	Query: "brain type:specimen (tissue OR preserved) tissue:1" ; Times: 8
+	Query: "Km 13 carretera" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Cynomys" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1950 year <= 1970" ; Times: 1
+	Query: "county:"Okanogan" stateprovince:"Washington" specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "genus:kogia" ; Times: 1
+	Query: "genus:Lagenorhynchus" ; Times: 1
+	Query: "deer mouse" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 2
+	Query: "stateprovince:"Washington" specificepithet:hudsonicus genus:Tamiasciurus institutioncode:UWBM" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:cinereus genus:lasiurus" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "flying squirrel" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "county:"Hartford" stateprovince:"Connecticut" year >= 1950 year <= 2015" ; Times: 1
+	Query: ""sus scrofa"" ; Times: 3
+	Query: "trachypithecus cristatus" ; Times: 1
+	Query: "class:Mammalia institutioncode:UWBM year >= 2008 year <= 2011" ; Times: 1
+	Query: "genus:Mesoplodon" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "genus:Cephalorhynchus" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "peromyscus ann arbor AND (NOT ummz)" ; Times: 1
+	Query: "specificepithet:cricetus genus:cricetus" ; Times: 1
+	Query: "genus:orcinus" ; Times: 1
+	Query: "canis aureus" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: "Callithrix tissue:1" ; Times: 1
+	Query: "indiana bat" ; Times: 1
+	Query: "smokey shrew" ; Times: 1
+	Query: "arctic ground squirrel" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "walrus" ; Times: 2
+	Query: "country:"Mexico" genus:Eira" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 326 download events in this period)
+Total number of records downloaded: 4225 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4038
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 25
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 4
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-10 ; Times: 3
+	Date: 2015-02-11 ; Times: 3
+	Date: 2015-02-12 ; Times: 2
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 13
+	Date: 2015-02-25 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "stateprovince:"Oregon" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "peromyscus zarhynchus" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "genus:Balaena" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "genus:Berardius" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "genus:kogia" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "stateprovince:"Louisiana" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "Delphinus Delphis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "stateprovince:"Michigan" specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "stateprovince:"North Carolina" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Glaucomys tissue:1" ; Times: 1
+	Query: "genus:Grampus" ; Times: 1
+	Query: "genus:orcinus" ; Times: 1
+	Query: "Sciurus niger tissue:1" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "genus:Mesoplodon" ; Times: 1
+	Query: "brain type:specimen (tissue OR preserved) tissue:1" ; Times: 1
+	Query: "stateprovince:"Valle del cauca" country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "genus:Monodon" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "Chaetodipus arenarius" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 84
+Total number of records retrieved from searches: 1291
+Number of download events that retrieved data from the resource: 90
+Total number of records downloaded: 11499
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 294
+Total number of records retrieved from searches: 2303
+Number of download events that retrieved data from the resource: 90
+Total number of records downloaded: 11499
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
