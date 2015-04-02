@@ -1,0 +1,210 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 1482
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Bolivia ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 64
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 7
+	Date: 2015-03-04 ; Times: 2
+	Date: 2015-03-05 ; Times: 5
+	Date: 2015-03-06 ; Times: 5
+	Date: 2015-03-07 ; Times: 3
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 6
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-13 ; Times: 2
+	Date: 2015-03-14 ; Times: 5
+	Date: 2015-03-15 ; Times: 4
+	Date: 2015-03-16 ; Times: 4
+	Date: 2015-03-17 ; Times: 4
+	Date: 2015-03-18 ; Times: 4
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-20 ; Times: 4
+	Date: 2015-03-21 ; Times: 3
+	Date: 2015-03-23 ; Times: 11
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-29 ; Times: 2
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "apodemus type:specimen institutioncode:UWBM" ; Times: 2
+	Query: "florence arizona" ; Times: 2
+	Query: "panthera onca country:"mexico"" ; Times: 1
+	Query: "vulpes velox" ; Times: 2
+	Query: "american pika" ; Times: 4
+	Query: "dasypus sabanicola" ; Times: 1
+	Query: "Panthera onca mexico" ; Times: 1
+	Query: "hyaena" ; Times: 1
+	Query: "stateprovince:"california" country:"mexico" year >= 1921 year <= 1922" ; Times: 1
+	Query: "catalognumber:74553 institutioncode:uwbm" ; Times: 1
+	Query: "Abrocoma" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "vulpes zerda" ; Times: 1
+	Query: "type:specimen stateprovince:"Washington" specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "Apodemus country:"russia" institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "abrocoma" ; Times: 3
+	Query: "Apodemus country:"Japan" institutioncode:UWBM" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "UWBM 67477" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "aotus" ; Times: 1
+	Query: "Spermophilus tridecemlineatus Ohio" ; Times: 1
+	Query: "stateprovince:"Tennessee" genus:Zapus" ; Times: 1
+	Query: "chiroptera nigeria" ; Times: 1
+	Query: "queen charlotte Ursus americanus type:specimen" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "apodemus type:specimen country:"china" institutioncode:UWBM" ; Times: 2
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "type:specimen specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+	Query: "pangolin" ; Times: 2
+	Query: "desert pocket mouse" ; Times: 1
+	Query: "Panthera onca United States" ; Times: 2
+	Query: "caenolestes" ; Times: 1
+	Query: "Apodemus institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "Apodemus country:"China" institutioncode:UWBM" ; Times: 1
+	Query: "Castor canadensis (measurements OR length OR weight)" ; Times: 1
+	Query: "aotus tissue:1" ; Times: 1
+	Query: "Sciurus (black OR melan*) tissue:1" ; Times: 1
+	Query: "American pika" ; Times: 1
+	Query: "Apodemus institutioncode:UWBM" ; Times: 2
+	Query: "class:Mammalia institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "cavia aperea" ; Times: 3
+	Query: "philander opossum" ; Times: 2
+	Query: "Draco tissue:1" ; Times: 1
+	Query: "Primate type:specimen (Macaque)" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "catalognumber:67456 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:hindei genus:Aethomys" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Mammalia Natrona" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "chiroptera country:"Brazil"" ; Times: 1
+	Query: "country:"japan" institutioncode:UWBM" ; Times: 3
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "guanaco" ; Times: 1
+	Query: "genus:Sciurus (black OR melan* OR dark) tissue:1" ; Times: 2
+	Query: "United States Brachylagus idahoensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 298 download events in this period)
+Total number of records downloaded: 36286 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 31635
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 2
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-07 ; Times: 3
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 7
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "chiroptera south Africa" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: ""Sciurus carolinensis" stateprovince:"California"" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "sciurus carolinensis type:specimen year <= 2015 tissue:1" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Tennessee"" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "canidae (weight OR mass)" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Sciurus (black OR melan*) tissue:1" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "specificepithet:gregalis genus:Microtus" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Peromyscus maniculatus AND (NOT Mexico) year >= 1950 year <= 2000 mappable:1" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Leopardus pardalis." ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: "chiroptera country:"Brazil"" ; Times: 1
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "chiroptera zambia" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "genus:Sciurus (black OR melan* OR dark) tissue:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 168
+Total number of records retrieved from searches: 2773
+Number of download events that retrieved data from the resource: 126
+Total number of records downloaded: 47785
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 378
+Total number of records retrieved from searches: 3785
+Number of download events that retrieved data from the resource: 126
+Total number of records downloaded: 47785
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
