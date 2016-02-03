@@ -1,0 +1,234 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 124
+Number of records retrieved in searches: 1556
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 2
+	Country: United States ; Times: 71
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: Russia ; Times: 13
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 5
+	Date: 2015-11-18 ; Times: 5
+	Date: 2015-11-30 ; Times: 8
+	Date: 2015-11-25 ; Times: 2
+	Date: 2015-11-11 ; Times: 4
+	Date: 2015-11-10 ; Times: 4
+	Date: 2015-11-13 ; Times: 9
+	Date: 2015-11-12 ; Times: 2
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-14 ; Times: 4
+	Date: 2015-11-17 ; Times: 9
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-06 ; Times: 7
+	Date: 2015-11-21 ; Times: 3
+	Date: 2015-11-22 ; Times: 5
+	Date: 2015-11-05 ; Times: 5
+	Date: 2015-11-08 ; Times: 3
+	Date: 2015-11-09 ; Times: 11
+	Date: 2015-11-28 ; Times: 2
+	Date: 2015-11-29 ; Times: 2
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-03 ; Times: 4
+	Date: 2015-11-26 ; Times: 4
+	Date: 2015-11-27 ; Times: 6
+	Date: 2015-11-20 ; Times: 3
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-04 ; Times: 2
+	Date: 2015-11-23 ; Times: 8
+	Date: 2015-11-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ring tail lemur" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "Sciuridae family:Sciuridae stateprovince:&#34;Florida&#34; continent:North America tissue:1" ; Times: 1
+	Query: "family:Rhinocerotidae" ; Times: 1
+	Query: "80723" ; Times: 1
+	Query: "wizard" ; Times: 10
+	Query: "trichechus" ; Times: 1
+	Query: "canis rufus mappable:1" ; Times: 1
+	Query: "Northern red-backed vole" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "sphiggurus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Saint Louis county Missouri" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "Brown rat" ; Times: 1
+	Query: "Anoura" ; Times: 1
+	Query: "Artibeus" ; Times: 1
+	Query: "80724" ; Times: 1
+	Query: "family:rhinocerotidae" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "mammalia pasco" ; Times: 3
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 3
+	Query: "edmonson" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:gorilla genus:gorilla" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "class:Mammalia polar bear" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(46.18204908154183,-122.15560913085938))&lt;12894" ; Times: 1
+	Query: "Phyllostomus" ; Times: 1
+	Query: "metachirus" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 2
+	Query: "OXAPAMPA" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "philander" ; Times: 1
+	Query: "distance(location,geopoint(46.191279,-122.180778))&lt;30000" ; Times: 1
+	Query: "33465" ; Times: 2
+	Query: "33462" ; Times: 2
+	Query: "SIRENIA" ; Times: 1
+	Query: "nyctimene" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(46.18204908154183,-122.15560913085938))&lt;26019" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "locality:Salome stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 1
+	Query: "66553" ; Times: 1
+	Query: "74990" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "african wild dog tissue:1" ; Times: 1
+	Query: "30141" ; Times: 1
+	Query: "Anoura geoffroyi stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus United States" ; Times: 1
+	Query: "tamandua" ; Times: 1
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "papio" ; Times: 1
+	Query: "10993" ; Times: 1
+	Query: "Desmodus" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "mustela nigripes" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Canis rufus" ; Times: 4
+	Query: "Neotoma lepida county:&#34;san diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "MA 102" ; Times: 1
+	Query: "specificepithet:leibii genus:Myotis" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 4
+	Query: "erinaceinae" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "mustela nigripes type:specimen year &gt;= 1921 year &lt;= 1925" ; Times: 1
+	Query: "Lemmiscus tissue:1" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "Aethomys chrysophilus" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "connochaetes" ; Times: 1
+	Query: "65941" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Lemmiscus type:specimen tissue:1" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "family:Pteropodidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Dipodomys compactus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 2
+	Query: "Tragelaphus" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "Edmonson" ; Times: 1
+	Query: "Glossophaga" ; Times: 1
+	Query: "marmota oregon" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "saint louis county missouri" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "33588" ; Times: 1
+	Query: "MONOTREMATA" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 751 download events in this period)
+Total number of records downloaded: 135727
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 84
+	Country: Unknown ; Times: 12
+	Country: South Korea ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 6
+	Date: 2015-11-02 ; Times: 6
+	Date: 2015-11-30 ; Times: 3
+	Date: 2015-11-03 ; Times: 15
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-10 ; Times: 4
+	Date: 2015-11-13 ; Times: 6
+	Date: 2015-11-12 ; Times: 4
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-17 ; Times: 7
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-07 ; Times: 4
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-25 ; Times: 3
+	Date: 2015-11-26 ; Times: 9
+	Date: 2015-11-01 ; Times: 5
+	Date: 2015-11-06 ; Times: 3
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-04 ; Times: 6
+	Date: 2015-11-05 ; Times: 9
+	Date: 2015-11-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Alces year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "cryptotis parva" ; Times: 1
+	Query: "african wild dog tissue:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "Crocidura lasiura" ; Times: 2
+	Query: "&#34;reithrodontomys megalotis&#34; AND &#34;Nevada&#34;" ; Times: 1
+	Query: "Bradypus" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "metachirus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:mammalia stateprovince:California" ; Times: 38
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Canis lupus North America" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lemmiscus type:specimen AND (NOT Female) tissue:1" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "canis rufus mappable:1" ; Times: 1
+	Query: "Dipodomys compactus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Brown rat" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 1
+	Query: "Dipodomys californicus" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "Myocastor" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 5
+	Query: "Microtus californicus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Lemmiscus tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
