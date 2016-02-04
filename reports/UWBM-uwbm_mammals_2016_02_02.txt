@@ -1,0 +1,276 @@
+Report for Institution Code UWBM, Resource Mammal
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 939
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Portugal ; Times: 1
+	Country: Russia ; Times: 13
+	Country: Sweden ; Times: 2
+	Country: United States ; Times: 82
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-04 ; Times: 4
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-07 ; Times: 6
+	Date: 2016-01-08 ; Times: 7
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-11 ; Times: 8
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 7
+	Date: 2016-01-15 ; Times: 6
+	Date: 2016-01-16 ; Times: 3
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-18 ; Times: 5
+	Date: 2016-01-19 ; Times: 8
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 15
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-24 ; Times: 2
+	Date: 2016-01-25 ; Times: 11
+	Date: 2016-01-26 ; Times: 7
+	Date: 2016-01-27 ; Times: 5
+	Date: 2016-01-28 ; Times: 8
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 1
+	Query: "Myoprocta" ; Times: 1
+	Query: "Erethizon dorsatum "North American porcupine" mappable:1" ; Times: 1
+	Query: "douglas squirrel King Washington" ; Times: 1
+	Query: "Lasiurus borealis Nebraska" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "Phocoenoides type:specimen AND (skeleton)" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "Phocoenoides dalli type:specimen" ; Times: 1
+	Query: "Choeronycteris mexicana and Arizona" ; Times: 2
+	Query: "wizard" ; Times: 4
+	Query: "genus:Sorex county:"Douglas" stateprovince:"Oregon"" ; Times: 1
+	Query: "reithrodontomys sumichrasti type:specimen country:"mexico" year >= 1960 year <= 2015" ; Times: 7
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "raphanurus" ; Times: 1
+	Query: "79-64" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year>=1916 year<=1920" ; Times: 1
+	Query: "Galea" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Pan type:specimen (paniscus OR troglodytes)" ; Times: 1
+	Query: "type:specimen catalognumber:61351 institutioncode:UWBM" ; Times: 1
+	Query: "Zapus stateprovince:"Tennessee"" ; Times: 1
+	Query: "vampire" ; Times: 10
+	Query: "UWBM 66117" ; Times: 1
+	Query: "Myotis sodalis (Virginia) AND (NOT West)" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "spotted owl" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Phocoenoides type:specimen" ; Times: 3
+	Query: "Balaenoptera physalus year >= 1800 year <= 1900" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"Minnesota"" ; Times: 1
+	Query: "Felis margarita" ; Times: 1
+	Query: "lasiurus borealis stateprovince:"Nebraska"" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "golden jackal" ; Times: 1
+	Query: "orca year >= 1940 year <= 1970" ; Times: 1
+	Query: "specificepithet:stephensi genus:Dipodomys county:"San Diego"" ; Times: 1
+	Query: "Chaetodipus californicus institutioncode:UWBM" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 7
+	Query: "type:specimen specificepithet:sumichrasti genus:reithrodontomys country:"mexico" year >= 1960 year <= 2015" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "cetacea AND complete skel" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "Suricatta" ; Times: 1
+	Query: "Long tail weasel" ; Times: 1
+	Query: "orcinus orca" ; Times: 4
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "specificepithet:subflavus stateprovince:"Arkansas" country:"United States"" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 3
+	Query: "killer whale" ; Times: 1
+	Query: "Dipodomys stephensi county:"San Diego"" ; Times: 2
+	Query: "armadillo" ; Times: 1
+	Query: "douglas squirrel" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 3
+	Query: "distance(location,geopoint(21.439036,-105.197516))<15000" ; Times: 1
+	Query: "genus:Sorex county:"Lincoln" stateprovince:"Oregon"" ; Times: 1
+	Query: "coati" ; Times: 1
+	Query: "species Lasiurus borealis Nebraska" ; Times: 1
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "Long-tail Weasel" ; Times: 1
+	Query: "Phocoenoides dalli PreservedSpecimen type:specimen" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "right whale" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 2
+	Query: "cetacea AND skel" ; Times: 1
+	Query: "mustela ermine from north america" ; Times: 1
+	Query: "Dipodomys merriami county:"San Diego"" ; Times: 2
+	Query: "north pacific right whale" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "Vespertilionidae Colombia" ; Times: 1
+	Query: "Lasiurus Nebraska" ; Times: 1
+	Query: "Callithrix pygmaea type:specimen" ; Times: 1
+	Query: "catalognumber:38170 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "unicorn" ; Times: 8
+	Query: "specificepithet:fallax genus:Chaetodipus county:"Riverside"" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "canis aureus" ; Times: 3
+	Query: "genus:Neotoma stateprovince:"Tennessee"" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "enhydra lutris california" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 507 download events in this period)
+Total number of records downloaded: 13804 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11745
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 19
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 37
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-04 ; Times: 7
+	Date: 2016-01-05 ; Times: 10
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-11 ; Times: 4
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-30 ; Times: 3
+	Date: 2016-01-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "reithrodontomys sumichrasti" ; Times: 1
+	Query: "genus:Sorex county:"Yamhill" stateprovince:"Oregon"" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Phocoenoides dalli type:specimen" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex" ; Times: 1
+	Query: "Vespertilionidae Colombia" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Phocoenoides type:specimen" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"Minnesota"" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "Felis margarita" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: ""False Bay"" ; Times: 1
+	Query: "Gulo gulo "wolverine" mappable:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "raphanurus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "genus:Sorex county:"Lincoln" stateprovince:"Oregon"" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Otocolobus manul" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "genus:Sorex county:"Linn" stateprovince:"Oregon"" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 69
+Total number of records downloaded: 13804
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 139
+Total number of records retrieved from searches: 939
+Number of download events that retrieved data from the resource: 69
+Total number of records downloaded: 13804
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
