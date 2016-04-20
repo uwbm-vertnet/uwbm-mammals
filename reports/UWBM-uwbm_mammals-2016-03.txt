@@ -1,0 +1,145 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 2183
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: United States ; Times: 77
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 5
+	Date: 2016-03-11 ; Times: 7
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 15
+	Date: 2016-03-06 ; Times: 3
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-04 ; Times: 4
+	Date: 2016-03-05 ; Times: 27
+	Date: 2016-03-02 ; Times: 5
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Marmota broweri" ; Times: 2
+	Query: "locality:Ceres stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vulpes velox" ; Times: 4
+	Query: "UWBM 70800" ; Times: 1
+	Query: "recordedby:bodley" ; Times: 2
+	Query: "genus:rhinolophus order:chiroptera class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+	Query: "genus:cricetomys order:rodentia class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "order:primates stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Bodley" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Bodley" ; Times: 1
+	Query: "mesoplodon" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:Bodley" ; Times: 3
+	Query: "parvus mappable:1 tissue:1" ; Times: 2
+	Query: "order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:lar genus:hylobates" ; Times: 2
+	Query: "wizard" ; Times: 3
+	Query: "&#34;I.McT. Cowan&#34;" ; Times: 4
+	Query: "vampire" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "spermophilus mollis" ; Times: 1
+	Query: "stateprovince:&#34;Sinaloa&#34; recordedby:Bodley" ; Times: 1
+	Query: "recordedby:Bodley year &gt;= 1963 year &lt;= 1964" ; Times: 2
+	Query: "&#34;I.McT. Cowan&#34; Mammalia" ; Times: 2
+	Query: "parvus AND (parvus) mappable:1 tissue:1" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "Dipodomys ingens" ; Times: 3
+	Query: "Essex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "spermophilus washingtoni" ; Times: 1
+	Query: "mimon bennettii" ; Times: 1
+	Query: "type:specimen distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;100000" ; Times: 1
+	Query: "genus:puma specificepithet:concolor" ; Times: 2
+	Query: "country:&#34;mexico&#34; recordedby:bodley" ; Times: 1
+	Query: "gregg" ; Times: 2
+	Query: "genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Diphylla" ; Times: 1
+	Query: "recordedby:Bodley" ; Times: 5
+	Query: "giraffe" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:Bodley" ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "hylobates lar lar" ; Times: 1
+	Query: "recordedby:Bodley year &gt;= 1961 year &lt;= 1961" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:bodley" ; Times: 1
+	Query: "country:&#34;Panama&#34; recordedby:Bodley year &gt;= 1963 year &lt;= 1964" ; Times: 1
+	Query: "Bodley type:specimen" ; Times: 6
+	Query: "Thomomys townsendii usa" ; Times: 1
+	Query: "class:mammalia recordedby:Bodley" ; Times: 1
+	Query: "diphylla" ; Times: 2
+	Query: "neotoma lepida utah" ; Times: 3
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "anoa" ; Times: 1
+	Query: "san bernardino kangaroo rat" ; Times: 1
+	Query: "genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "country:&#34;peru&#34; recordedby:Bodley" ; Times: 1
+	Query: "spermophilus saturatus" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:Bodley year &gt;= 1960" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:californicus genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 230 download events in this period)
+Total number of records downloaded: 285397
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 48
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 14
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "Sigmodontinae" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "tissue" ; Times: 39
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Bodley type:specimen" ; Times: 1
+	Query: "anoa" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Essex stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
