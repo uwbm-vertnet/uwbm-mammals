@@ -1,0 +1,366 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 444
+Number of records retrieved in searches: 3905
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 133
+	Country: United States ; Times: 241
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 13
+	Country: Russia ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 14
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 23
+	Date: 2016-04-06 ; Times: 21
+	Date: 2016-04-05 ; Times: 13
+	Date: 2016-04-04 ; Times: 8
+	Date: 2016-04-21 ; Times: 13
+	Date: 2016-04-20 ; Times: 29
+	Date: 2016-04-09 ; Times: 8
+	Date: 2016-04-08 ; Times: 21
+	Date: 2016-04-25 ; Times: 19
+	Date: 2016-04-24 ; Times: 11
+	Date: 2016-04-27 ; Times: 78
+	Date: 2016-04-26 ; Times: 14
+	Date: 2016-04-22 ; Times: 27
+	Date: 2016-04-18 ; Times: 13
+	Date: 2016-04-19 ; Times: 10
+	Date: 2016-04-14 ; Times: 20
+	Date: 2016-04-15 ; Times: 9
+	Date: 2016-04-16 ; Times: 7
+	Date: 2016-04-17 ; Times: 12
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 7
+	Date: 2016-04-12 ; Times: 9
+	Date: 2016-04-13 ; Times: 21
+	Date: 2016-04-29 ; Times: 28
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-23 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "family:tapiridae tissue:1" ; Times: 6
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "type:specimen genus:bassariscus stateprovince:&#34;texas&#34; mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(26.879036,-108.427516))&lt;15000" ; Times: 1
+	Query: "57321" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.847516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-110.297516))&lt;15000" ; Times: 1
+	Query: "vampire" ; Times: 18
+	Query: "order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 5
+	Query: "Paramelomys" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-113.017516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.887516))&lt;15000" ; Times: 1
+	Query: "Nectomys magdalenae" ; Times: 3
+	Query: "monroe country year &gt;= 1912 year &lt;= 1928" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-114.717516))&lt;15000" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.977516))&lt;15000" ; Times: 1
+	Query: "specificepithet:sanguinea genus:galerella order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Camp AND Catalina" ; Times: 1
+	Query: "wizard" ; Times: 16
+	Query: "150 ONTARIO 1" ; Times: 1
+	Query: "Bassariscus type:specimen stateprovince:&#34;Texas&#34; mappable:1" ; Times: 5
+	Query: "distance(location,geopoint(31.979036,-112.847516))&lt;15000" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus catalognumber:35265 institutioncode:UWBM" ; Times: 1
+	Query: "Balaenoptera" ; Times: 1
+	Query: "genus: Bassariscus (Texas) mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.657516))&lt;15000" ; Times: 1
+	Query: "american marten" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.467516))&lt;15000" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.447516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.147516))&lt;15000" ; Times: 2
+	Query: "38882" ; Times: 1
+	Query: "UWBM 76903" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.147516))&lt;15000" ; Times: 1
+	Query: "family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.617516))&lt;15000" ; Times: 1
+	Query: "catalognumber:54002 institutioncode:UWBM" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "microtus pennsylvanicus tennessee" ; Times: 1
+	Query: "stateprovince:&#34;boyaca&#34; country:&#34;colombia&#34;" ; Times: 2
+	Query: "58425" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "specificepithet:parvula genus:Helogale family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 81
+	Query: "specificepithet:tigrina genus:genetta order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.487516))&lt;15000" ; Times: 1
+	Query: "Plaskett stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "ATELES" ; Times: 1
+	Query: "tapir tissue:1" ; Times: 3
+	Query: "guanaco" ; Times: 5
+	Query: "panthera tigris tissue:1" ; Times: 4
+	Query: "specificepithet:parvula genus:helogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Herpestes" ; Times: 5
+	Query: "distance(location,geopoint(22.629036,-105.877516))&lt;15000" ; Times: 1
+	Query: "Bassariscus type:specimen (Texas) mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:davis" ; Times: 1
+	Query: "sphiggurus" ; Times: 7
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "Panthera onca mexico" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-113.527516))&lt;15000" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 3
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "type:specimen genus:Mirounga order:Carnivora" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-112.677516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Sphiggurus" ; Times: 1
+	Query: "family:dasypodidae preparations:skel" ; Times: 1
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "Viverridae" ; Times: 1
+	Query: "Lasiurus AND Island" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.977516))&lt;15000" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "catalognumber:53958 institutioncode:UWBM" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-113.017516))&lt;15000" ; Times: 1
+	Query: "175 ONTARIO 1" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.707516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "UWBM 70308" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-106.557516))&lt;15000" ; Times: 1
+	Query: "Bassariscus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.957516))&lt;15000" ; Times: 2
+	Query: "Bassariscus type:specimen stateprovince:&#34;texas&#34; mappable:1" ; Times: 1
+	Query: "Spermophilus mohavensis" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-105.367516))&lt;15000" ; Times: 5
+	Query: "helogale weight" ; Times: 2
+	Query: "distance(location,geopoint(21.439036,-105.197516))&lt;15000" ; Times: 6
+	Query: "57993" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Chiricahua Mountains (Mammalia)" ; Times: 4
+	Query: "taxidea county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "skel family:dasypodidae" ; Times: 2
+	Query: "pika" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-105.027516))&lt;15000" ; Times: 6
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-113.527516))&lt;15000" ; Times: 1
+	Query: "humpback whale" ; Times: 1
+	Query: "county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "182 ONTARIO 1" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-107.747516))&lt;15000" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "dipodomys merriami tucson" ; Times: 1
+	Query: "boyaca" ; Times: 1
+	Query: "dipodomys deserti (nevada)" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "lorentzimys" ; Times: 2
+	Query: "pronghorn" ; Times: 1
+	Query: "Spilogale AND Island" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.487516))&lt;15000" ; Times: 1
+	Query: "UWBM 70137" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.127516))&lt;15000" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.637516))&lt;15000" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia (weight)" ; Times: 4
+	Query: "distance(location,geopoint(29.939036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Bassariscus texas type:specimen mappable:1" ; Times: 1
+	Query: "75377" ; Times: 2
+	Query: "distance(location,geopoint(23.479036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Swan Island United States" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-112.677516))&lt;15000" ; Times: 1
+	Query: "specificepithet:latrans genus:canis country:&#34;United States&#34; tissue:1" ; Times: 1
+	Query: "type:specimen genus:Bison mappable:1" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus stateprovince:&#34;Idaho&#34; mappable:1" ; Times: 1
+	Query: "Lawton" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.317516))&lt;15000" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Tennessee&#34;" ; Times: 4
+	Query: "white tailed deer usa" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Microtus townsendii&#34;" ; Times: 2
+	Query: "63498" ; Times: 1
+	Query: "county:&#34;Madison&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.717516))&lt;15000" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-114.887516))&lt;15000" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.187516))&lt;15000" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Pogonomys" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-112.337516))&lt;15000" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "capromys" ; Times: 1
+	Query: "UWBM 70801" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-113.017516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.787516))&lt;15000" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "UWBM 70490" ; Times: 1
+	Query: "genus:Bassariscus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:74533 institutioncode:UWBM" ; Times: 2
+	Query: "38875" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-114.037516))&lt;15000" ; Times: 1
+	Query: "pogonomys" ; Times: 1
+	Query: "genus:peromyscus locality:chiricahua" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Chiricahua Mountains (Mammalia Carnivora )" ; Times: 1
+	Query: "184 ONTARIO 1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.977516))&lt;15000" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-109.107516))&lt;15000" ; Times: 1
+	Query: "family:equidae tissue:1" ; Times: 6
+	Query: "distance(location,geopoint(31.809036,-109.447516))&lt;15000" ; Times: 1
+	Query: "specificepithet:sanguinea genus:Galerella family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-108.767516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-105.197516))&lt;15000" ; Times: 7
+	Query: "Nigeria class:Mammalia" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.467516))&lt;15000" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus catalognumber:35263 institutioncode:UWBM" ; Times: 1
+	Query: "Euderma type:specimen tissue:1" ; Times: 1
+	Query: "38 ONTARIO 1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus catalognumber:35264 institutioncode:UWBM" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "stateprovince:&#34;indiana&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-114.207516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-105.367516))&lt;15000" ; Times: 5
+	Query: "distance(location,geopoint(31.299036,-109.107516))&lt;15000" ; Times: 2
+	Query: "Bassariscus texas type:specimen" ; Times: 1
+	Query: "georgia southern" ; Times: 3
+	Query: "unicorn" ; Times: 2
+	Query: "stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34; mappable:1" ; Times: 2
+	Query: "Spilogale AND Island NOT Oak" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34; institutioncode:UWBM" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-105.027516))&lt;15000" ; Times: 8
+	Query: "distance(location,geopoint(31.979036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "53833 uwbm" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "UWBM 54002" ; Times: 1
+	Query: "skel family:echimyidae" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Lorentzimys" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.657516))&lt;15000" ; Times: 2
+	Query: "order:cetacea (orca)" ; Times: 3
+	Query: "distance(location,geopoint(31.979036,-113.017516))&lt;15000" ; Times: 1
+	Query: "151 ONTARIO 1" ; Times: 1
+	Query: "98 ONTARIO 1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-114.207516))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 137 (out of 1312 download events in this period)
+Total number of records downloaded: 20559
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 101
+	Country: Unknown ; Times: 22
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 14
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 7
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-22 ; Times: 5
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 8
+	Date: 2016-04-26 ; Times: 5
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 11
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;Virginia&#34; (county:Accomack OR county:Northampton )" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "sciurus aberti" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus stateprovince:&#34;Idaho&#34; mappable:1" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "dipodomys deserti (nevada)" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+
+
+End of report.
