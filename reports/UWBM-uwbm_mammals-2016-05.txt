@@ -1,0 +1,185 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 157
+Number of records retrieved in searches: 852
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 4
+	Country: Chile ; Times: 10
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 4
+	Country: United States ; Times: 90
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 15
+	Country: Denmark ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Nicaragua ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 6
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 7
+	Date: 2016-05-15 ; Times: 7
+	Date: 2016-05-14 ; Times: 2
+	Date: 2016-05-13 ; Times: 16
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-11 ; Times: 4
+	Date: 2016-05-10 ; Times: 6
+	Date: 2016-05-31 ; Times: 44
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 4
+	Date: 2016-05-03 ; Times: 5
+	Date: 2016-05-05 ; Times: 7
+	Date: 2016-05-06 ; Times: 2
+	Date: 2016-05-07 ; Times: 6
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 5
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 8
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 5
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "57306" ; Times: 1
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "meles meles" ; Times: 4
+	Query: "specificepithet:palmeri genus:Tamias" ; Times: 1
+	Query: "cyclopes didactylus" ; Times: 12
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 11
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "marmot" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "cm 349" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Marmota sibirica" ; Times: 3
+	Query: "cyclopes" ; Times: 1
+	Query: "sturnira erythromos" ; Times: 3
+	Query: "petaurista" ; Times: 2
+	Query: "Dromiciops gliroides" ; Times: 10
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "Dipodomys heermanni tissue:1" ; Times: 3
+	Query: "black bear" ; Times: 1
+	Query: "Gulo weight" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "specificepithet:sonomae genus:Tamias" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "vampire" ; Times: 5
+	Query: "Helogale Kenya" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "Tachyglossidae" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:Bodley year &gt;= 1960" ; Times: 1
+	Query: "sphiggurus" ; Times: 2
+	Query: "microtus abbreviatus" ; Times: 1
+	Query: "honey lake lassen" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:panamintinus genus:Tamias institutioncode:UWBM" ; Times: 1
+	Query: "Heterohyrax brucei Kenya" ; Times: 1
+	Query: "distance(location,geopoint(27.149036,-109.367516))&lt;15000" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "R-67076" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "departamento de guatemala" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "dasypus sabanicola" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Helogale Tanzania" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "dipodomys compactus" ; Times: 2
+	Query: "country:&#34;mexico&#34; recordedby:booth year &gt;= 1960 year &lt;= 1960" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:rufus genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 5
+	Query: "specificepithet:Alpinus genus:Tamias" ; Times: 1
+	Query: "baculum mole" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 2
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "Marmota monax year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Sciurus griseus anthonyi" ; Times: 1
+	Query: "microtus abbreviatus north america" ; Times: 1
+	Query: "panthera tigris tissue:1" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34;" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 327 download events in this period)
+Total number of records downloaded: 13871
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-31 ; Times: 32
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Dipodomys heermanni tissue:1" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+
+
+End of report.
