@@ -1,0 +1,625 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 587
+Number of records retrieved in searches: 2253
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 52
+	Country: United States ; Times: 395
+	Country: Israel ; Times: 4
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 30
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 10
+	Country: Denmark ; Times: 54
+	Country: Finland ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Singapore ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Vietnam ; Times: 2
+	Country: China ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 16
+	Date: 2018-02-08 ; Times: 19
+	Date: 2018-02-03 ; Times: 24
+	Date: 2018-02-02 ; Times: 42
+	Date: 2018-02-01 ; Times: 70
+	Date: 2018-02-07 ; Times: 46
+	Date: 2018-02-06 ; Times: 34
+	Date: 2018-02-05 ; Times: 18
+	Date: 2018-02-04 ; Times: 42
+	Date: 2018-02-21 ; Times: 14
+	Date: 2018-02-20 ; Times: 26
+	Date: 2018-02-23 ; Times: 14
+	Date: 2018-02-22 ; Times: 18
+	Date: 2018-02-25 ; Times: 8
+	Date: 2018-02-24 ; Times: 7
+	Date: 2018-02-27 ; Times: 27
+	Date: 2018-02-26 ; Times: 18
+	Date: 2018-02-28 ; Times: 13
+	Date: 2018-02-14 ; Times: 9
+	Date: 2018-02-15 ; Times: 17
+	Date: 2018-02-16 ; Times: 16
+	Date: 2018-02-17 ; Times: 6
+	Date: 2018-02-10 ; Times: 5
+	Date: 2018-02-11 ; Times: 4
+	Date: 2018-02-12 ; Times: 10
+	Date: 2018-02-13 ; Times: 34
+	Date: 2018-02-18 ; Times: 19
+	Date: 2018-02-19 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "(63074) institutioncode:UWBM" ; Times: 4
+	Query: "Dicerorhinus sumatrensis sumatrensis" ; Times: 1
+	Query: "Pudu puda" ; Times: 2
+	Query: "locality:Oxapampa stateprovince:&#34;Pasco&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Dipodomys order:Rodentia county:&#34;Cochise&#34; year &gt;= 2007" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon institutioncode:UWBM" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "catalognumber:20110 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:alpinus genus:Cuon" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "(63198) institutioncode:UWBM" ; Times: 4
+	Query: "nasua nasua mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive)" ; Times: 1
+	Query: "UWBM 46760" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Nacogdoches&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "Aotus" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Mustelidae hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(45.9339361265001,-95.975625537))&lt;25696" ; Times: 4
+	Query: "specificepithet:angustirostris genus:Mirounga" ; Times: 1
+	Query: "notiosorex crawfordi california" ; Times: 1
+	Query: "specificepithet:azarae genus:akodon hasmass:1" ; Times: 1
+	Query: "&#34;napaeozapus insignis&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes institutioncode:UWBM" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 3
+	Query: "Eubalaena australis " ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Spalacopus cyanus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 6
+	Query: "35931" ; Times: 1
+	Query: "specificepithet:splendens genus:tACHYORYCTES country:&#34;KENYA&#34; institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:bison genus:Bison preparations:flat skin" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "vntype:specimen country:&#34;United States&#34; (pan troglodytes)" ; Times: 1
+	Query: "specificepithet:ignitus genus:acomys country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 2
+	Query: "genus:Dipodomys order:Rodentia county:&#34;Cochise&#34; year &gt;= 2017" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UWBM:Mamm:81139?seid=3649062&#34;" ; Times: 2
+	Query: "&#34;mephitis mephitis&#34; vntype:specimen country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "PSM#2367" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UWBM:Mamm:82500?seid=3647896&#34;" ; Times: 2
+	Query: "vntype:specimen country:&#34;United States&#34; (colobus guereza)" ; Times: 3
+	Query: "Ursus maritimus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Alopex" ; Times: 1
+	Query: "vntype:specimen (colobus guereza) institutioncode:UWBM" ; Times: 1
+	Query: "&#34;sylvilagus floridanus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;peromyscus gossypinus&#34; vntype:specimen stateprovince:&#34;Florida&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 4
+	Query: "UWBM 51054" ; Times: 1
+	Query: "placenta" ; Times: 1
+	Query: "Cervus nippon" ; Times: 22
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 4
+	Query: "vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 2
+	Query: "specificepithet:flavus genus:Perognathus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UWBM:Mamm:80795?seid=3650511&#34;" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo)" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo)" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "vntype:specimen specificepithet:pictus genus:Lycaon institutioncode:UWBM" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (callithrix)" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "specificepithet:splendens genus:tachyoryctes country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 2
+	Query: "Myotis formosus " ; Times: 1
+	Query: "wood turtle" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UWBM:Mamm:60332?seid=3621050&#34;" ; Times: 4
+	Query: "Equus asinus asinus" ; Times: 2
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UWBM:Mamm:20643?seid=3640556&#34;" ; Times: 4
+	Query: "specificepithet:cristata genus:hystrix" ; Times: 1
+	Query: "Hipposideros bicolor" ; Times: 1
+	Query: "specificepithet:ingens genus:Dipodomys county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Epomophorus minimus " ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "viverridae" ; Times: 3
+	Query: "specificepithet:terrestris genus:arvicola hasmass:1" ; Times: 1
+	Query: "Megaerops wetmorei " ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "Ovis canadensis mappable:1" ; Times: 3
+	Query: "genus:rattus stateprovince:&#34;Alaska&#34;" ; Times: 6
+	Query: "Olympus National Park" ; Times: 1
+	Query: "melursus" ; Times: 1
+	Query: "scientificname:&#34;myotis formosus&#34;" ; Times: 1
+	Query: "monotremata" ; Times: 1
+	Query: "Raphicerus melanotis " ; Times: 1
+	Query: "vntype:specimen specificepithet:zerda genus:Vulpes (zoo OR captive) institutioncode:UWBM" ; Times: 1
+	Query: "order:dermoptera mappable:1" ; Times: 2
+	Query: "genus:Nycticeius stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes (zoo OR captive) institutioncode:UWBM" ; Times: 1
+	Query: "uwbm 60062" ; Times: 2
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 26
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UWBM:Mamm:81823?seid=3650518&#34;" ; Times: 2
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:hystrix" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Tick Island" ; Times: 1
+	Query: "Myotis ikonnikovi " ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Cephalophus natalensis " ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo) institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "specificepithet:splendens genus:tACHYORYCTES country:&#34;KENYA&#34;" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (pongo pygmaeus)" ; Times: 1
+	Query: "grampus" ; Times: 1
+	Query: "scientificname:&#34;chaetophractus nationi&#34;" ; Times: 1
+	Query: "catalognumber:43401 &#34;tamias striatus&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;mexico&#34;" ; Times: 1
+	Query: "&#34;mephitis mephitis&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo) institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:abbreviatus genus:Microtus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "chaetodipus pernix" ; Times: 1
+	Query: "64210" ; Times: 1
+	Query: "uwbm 73027" ; Times: 1
+	Query: "vntype:specimen specificepithet:brevicauda genus:Blarina stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "Equus asinus" ; Times: 2
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;marmota monax&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34; continent:North America lengthtype:total length mappable:1" ; Times: 1
+	Query: "Monodon monoceros mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UWBM:Mamm:39479?seid=3659041&#34;" ; Times: 4
+	Query: "specificepithet:gambianus genus:cricetomys country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Lorentzimys nouhuysi " ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UWBM:Mamm:20611?seid=3647278&#34;" ; Times: 4
+	Query: "Catopuma temminckii " ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (hylobates) institutioncode:UWBM" ; Times: 1
+	Query: "80294" ; Times: 1
+	Query: "Leopardus wiedii mappable:1" ; Times: 1
+	Query: "shrew stateprovince:&#34;Washington&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "Alces alces alces" ; Times: 3
+	Query: "myocastor coypus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive) institutioncode:UWBM" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Otocolobus manul " ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus class:Mammalia county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UWBM:Mamm:80798?seid=3644481&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes institutioncode:UWBM" ; Times: 1
+	Query: "(66046) institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera preparations:baleen" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "specificepithet:pinetorum genus:microtus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "13773" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:flavus genus:perognathus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "(66083) institutioncode:UWBM" ; Times: 2
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Alopex institutioncode:UWBM" ; Times: 1
+	Query: "13778" ; Times: 1
+	Query: "79588" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "arctictis" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (macaca mulatta)" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "orcinus orca" ; Times: 2
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:procyonoides genus:Nyctereutes institutioncode:UWBM" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 3
+	Query: "uwbm 59971" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Capra caucasica" ; Times: 3
+	Query: "vntype:specimen country:&#34;United States&#34; (ateles) institutioncode:UWBM" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "UWBM 55918" ; Times: 1
+	Query: "Arizona wet canyon" ; Times: 1
+	Query: "Chaetophractus nationi" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (macaca) institutioncode:UWBM" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "(58811) institutioncode:UWBM" ; Times: 2
+	Query: "vntype:specimen country:&#34;United States&#34; (colobus) institutioncode:UWBM" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Alces alces" ; Times: 3
+	Query: "myotis stateprovince:&#34;nuevo leon&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon institutioncode:UWBM" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:CAUCASICA genus:CAPRA" ; Times: 3
+	Query: "specificepithet:derbianus genus:Caluromys" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 4
+	Query: "mammal hill texas" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UWBM:Mamm:39447?seid=3647924&#34;" ; Times: 4
+	Query: "Pinus contorta" ; Times: 56
+	Query: "grampus griseus" ; Times: 3
+	Query: "Dasypus sabanicola " ; Times: 1
+	Query: "Genetta genetta mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (colobus)" ; Times: 1
+	Query: "cuon alpinus" ; Times: 4
+	Query: "Nycticebus pygmaeus" ; Times: 2
+	Query: "didelphis marsupialis" ; Times: 4
+	Query: "vntype:specimen genus:gorilla preparations:skeleton" ; Times: 1
+	Query: "catalognumber:63735 institutioncode:UWBM" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:alpinus genus:Cuon institutioncode:UWBM" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:zerda genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "bubalus depressicornis" ; Times: 1
+	Query: "specificepithet:kuhlii genus:Scotophilus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta) institutioncode:UWBM" ; Times: 1
+	Query: "Rousettus amplexicaudatus hastissue:1" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "Tragelaphus angasii" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UWBM:Mamm:33360?seid=3639424&#34;" ; Times: 4
+	Query: "specificepithet:cinerea county:&#34;Washington&#34;" ; Times: 2
+	Query: "Ovis dalli mappable:1" ; Times: 3
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "UWBM 55919" ; Times: 1
+	Query: "country:&#34;south africa&#34; year &gt;= 2015" ; Times: 1
+	Query: "neofelis" ; Times: 2
+	Query: "&#34;peromyscus gossypinus&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "UWBM 59083" ; Times: 1
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "Dicerorhinus sumatrensis" ; Times: 10
+	Query: "UWBM 59011" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "Peromyscus attwateri" ; Times: 2
+	Query: "lacm 52-51" ; Times: 1
+	Query: "Tragelaphus strepsiceros" ; Times: 1
+	Query: "Mirza" ; Times: 2
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:zerda genus:Vulpes institutioncode:UWBM" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "specificepithet:ignitus genus:acomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "arctocephalus townsendi" ; Times: 29
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:palustris genus:oryzomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Sturnira erythromos" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "specificepithet:tridecemlineatus stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "&#34;marmota monax&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "hylobates lar" ; Times: 2
+	Query: "specificepithet:gambianus genus:Cricetomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "specificepithet:attwateri genus:peromyscus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "specificepithet:nuttalli genus:ochrotomys stateprovince:&#34;kentucky&#34;" ; Times: 2
+	Query: "unicorn" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:palustris genus:oryzomys stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:longimembris county:&#34;San Diego&#34;" ; Times: 2
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:35240 &#34;marmota monax&#34;" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 4
+	Query: "(60248) institutioncode:UWBM" ; Times: 4
+	Query: "genus:mus country:&#34;Canada&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:UWBM" ; Times: 2
+	Query: "(60315) institutioncode:UWBM" ; Times: 2
+	Query: "lepus timidus" ; Times: 1
+	Query: "sylvilagus floridanus massachusetts" ; Times: 1
+	Query: "Scotophilus kuhlii" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 2
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 4
+	Query: "scientificname:&#34;dasypus sabanicola&#34;" ; Times: 1
+	Query: "specificepithet:gambianus genus:Cricetomys country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 250 (out of 1892 download events in this period)
+Total number of records downloaded: 29522
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 35
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 15
+	Country: United States ; Times: 184
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 6
+	Date: 2018-02-02 ; Times: 8
+	Date: 2018-02-01 ; Times: 133
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-05 ; Times: 8
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 5
+	Date: 2018-02-20 ; Times: 9
+	Date: 2018-02-23 ; Times: 9
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-28 ; Times: 5
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 4
+	Date: 2018-02-16 ; Times: 4
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-12 ; Times: 11
+	Date: 2018-02-13 ; Times: 24
+	Date: 2018-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "specificepithet:azarae genus:akodon hasmass:1" ; Times: 1
+	Query: "Abrothrix longipilis" ; Times: 1
+	Query: "Phyllotis darwini" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Pteronotus personatus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Spalacopus cyanus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Sturnira lilium" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Procyon stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 11
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;peromyscus gossypinus&#34; vntype:specimen stateprovince:&#34;Florida&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "vntype:specimen specificepithet:merriami genus:Dipodomys country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Gerbillus" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; continent:North America lengthtype:total length mappable:1" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:cristata genus:hystrix" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "genus:rattus stateprovince:&#34;Alaska&#34;" ; Times: 4
+	Query: "melursus" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Glossophaga longirostris" ; Times: 1
+	Query: "order:dermoptera mappable:1" ; Times: 2
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "Rousettus amplexicaudatus hastissue:1" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;mexico&#34;" ; Times: 1
+	Query: "&#34;mephitis mephitis&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "specificepithet:nuttalli genus:ochrotomys stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "mammal minnesota" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;marmota monax&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;napaeozapus insignis&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34; continent:North America lengthtype:total length mappable:1" ; Times: 1
+	Query: "vntype:specimen (colobus guereza)" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "specificepithet:sibiricus genus:lemmus hasmass:1" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Sturnira erythromos" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "specificepithet:pinetorum genus:microtus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "specificepithet:ludovici genus:Sturnira" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Tamias merriami" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 2
+	Query: "Chaetophractus nationi" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Akodon azarae" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "vntype:specimen specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Spermophilus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Reithrodontomys sumichrasti" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "specificepithet:kuhlii genus:Scotophilus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Abrothrix andinus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "&#34;peromyscus gossypinus&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Sylvicapra grimmia" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;marmota monax&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "specificepithet:attwateri genus:peromyscus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 2
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "specificepithet:trimucronatus genus:lemmus hasmass:1" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "order:Rodentia class:Mammalia stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "&#34;sylvilagus floridanus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Rhinophylla pumilio" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+
+End of report.
