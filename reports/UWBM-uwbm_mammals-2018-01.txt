@@ -1,0 +1,527 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 595
+Number of records retrieved in searches: 3092
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 5
+	Country: Italy ; Times: 9
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 65
+	Country: Unknown ; Times: 4
+	Country: Finland ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Luxembourg ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 382
+	Country: Peru ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 14
+	Country: Colombia ; Times: 5
+	Country: Denmark ; Times: 92
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 10
+	Date: 2018-01-18 ; Times: 15
+	Date: 2018-01-31 ; Times: 25
+	Date: 2018-01-30 ; Times: 18
+	Date: 2018-01-11 ; Times: 9
+	Date: 2018-01-10 ; Times: 25
+	Date: 2018-01-13 ; Times: 21
+	Date: 2018-01-12 ; Times: 14
+	Date: 2018-01-15 ; Times: 50
+	Date: 2018-01-14 ; Times: 29
+	Date: 2018-01-17 ; Times: 24
+	Date: 2018-01-16 ; Times: 68
+	Date: 2018-01-24 ; Times: 28
+	Date: 2018-01-25 ; Times: 43
+	Date: 2018-01-08 ; Times: 15
+	Date: 2018-01-09 ; Times: 8
+	Date: 2018-01-28 ; Times: 15
+	Date: 2018-01-29 ; Times: 5
+	Date: 2018-01-02 ; Times: 22
+	Date: 2018-01-03 ; Times: 11
+	Date: 2018-01-26 ; Times: 14
+	Date: 2018-01-01 ; Times: 4
+	Date: 2018-01-06 ; Times: 6
+	Date: 2018-01-21 ; Times: 10
+	Date: 2018-01-22 ; Times: 22
+	Date: 2018-01-07 ; Times: 3
+	Date: 2018-01-04 ; Times: 11
+	Date: 2018-01-05 ; Times: 12
+	Date: 2018-01-23 ; Times: 45
+	Date: 2018-01-27 ; Times: 7
+	Date: 2018-01-20 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(39.9847956976,-80.7616277378601))&lt;18440" ; Times: 5
+	Query: "Cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "UWBM 36059" ; Times: 1
+	Query: "catalognumber:62951 institutioncode:UWBM" ; Times: 1
+	Query: "Potos flavus" ; Times: 2
+	Query: "Pinus contorta" ; Times: 59
+	Query: "distance(location,geopoint(37.898310705714,-75.3390938890456))&lt;4537" ; Times: 2
+	Query: "phascolarctos cinereus" ; Times: 2
+	Query: "giraffa" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "&#34;Bassariscus astutus&#34; mappable:1" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 2
+	Query: "specificepithet:elaphus genus:Cervus hassex:1 hasmass:1 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "Aotus" ; Times: 1
+	Query: "UWBM 54815" ; Times: 1
+	Query: "genus:Odocoileus family:Cervidae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "uw-madison" ; Times: 1
+	Query: "cephalophus" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "vntype:specimen genus:Octodon" ; Times: 2
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "E. Dorsatum mappable:1" ; Times: 1
+	Query: "Camelus bactrianus" ; Times: 2
+	Query: "Eubalaena australis " ; Times: 2
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "catalognumber:62950 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Odocoileus virginianus hasmass:1" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 26
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "melursus ursinus mappable:1" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "Marmota vancouverensis" ; Times: 4
+	Query: "Ammospermophilus nelsoni" ; Times: 4
+	Query: "Platyrrhinus helleri" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "(Cynocephalidae) mappable:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 21
+	Query: "specificepithet:rutilus genus:xerus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Chaetophractus villosus mappable:1" ; Times: 3
+	Query: "Camelus bactrianus bactrianus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "Birch Island" ; Times: 1
+	Query: "Ototylomys phyllotis" ; Times: 1
+	Query: "Giraffa camelopardalis mappable:1" ; Times: 1
+	Query: "UWBM 15301" ; Times: 1
+	Query: "helarctos malayanus continent:asia" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "specificepithet:senegalensis genus:galago country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 30
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "specificepithet:senegalensis genus:galago country:&#34;kenya&#34;" ; Times: 2
+	Query: "specificepithet:Bison genus:Bison" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "catalognumber:33312 institutioncode:UWBM" ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 1
+	Query: "UWBM 44474" ; Times: 1
+	Query: "genus:Didelphis catalognumber:44494 institutioncode:UWBM" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "bubalus bubalis continent:asia" ; Times: 1
+	Query: "77136" ; Times: 1
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "genus:zygodontomys institutioncode:UWBM" ; Times: 3
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "86159" ; Times: 1
+	Query: "Abrocoma" ; Times: 1
+	Query: "balaenoptera Physalus" ; Times: 4
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 4
+	Query: "Ovibos" ; Times: 3
+	Query: "order:rodentia class:mammalia 52091" ; Times: 2
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "genus:Didelphis catalognumber:44497 institutioncode:UWBM" ; Times: 1
+	Query: "76908" ; Times: 1
+	Query: "cuon alpinus continent:asia" ; Times: 1
+	Query: "UWBM 53826" ; Times: 1
+	Query: "36607" ; Times: 3
+	Query: "genus:Tamias striatus year &gt;= 1700 year &lt;= 1960 hasmass:1" ; Times: 2
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "epperly institutioncode:UWBM" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 1
+	Query: "&#34;DASYPUS NOVEMCINCTUS&#34; mappable:1" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Diceros bicornis bicornis" ; Times: 3
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "American Badger" ; Times: 4
+	Query: "mali" ; Times: 1
+	Query: "naches river" ; Times: 1
+	Query: "Pan troglodytes" ; Times: 1
+	Query: "order:rodentia class:mammalia catalognumber:52091" ; Times: 2
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "Cebus" ; Times: 1
+	Query: "erethizon dorsatum mappable:1" ; Times: 1
+	Query: "Reithrodontomys sumichrasti" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "catalognumber:62949 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:78197 institutioncode:UWBM" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:glacialis genus:Eubalaena basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rutilus genus:xerus country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 1
+	Query: "cetacean" ; Times: 2
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Macaca silenus" ; Times: 2
+	Query: "specificepithet:americana genus:Antilocapra stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "sus scrofa continent:asia" ; Times: 1
+	Query: "UWBM 6318" ; Times: 1
+	Query: "genus:Baiomys order:Rodentia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "Alces alces alces" ; Times: 4
+	Query: "&#34;Lutreolina crassicaudata&#34; mappable:1" ; Times: 1
+	Query: "Cervus elaphus elaphus" ; Times: 4
+	Query: "Eira barbara" ; Times: 2
+	Query: "UWBM 79464" ; Times: 1
+	Query: "cervus nippon" ; Times: 1
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "Pteronotus personatus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "distance(location,geopoint(43.0529880055,-72.52838754025))&lt;24385" ; Times: 2
+	Query: "Alces alces alces mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "&#34;Orcinus&#34; &#34;orca&#34; mappable:1" ; Times: 1
+	Query: "genus:Didelphis catalognumber:44493 institutioncode:UWBM" ; Times: 1
+	Query: "genus:ochrotomys class:Mammalia stateprovince:&#34;Tennessee&#34;" ; Times: 5
+	Query: "geocapromys ingrahami" ; Times: 1
+	Query: "E. dorsatum Erethizon dorsatum mappable:1" ; Times: 3
+	Query: "atelerix albiventris mappable:1" ; Times: 1
+	Query: "specificepithet:rosalia genus:Leontopithecus" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "specificepithet:crassicaudatus genus:otolemur country:&#34;kenya&#34;" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 2
+	Query: "Tamandua mexicana Mexico" ; Times: 5
+	Query: "Equus asinus" ; Times: 1
+	Query: "distance(location,geopoint(41.4396964680001,-71.663528582))&lt;23842" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "trichechidae vntype:specimen" ; Times: 1
+	Query: "Papio mappable:1" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "UWBM 52216" ; Times: 1
+	Query: "UWBM 52215" ; Times: 1
+	Query: "Dipodomys nelsoni" ; Times: 4
+	Query: "wizard" ; Times: 1
+	Query: "specificepithet:pallidior genus:Thylamys" ; Times: 1
+	Query: "genus:Lutreolina mappable:1" ; Times: 2
+	Query: "hylobates lar continent:asia" ; Times: 1
+	Query: "specificepithet:bison genus:bison preparations:skin" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "specificepithet:ochraceus genus:paraxerus country:&#34;kenya&#34;" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Leptonycteris nivalis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "otolemur kenya" ; Times: 1
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hassex:1 hasmass:1 haslength:1 mappable:1" ; Times: 1
+	Query: "nycticebus coucang continent:asia" ; Times: 1
+	Query: "&#34;Lemur catta&#34;" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus hasmass:1 mappable:1" ; Times: 1
+	Query: "specificepithet:ochraceus genus:paraxerus country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 2
+	Query: "genus:Odocoileus virginianus year &gt;= 1700 year &lt;= 1990 hasmass:1" ; Times: 1
+	Query: "sorex tenellus" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "canis aureus continent:asia" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "martes pennanti hasmass:1" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "&#34;chaetophractus&#34; &#34;villosus&#34; mappable:1" ; Times: 1
+	Query: "dipodomys gravipes" ; Times: 1
+	Query: "catalognumber:63735 institutioncode:UWBM" ; Times: 1
+	Query: "dermoptera" ; Times: 5
+	Query: "(Giraffa camelopardalis) mappable:1" ; Times: 1
+	Query: "61419" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "17892" ; Times: 1
+	Query: "catalognumber:78186 institutioncode:UWBM" ; Times: 1
+	Query: "genus:mus stateprovince:&#34;british columbia&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "Alces alces mappable:1" ; Times: 1
+	Query: "Peromyscus zarhynchus" ; Times: 1
+	Query: "Heteromys desmarestianus" ; Times: 1
+	Query: "nasua nasua" ; Times: 3
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "catalognumber:62952 institutioncode:UWBM" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "order:rodentia class:mammalia 52199" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 6
+	Query: "&#34;lemur catta&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "distance(location,geopoint(34.754019041,-98.659389363))&lt;15869" ; Times: 6
+	Query: "specificepithet:crassicaudatus genus:otolemur country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 2
+	Query: "genus:Urocyon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "UWBM 52269" ; Times: 1
+	Query: "catalognumber:76443 institutioncode:UWBM" ; Times: 1
+	Query: "bison skin" ; Times: 3
+	Query: "genetta genetta" ; Times: 2
+	Query: "UWBM 62585" ; Times: 1
+	Query: "genus:Didelphis catalognumber:44495 institutioncode:UWBM" ; Times: 1
+	Query: "Tamias sibiricus" ; Times: 1
+	Query: "specificepithet:erythropus genus:xerus country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:erythropus genus:xerus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:mohavensis" ; Times: 3
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "dermoptera Cynocephalus variegatus mappable:1" ; Times: 2
+	Query: "Myotis albescens" ; Times: 1
+	Query: "Sumatra class:Mammalia" ; Times: 1
+	Query: "Alces alces" ; Times: 5
+	Query: "Panthera pardus" ; Times: 2
+	Query: "specificepithet:musculus genus:balaenoptera preparations:skeleton" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Herpestes edwardsii" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "eira barbara" ; Times: 2
+	Query: "specificepithet:longicaudus genus:microtus county:&#34;graham&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Melursus ursinus mappable:1" ; Times: 3
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Oryzomys alfaroi" ; Times: 1
+	Query: "Dermoptera" ; Times: 4
+	Query: "Lepus alleni" ; Times: 2
+	Query: "genus:Macaca nemestrina" ; Times: 8
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "UWbm 31995" ; Times: 2
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 3
+	Query: "dasypus novemcinctus class:Mammalia continent:North America mappable:1" ; Times: 4
+	Query: "&#34;Meles meles&#34; mappable:1" ; Times: 1
+	Query: "54560 UWBM" ; Times: 1
+	Query: "bos javanicus" ; Times: 3
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:panthera hastissue:1" ; Times: 5
+	Query: "nyctalus lasiopterus" ; Times: 1
+	Query: "42679" ; Times: 1
+	Query: "order:rodentia class:mammalia 52109" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "51835" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Equus caballus" ; Times: 3
+	Query: "Anoura geoffroyi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 373 (out of 1398 download events in this period)
+Total number of records downloaded: 19529
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 322
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 23
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 11
+	Date: 2018-01-18 ; Times: 14
+	Date: 2018-01-31 ; Times: 22
+	Date: 2018-01-30 ; Times: 31
+	Date: 2018-01-11 ; Times: 5
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-16 ; Times: 5
+	Date: 2018-01-09 ; Times: 5
+	Date: 2018-01-24 ; Times: 42
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 4
+	Date: 2018-01-02 ; Times: 30
+	Date: 2018-01-25 ; Times: 40
+	Date: 2018-01-26 ; Times: 7
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-06 ; Times: 12
+	Date: 2018-01-21 ; Times: 6
+	Date: 2018-01-22 ; Times: 30
+	Date: 2018-01-23 ; Times: 84
+	Date: 2018-01-04 ; Times: 3
+	Date: 2018-01-20 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "microtus oregoni mappable:1" ; Times: 1
+	Query: "Myotis grisescens mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "stateprovince:&#34;santander&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;california&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:Tamias" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "(Cynocephalidae) mappable:1" ; Times: 2
+	Query: "dermoptera mappable:1" ; Times: 100
+	Query: "cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "melanomys" ; Times: 1
+	Query: "specificepithet:canipes genus:Tamias" ; Times: 1
+	Query: "helarctos malayanus continent:asia" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "order:Dasyuromorphia" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "epperly institutioncode:UWBM" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "cuon alpinus continent:asia" ; Times: 1
+	Query: "Octodon" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1700 year &lt;= 1960 hasmass:1" ; Times: 1
+	Query: "(dermoptera ) mappable:1" ; Times: 3
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "Ursus arctos frozen vntype:specimen year &gt;= 2005 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "American Badger" ; Times: 2
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:glacialis genus:Eubalaena basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 4
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Sumatra class:Mammalia" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera preparations:skeleton" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Myotis californicus mappable:1" ; Times: 1
+	Query: "genus:Zapus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Myotis keenii mappable:1" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "colombia" ; Times: 1
+	Query: "Lasiurus borealis mappable:1" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1961 year &lt;= 2017 hasmass:1" ; Times: 1
+	Query: "bubalus bubalis continent:asia" ; Times: 1
+	Query: "&#34;Phascolarctos cinereus&#34; mappable:1" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 9
+	Query: "Myotis sodalis mappable:1" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 91
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 9
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "class:MAMMALIA locality:San Luis Potosi" ; Times: 1
+	Query: "nycticebus coucang continent:asia" ; Times: 1
+	Query: "genus:Odocoileus virginianus year &gt;= 1700 year &lt;= 1990 hasmass:1" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "Abrocoma" ; Times: 1
+	Query: "lama glama" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "dermoptera" ; Times: 15
+	Query: "sus scrofa continent:asia" ; Times: 1
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Myotis evotis mappable:1" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "Dipodomys nelsoni" ; Times: 1
+	Query: "Phascolarctos cinereus mappable:1" ; Times: 1
+	Query: "canis aureus continent:asia" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "Myotis volans mappable:1" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "Tamias sibiricus" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "order:Diprotodontia" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Myotis albescens" ; Times: 1
+	Query: "family:Cricetidae order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Herpestes edwardsii" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 2
+	Query: "Melursus ursinus mappable:1" ; Times: 4
+	Query: "dermoptera Cynocephalus variegatus mappable:1" ; Times: 2
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Lepus alleni" ; Times: 1
+	Query: "hylobates lar continent:asia" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "nyctalus lasiopterus" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+
+
+End of report.
