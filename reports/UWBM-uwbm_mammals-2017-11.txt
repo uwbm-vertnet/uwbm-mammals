@@ -1,0 +1,102 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 136
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 55
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 17
+	Date: 2017-11-29 ; Times: 7
+	Date: 2017-11-26 ; Times: 7
+	Date: 2017-11-27 ; Times: 13
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-25 ; Times: 8
+	Date: 2017-11-30 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "47996" ; Times: 1
+	Query: "ziphiidae" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "family:viverridae order:carnivora" ; Times: 2
+	Query: "specificepithet:griseus genus:sciurus county:&#34;fresno&#34;" ; Times: 1
+	Query: "specificepithet:gravipes genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale country:&#34;kenya&#34;" ; Times: 1
+	Query: "galerella" ; Times: 1
+	Query: "specificepithet:Lotor genus:Procyon stateprovince:&#34;Nebraska&#34; year &gt;= 1970 year &lt;= 2017" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "specificepithet:camelopardalis genus:Giraffa mappable:1" ; Times: 1
+	Query: "specificepithet:bison genus:bison mappable:1" ; Times: 1
+	Query: "specificepithet:haigi genus:Ctenomys" ; Times: 1
+	Query: "panthera tigris skeleton" ; Times: 1
+	Query: "asian elephant" ; Times: 1
+	Query: "Tayassuidae Pecari tajacu skeleton" ; Times: 2
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops country:&#34;United States&#34;" ; Times: 1
+	Query: "Mustelidae skeleton Gulo gulo" ; Times: 6
+	Query: "unicorn" ; Times: 1
+	Query: "LSU 8940" ; Times: 2
+	Query: "Salvelinus alpinus" ; Times: 2
+	Query: "Pinus contorta" ; Times: 13
+	Query: "Panthera tigris skin" ; Times: 1
+	Query: "uwbm 31599" ; Times: 2
+	Query: "puma concolor skeleton" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 1
+	Query: "UWBM 67474" ; Times: 3
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 6
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: "genus:tamiasciurus county:&#34;fresno&#34;" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Equidae skeleton equus" ; Times: 1
+	Query: "Galerella" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1101 download events in this period)
+Total number of records downloaded: 3764
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 2
+	Date: 2017-11-29 ; Times: 2
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 4
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-25 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera" ; Times: 2
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "specificepithet:haigi genus:Ctenomys" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "oxymycterus MVZ" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "specificepithet:gravipes genus:Dipodomys" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+
+
+End of report.
