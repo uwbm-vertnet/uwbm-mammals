@@ -1,0 +1,267 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 318
+Number of records retrieved in searches: 1622
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: United States ; Times: 247
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 22
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 12
+	Date: 2018-05-29 ; Times: 15
+	Date: 2018-05-20 ; Times: 7
+	Date: 2018-05-21 ; Times: 15
+	Date: 2018-05-22 ; Times: 7
+	Date: 2018-05-23 ; Times: 12
+	Date: 2018-05-24 ; Times: 15
+	Date: 2018-05-25 ; Times: 6
+	Date: 2018-05-26 ; Times: 6
+	Date: 2018-05-27 ; Times: 5
+	Date: 2018-05-06 ; Times: 9
+	Date: 2018-05-07 ; Times: 9
+	Date: 2018-05-04 ; Times: 17
+	Date: 2018-05-05 ; Times: 6
+	Date: 2018-05-02 ; Times: 11
+	Date: 2018-05-03 ; Times: 11
+	Date: 2018-05-01 ; Times: 5
+	Date: 2018-05-08 ; Times: 8
+	Date: 2018-05-09 ; Times: 19
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-30 ; Times: 16
+	Date: 2018-05-15 ; Times: 17
+	Date: 2018-05-14 ; Times: 7
+	Date: 2018-05-17 ; Times: 17
+	Date: 2018-05-16 ; Times: 6
+	Date: 2018-05-11 ; Times: 10
+	Date: 2018-05-10 ; Times: 13
+	Date: 2018-05-13 ; Times: 6
+	Date: 2018-05-12 ; Times: 4
+	Date: 2018-05-19 ; Times: 11
+	Date: 2018-05-18 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(45.9339361265001,-95.975625537))&lt;25696" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias mappable:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Orange&#34;" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "UWBM 68045" ; Times: 2
+	Query: "Lasiurus borealis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Washington&#34; preparations:skin" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "18002" ; Times: 1
+	Query: "rhinolophus fumigatus" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes mappable:1" ; Times: 6
+	Query: "37184" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 2
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 36
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Dipodomys Washoe county" ; Times: 5
+	Query: "catalognumber:79645 institutioncode:UWBM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Cabassous" ; Times: 2
+	Query: "specificepithet:preblei genus:Sorex stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "SS 822" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1920 year &lt;= 1929 institutioncode:UWBM" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "locality:steen stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "prince edward island specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic) institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Oregon&#34; preparations:skin" ; Times: 1
+	Query: "Dogs" ; Times: 1
+	Query: "Erinaceus russia" ; Times: 1
+	Query: "pan troglodytes" ; Times: 6
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;clallam&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "chaetophractus" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "uwbm 46946" ; Times: 1
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Sorex lyelli" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:UWBM" ; Times: 1
+	Query: "bubalus mindorensis" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:UWBM" ; Times: 1
+	Query: "uwbm 81934" ; Times: 2
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 12
+	Query: "specificepithet:coypus genus:Myocastor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "vntype:specimen (Pan troglodytes)" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 2
+	Query: "uwbm 75471" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 2
+	Query: "Eira barbara" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 1
+	Query: "(Oreamnos)" ; Times: 1
+	Query: "distance(location,geopoint(45.5861773815354,-95.991834180909))&lt;41308" ; Times: 1
+	Query: "distance(location,geopoint(38.9483272395968,-85.420946113691))&lt;27195" ; Times: 1
+	Query: "uwbm 73854" ; Times: 2
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "distance(location,geopoint(41.008117971147,-87.5390087322894))&lt;14523" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela lengthtype:total length" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "Papua Province BPBM" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "Microtus oregoni year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Clallam&#34; stateprovince:&#34;Washington&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Microtus townsendii year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "dipodomys gravipes" ; Times: 1
+	Query: "Brachylagus hastissue:1" ; Times: 8
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 2
+	Query: "distance(location,geopoint(38.8970493997129,-90.1791755405046))&lt;12230" ; Times: 2
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Brachylagus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Hemitragus" ; Times: 3
+	Query: "uwbm 67489" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 5
+	Query: "35076" ; Times: 1
+	Query: "genus:Pongo preparations:ethanol" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;alpine&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:semistriatus genus:Conepatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:UWBM" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 3
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;prince edward island&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Pinus contorta" ; Times: 85
+	Query: "50785" ; Times: 2
+	Query: "potos flavus" ; Times: 1
+	Query: "hastissue:1 myotis septentrionalis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1178 download events in this period)
+Total number of records downloaded: 6818
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 17
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-18 ; Times: 4
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-31 ; Times: 7
+	Date: 2018-05-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "class:Mammalia country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "genus:Didelphis stateprovince:&#34;Oregon&#34; preparations:skin" ; Times: 1
+	Query: "african Elephant" ; Times: 3
+	Query: "Macropus robustus" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "brain size" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Cundinamarca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "genus:Didelphis stateprovince:&#34;Washington&#34; preparations:skin" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
