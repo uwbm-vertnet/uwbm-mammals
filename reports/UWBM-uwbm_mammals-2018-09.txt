@@ -1,0 +1,313 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 328
+Number of records retrieved in searches: 2257
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 222
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 56
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 3
+	Country: Canada ; Times: 8
+	Country: Iceland ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 9
+	Country: Norway ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 8
+	Date: 2018-09-23 ; Times: 6
+	Date: 2018-09-02 ; Times: 4
+	Date: 2018-09-03 ; Times: 6
+	Date: 2018-09-26 ; Times: 20
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-20 ; Times: 13
+	Date: 2018-09-21 ; Times: 29
+	Date: 2018-09-22 ; Times: 3
+	Date: 2018-09-05 ; Times: 10
+	Date: 2018-09-08 ; Times: 3
+	Date: 2018-09-09 ; Times: 3
+	Date: 2018-09-28 ; Times: 15
+	Date: 2018-09-29 ; Times: 3
+	Date: 2018-09-30 ; Times: 14
+	Date: 2018-09-11 ; Times: 10
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-13 ; Times: 20
+	Date: 2018-09-12 ; Times: 6
+	Date: 2018-09-15 ; Times: 4
+	Date: 2018-09-14 ; Times: 5
+	Date: 2018-09-17 ; Times: 17
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 9
+	Date: 2018-09-18 ; Times: 6
+	Date: 2018-09-24 ; Times: 15
+	Date: 2018-09-25 ; Times: 36
+	Date: 2018-09-27 ; Times: 26
+	Date: 2018-09-06 ; Times: 11
+	Date: 2018-09-07 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:Sorex stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(38.33380491307935,-90.47607421875))&lt;247840.770513055" ; Times: 2
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 1
+	Query: "mirza" ; Times: 1
+	Query: "UWBM 73028" ; Times: 2
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;franklin&#34;" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "Eligmodontia typus mappable:1" ; Times: 2
+	Query: "43401" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "Eschrichtius robustus" ; Times: 9
+	Query: "56394 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Parahyaena specificepithet:brunnea" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "80729" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 5
+	Query: "herpestes javanicus" ; Times: 2
+	Query: "49597 mammalia" ; Times: 2
+	Query: "specificepithet:pallidus genus:microdipodops stateprovince:&#34;nevada&#34; year &gt;= 1960 year &lt;= 1990" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:talpoides genus:Thomomys county:&#34;Klickitat&#34;" ; Times: 1
+	Query: "locality:chaun" ; Times: 2
+	Query: "family:Dipodidae county:&#34;Carter&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:Ratufa" ; Times: 2
+	Query: "kogia simus" ; Times: 1
+	Query: "catalognumber:13760 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "Acajete" ; Times: 1
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 2
+	Query: "003-95" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "specificepithet:merriami genus:Sorex county:&#34;Douglas&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "Steve Campbell" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "meles" ; Times: 1
+	Query: "skunk skull" ; Times: 2
+	Query: "specificepithet:deppei genus:Sciurus" ; Times: 2
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;yakima&#34;" ; Times: 4
+	Query: "49597" ; Times: 1
+	Query: "specificepithet:fallax family:Heteromyidae county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "UWBM 81917" ; Times: 1
+	Query: "globicephala macrorhynchus" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 33
+	Query: "class:Mammalia county:&#34;sheridan&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "genus:sigmodon county:&#34;Cochise&#34;" ; Times: 1
+	Query: "UWBM 66952" ; Times: 2
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "catalognumber:75393 institutioncode:UWBM" ; Times: 2
+	Query: "order:primates country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "class:Mammalia county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 2005 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:mazama genus:Thomomys" ; Times: 2
+	Query: "family:castoridae order:rodentia hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "TAMANDUA MEXICANA" ; Times: 1
+	Query: "UWBM 79576" ; Times: 2
+	Query: "catalognumber:13759 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 4
+	Query: "nasua narica" ; Times: 1
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "catalognumber:38327 &#34;marmota monax&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 8
+	Query: "specificepithet:onca genus:Panthera family:Felidae order:Carnivora lengthtype:total length haslength:1" ; Times: 1
+	Query: "catalognumber:75449 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:philippensis genus:Petaurista" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(38.26482978773833,-88.93798828125))&lt;247841" ; Times: 1
+	Query: "catalognumber:13762 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "procyon lotor massachusetts" ; Times: 3
+	Query: "Oligoryzomys longicaudatus mappable:1" ; Times: 1
+	Query: "phocidae lacm" ; Times: 2
+	Query: "UWBM 80073" ; Times: 1
+	Query: "catalognumber:13763 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "specificepithet:cyanus genus:Spalacopus" ; Times: 2
+	Query: "specificepithet:olympus genus:Marmota" ; Times: 2
+	Query: "orcinus orca" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(37.08400752101114,-89.99267578125))&lt;291582.01899794535" ; Times: 1
+	Query: "quechultenango" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "locality:chaun country:&#34;Russia&#34;" ; Times: 1
+	Query: "ancient mammal" ; Times: 1
+	Query: "genus:caenolestes " ; Times: 1
+	Query: "family:canidae order:carnivora genus:urocyon hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:alborufus genus:Petaurista" ; Times: 2
+	Query: "order:primates country:&#34;México&#34;" ; Times: 1
+	Query: "eschrichtius robustus" ; Times: 1
+	Query: "Megaerops wetmorei" ; Times: 3
+	Query: "coendou prehensilis" ; Times: 2
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;skamania&#34;" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "UWBM 66954" ; Times: 3
+	Query: "Giraffa camelopardalis" ; Times: 13
+	Query: "UWBM 73050" ; Times: 1
+	Query: "UWBM 73051" ; Times: 2
+	Query: "Graomys griseoflavus mappable:1" ; Times: 2
+	Query: "Rhyncholestes raphanurus" ; Times: 1
+	Query: "class:Mammalia county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 2015 year &lt;= 2018" ; Times: 2
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "Dromiciops gliroides" ; Times: 1
+	Query: "catalognumber:75480 institutioncode:UWBM" ; Times: 1
+	Query: "j 808" ; Times: 1
+	Query: "acajete" ; Times: 2
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;lewis&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 3
+	Query: "catalognumber:75463 institutioncode:UWBM" ; Times: 2
+	Query: "berardius bairdii" ; Times: 1
+	Query: "eubalaena japonica" ; Times: 1
+	Query: "vntype:specimen locality:Carlsbad Caverns county:&#34;Eddy County&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "specificepithet:talpoides genus:Thomomys county:&#34;Skamania&#34;" ; Times: 1
+	Query: "Chelemys macronyx mappable:1" ; Times: 2
+	Query: "catalognumber:38329 &#34;marmota monax&#34;" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "catalognumber:13573 &#34;mephitis mephitis&#34;" ; Times: 1
+	Query: "Artibeus cinereus" ; Times: 2
+	Query: "Nyctimene" ; Times: 1
+	Query: "Mus musculus UMMZ" ; Times: 1
+	Query: "specificepithet:macroura genus:Ratufa" ; Times: 2
+	Query: "43935" ; Times: 1
+	Query: "specificepithet:albipes genus:Arborimus" ; Times: 4
+	Query: "catalognumber:75450 institutioncode:UWBM" ; Times: 2
+	Query: "UWBM 70182" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos family:Procyonidae stateprovince:&#34;-&#34; country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "Panthera tigris" ; Times: 2
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;klickitat&#34;" ; Times: 1
+	Query: "specificepithet:talpoides genus:Thomomys county:&#34;Yakima&#34;" ; Times: 5
+	Query: "unicorn" ; Times: 4
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;grant&#34;" ; Times: 1
+	Query: "specificepithet:geoffroyi genus:Ateles order:primates country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Calomys musculinus mappable:1" ; Times: 2
+	Query: "33106" ; Times: 1
+	Query: "Marmosa canescens" ; Times: 1
+	Query: "Pinus contorta" ; Times: 47
+	Query: "genus:sorex county:&#34;whatcom&#34; stateprovince:&#34;washington&#34;" ; Times: 3
+	Query: "balaenoptera" ; Times: 2
+	Query: "catalognumber:13761 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "Giraffa camelopardalis}" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 846 download events in this period)
+Total number of records downloaded: 8288
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 34
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 39
+	Country: Norway ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-10 ; Times: 5
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-13 ; Times: 8
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-26 ; Times: 26
+	Date: 2018-09-27 ; Times: 10
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 3
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-15 ; Times: 3
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-18 ; Times: 7
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "specificepithet:putorius genus:Mustela mappable:1" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 1
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "eubalaena japonica" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "locality:chaun country:&#34;Russia&#34;" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gazella genus:Oryx mappable:1" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona hasmass:1 haslength:1" ; Times: 4
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "acatlan puebla" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "notiosorex" ; Times: 3
+	Query: "ArcGis" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus mappable:1" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "lupus dingo" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis mappable:1" ; Times: 1
+	Query: "specificepithet:niger genus:Hippotragus mappable:1" ; Times: 1
+	Query: "Rhyncholestes raphanurus" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "genus:vulpes continent:europe" ; Times: 1
+	Query: "eschrichtius robustus" ; Times: 2
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos family:Procyonidae stateprovince:&#34;-&#34; country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "specificepithet:trowbridgii genus:sorex hastissue:1" ; Times: 1
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "berardius bairdii" ; Times: 2
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "specificepithet:aureus genus:Canis mappable:1" ; Times: 1
+	Query: "specificepithet:meles genus:Meles mappable:1" ; Times: 1
+	Query: "carlsbad caverns" ; Times: 1
+	Query: "Marmosa canescens" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "family:Felidae lengthtype:total length haslength:1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "kogia simus" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes mappable:1" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "class:Mammalia county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 2015 year &lt;= 2018" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 1
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
