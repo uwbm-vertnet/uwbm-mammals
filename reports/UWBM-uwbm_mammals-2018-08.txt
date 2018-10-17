@@ -1,0 +1,306 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 624
+Number of records retrieved in searches: 2320
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 411
+	Country: Israel ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 12
+	Country: Mexico ; Times: 122
+	Country: Russia ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 16
+	Country: Denmark ; Times: 14
+	Country: Sri Lanka ; Times: 13
+	Country: New Zealand ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 14
+	Date: 2018-08-31 ; Times: 29
+	Date: 2018-08-18 ; Times: 6
+	Date: 2018-08-19 ; Times: 7
+	Date: 2018-08-16 ; Times: 10
+	Date: 2018-08-23 ; Times: 17
+	Date: 2018-08-14 ; Times: 13
+	Date: 2018-08-15 ; Times: 22
+	Date: 2018-08-12 ; Times: 7
+	Date: 2018-08-13 ; Times: 52
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-11 ; Times: 5
+	Date: 2018-08-02 ; Times: 12
+	Date: 2018-08-08 ; Times: 11
+	Date: 2018-08-03 ; Times: 8
+	Date: 2018-08-17 ; Times: 60
+	Date: 2018-08-27 ; Times: 6
+	Date: 2018-08-26 ; Times: 6
+	Date: 2018-08-25 ; Times: 5
+	Date: 2018-08-24 ; Times: 13
+	Date: 2018-08-09 ; Times: 12
+	Date: 2018-08-22 ; Times: 16
+	Date: 2018-08-21 ; Times: 40
+	Date: 2018-08-20 ; Times: 133
+	Date: 2018-08-05 ; Times: 8
+	Date: 2018-08-04 ; Times: 11
+	Date: 2018-08-07 ; Times: 12
+	Date: 2018-08-06 ; Times: 13
+	Date: 2018-08-01 ; Times: 29
+	Date: 2018-08-29 ; Times: 25
+	Date: 2018-08-28 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "35547" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "class:Mammalia (Cabassous OR (Panthera AND onca) OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "specificepithet:curtatus genus:lemmiscus county:&#34;grant&#34;" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;skamania&#34; year &gt;= 1988 year &lt;= 2018" ; Times: 2
+	Query: "49831" ; Times: 1
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "tamiasciurus distance(location,geopoint(58.97215136814559,-136.90704345703125))&lt;100000" ; Times: 1
+	Query: "UWBM 57993 institutioncode:UWBM" ; Times: 1
+	Query: "hair samples" ; Times: 2
+	Query: "Conepatus" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "specificepithet:niger genus:sciurus county:&#34;alameda&#34;" ; Times: 2
+	Query: "genus:Parahyaena specificepithet:brunnea" ; Times: 4
+	Query: "51957" ; Times: 1
+	Query: "specificepithet:compactus genus:Dipodomys" ; Times: 1
+	Query: "catalognumber:67859" ; Times: 1
+	Query: "specificepithet:lupus catalognumber:82296 institutioncode:UWBM" ; Times: 2
+	Query: "cebus" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "UWBM 74954" ; Times: 2
+	Query: "genus:dromiciops" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 105
+	Query: "61905" ; Times: 2
+	Query: "dipodomys compactus" ; Times: 3
+	Query: "order:Primates country:Peru" ; Times: 1
+	Query: "purdue" ; Times: 1
+	Query: "UWBM 71580" ; Times: 2
+	Query: "euderma" ; Times: 1
+	Query: "UWBM 75463" ; Times: 2
+	Query: "specificepithet:canadensis genus:lynx institutioncode:UWBM" ; Times: 1
+	Query: "V 1128" ; Times: 1
+	Query: "Sentinel" ; Times: 1
+	Query: "69084 UWBM" ; Times: 1
+	Query: "(Cabassous OR Panthera) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "specificepithet:lupus catalognumber:81792 institutioncode:UWBM" ; Times: 2
+	Query: "meles" ; Times: 1
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "82383 UWBM" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "69049 UWBM" ; Times: 1
+	Query: "60030" ; Times: 1
+	Query: "Puma concolor " ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "69084" ; Times: 1
+	Query: "UAM 52696" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "Colotlipa" ; Times: 1
+	Query: "UAM 52692" ; Times: 1
+	Query: "UAM 52693" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "UAM 52699" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;skamania&#34;" ; Times: 1
+	Query: "69162" ; Times: 1
+	Query: "30447" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR Ateles) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "order:Cetacea institutioncode:UWBM" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 2
+	Query: "56194 UWBM" ; Times: 1
+	Query: "70707" ; Times: 1
+	Query: "precious" ; Times: 1
+	Query: "UWBM 75480" ; Times: 2
+	Query: "UWBM 74932" ; Times: 2
+	Query: "genus:lasiurus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Dromiciops gliroides Argentina" ; Times: 14
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "UWBM 75393" ; Times: 2
+	Query: "zapus AND county:Whatcom" ; Times: 1
+	Query: "family:Dasyuridae preparations:Skeleton institutioncode:UWBM" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Colombia&#34; institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;klickitat&#34; year &gt;= 1988 year &lt;= 2018" ; Times: 4
+	Query: "UWBM 61504 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx county:&#34;stevens&#34; stateprovince:&#34;washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:curtatus genus:lemmiscus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:talpoides genus:Thomomys county:&#34;klickitat&#34; stateprovince:&#34;washington&#34;" ; Times: 2
+	Query: "UWBM 59726 institutioncode:UWBM" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "UWBM 76212" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "family:Dasyuridae preparations:Skeleton" ; Times: 1
+	Query: "class:mammalia country:&#34;canada&#34; year &gt;= 1941 year &lt;= 1941" ; Times: 2
+	Query: "genus:lasiurus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "class:Mammalia ((Cabassous AND unicinctus) OR (Panthera AND onca) OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Pteronotus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND chamek)) year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "tick island" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "specificepithet:maritimus genus:ursus" ; Times: 4
+	Query: "specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "UWBM 60517 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;klickitat&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "60257" ; Times: 2
+	Query: "82383" ; Times: 1
+	Query: "59754" ; Times: 1
+	Query: "76835" ; Times: 1
+	Query: "77423 UWBM" ; Times: 1
+	Query: "57648" ; Times: 1
+	Query: "76624" ; Times: 1
+	Query: "66233 UWBM" ; Times: 1
+	Query: "UWBM 67905 UWBM" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "Dobsonia" ; Times: 1
+	Query: "specificepithet:talpoides genus:Thomomys county:&#34;skamania&#34; stateprovince:&#34;washington&#34;" ; Times: 2
+	Query: "Saimiri sciureus" ; Times: 4
+	Query: "UWBM 75229" ; Times: 3
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;klickitat&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Chimarrogale" ; Times: 1
+	Query: "48541" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "87265 UWBM" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 2
+	Query: "erythromos" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 49
+	Query: "Rangifer tarandus mappable:1" ; Times: 4
+	Query: "herpailurus" ; Times: 1
+	Query: "null" ; Times: 122
+	Query: "Puma concolor" ; Times: 21
+	Query: "30046" ; Times: 1
+	Query: "Quechultenango" ; Times: 1
+	Query: "specificepithet:canadensis genus:lynx year &gt;= 1800 year &lt;= 1960 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;klickitat&#34; year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "43649" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;skamania&#34; year &gt;= 1978 year &lt;= 2018" ; Times: 1
+	Query: "UWBM 75450" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;klickitat&#34; year &gt;= 1978 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "zapus and county:skagit" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes continent:europe year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;klickitat&#34;" ; Times: 10
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 4
+	Query: "unicorn" ; Times: 2
+	Query: "UWBM 78352" ; Times: 2
+	Query: "UAM 52690" ; Times: 1
+	Query: "sorex alpinus" ; Times: 3
+	Query: "specificepithet:trowbridgii genus:sorex stateprovince:&#34;washington&#34; hastissue:1" ; Times: 1
+	Query: "UAM 52691" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "Pinus contorta" ; Times: 94
+	Query: "Lutreolina" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "UWBM 75449" ; Times: 2
+	Query: "UAM 52700" ; Times: 1
+	Query: "UAM 52701" ; Times: 1
+	Query: "UAM 52704" ; Times: 1
+	Query: "UAM 52705" ; Times: 1
+	Query: "(Panthera onca) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1416 download events in this period)
+Total number of records downloaded: 2633
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 18
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-09 ; Times: 6
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-13 ; Times: 3
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-17 ; Times: 4
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-23 ; Times: 8
+	Date: 2018-08-22 ; Times: 3
+	Date: 2018-08-20 ; Times: 3
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cancer" ; Times: 1
+	Query: "genus:Zapus county:&#34;Okanogan&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "&#34;myotis lucifugus&#34; hassex:1 hasmass:1" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "myotis auriculus" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(30.72898176230783,-97.11781719792259))&lt;467941.1417995581" ; Times: 2
+	Query: "order:Cetacea institutioncode:UWBM" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Tolima&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;klickitat&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Sigmodon fulviventer" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:Sorex lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "genus:Zapus county:&#34;Whatcom&#34;" ; Times: 3
+	Query: "Dromiciops gliroides" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+
+
+End of report.
