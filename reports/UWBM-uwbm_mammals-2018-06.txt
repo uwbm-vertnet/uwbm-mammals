@@ -1,0 +1,284 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 297
+Number of records retrieved in searches: 1119
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 14
+	Country: Finland ; Times: 2
+	Country: India ; Times: 7
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 12
+	Country: Argentina ; Times: 3
+	Country: Germany ; Times: 2
+	Country: United States ; Times: 204
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 13
+	Date: 2018-06-06 ; Times: 22
+	Date: 2018-06-05 ; Times: 21
+	Date: 2018-06-04 ; Times: 25
+	Date: 2018-06-29 ; Times: 20
+	Date: 2018-06-02 ; Times: 7
+	Date: 2018-06-01 ; Times: 6
+	Date: 2018-06-25 ; Times: 12
+	Date: 2018-06-24 ; Times: 3
+	Date: 2018-06-27 ; Times: 13
+	Date: 2018-06-26 ; Times: 4
+	Date: 2018-06-21 ; Times: 9
+	Date: 2018-06-20 ; Times: 7
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-22 ; Times: 9
+	Date: 2018-06-09 ; Times: 6
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-10 ; Times: 3
+	Date: 2018-06-11 ; Times: 7
+	Date: 2018-06-12 ; Times: 12
+	Date: 2018-06-13 ; Times: 10
+	Date: 2018-06-14 ; Times: 5
+	Date: 2018-06-15 ; Times: 7
+	Date: 2018-06-16 ; Times: 21
+	Date: 2018-06-17 ; Times: 6
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 14
+	Date: 2018-06-30 ; Times: 6
+	Date: 2018-06-03 ; Times: 6
+	Date: 2018-06-28 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "95500" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "genus:Lemur" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "genus:tupaia preparations:ethanol" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "sorex minutissimus" ; Times: 5
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "pteropus giganteus" ; Times: 2
+	Query: "genus:Zalophus stateprovince:&#34;oregon&#34;" ; Times: 5
+	Query: "genus:euphractus" ; Times: 1
+	Query: "sorex hoyi" ; Times: 2
+	Query: "NP 099" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 3
+	Query: "MVZ 4736 mammal" ; Times: 1
+	Query: "crowley county colorado" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "specificepithet:natalensis genus:mastomys country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 3
+	Query: "american bison" ; Times: 3
+	Query: "Mazama americana" ; Times: 1
+	Query: "Chiroptera locality:Chiricahua Mountains county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "giraffa" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "specificepithet:talpoides genus:Thomomys county:&#34;Klickitat&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Meles meles" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;Yakima&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 34
+	Query: "specificepithet:natalensis genus:mastomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "50623" ; Times: 4
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;United States&#34; year &gt;= 1920 year &lt;= 1929 institutioncode:UWBM" ; Times: 1
+	Query: "Cabassous" ; Times: 1
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;Georgia&#34;" ; Times: 7
+	Query: "genus:Pteropus massing &gt;= 500 massing &lt;= 1600" ; Times: 1
+	Query: "skull vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "genus:praomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "Vollmar" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1930 year &lt;= 1939 institutioncode:UWBM" ; Times: 2
+	Query: "59971" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 2
+	Query: "acomys" ; Times: 1
+	Query: "70092" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "villosus new york" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "scientificname:Choloepus hoffmanni " ; Times: 1
+	Query: "specificepithet:jacksoni genus:praomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:neofelis" ; Times: 3
+	Query: "Chiroptera county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1940 year &lt;= 2018" ; Times: 1
+	Query: "beavers" ; Times: 2
+	Query: "68899" ; Times: 1
+	Query: "mazama americana" ; Times: 2
+	Query: "pierce county fish" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1920 year &lt;= 1929 institutioncode:UWBM" ; Times: 1
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "genus:peromyscus county:&#34;boulder&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Microtus richardsoni stateprovince:&#34;Washington&#34; year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "Chris burke" ; Times: 1
+	Query: "specificepithet:plicata genus:balantiopteryx stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "specificepithet:plicata genus:balantiopteryx locality:tapanatepec stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;georgia&#34;" ; Times: 4
+	Query: "Alnus" ; Times: 1
+	Query: "specificepithet:striatus genus:lemniscomys country:&#34;kenya&#34;" ; Times: 3
+	Query: "marmot" ; Times: 4
+	Query: "genus:Tamiasciurus county:&#34;Columbia&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;Klickitat&#34; stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "White Oak creek" ; Times: 1
+	Query: "horses" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "Hydrochaeris hydrochaeris" ; Times: 1
+	Query: "catalognumber:70749 institutioncode:UWBM" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:hindei genus:aethomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "dipodomys ingens" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:UWBM" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 2
+	Query: "spermophilus mohavensis" ; Times: 2
+	Query: "UWBM 80061" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "genus:mastomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "Sorex isodon" ; Times: 1
+	Query: "Brachylagus hastissue:1" ; Times: 1
+	Query: "Dendrohyrax arboreus" ; Times: 4
+	Query: "42139-1" ; Times: 1
+	Query: "genus:Eumetopias stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 4
+	Query: "Sorex roboratus" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "fmnh weight" ; Times: 1
+	Query: "Tamias sibiricus" ; Times: 12
+	Query: "MVZ 4736" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 17
+	Query: "31224" ; Times: 1
+	Query: "specificepithet:striatus genus:lemniscomys country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 2
+	Query: "39043" ; Times: 3
+	Query: "39047" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 3
+	Query: "locality:Xilitla stateprovince:&#34;San Luis Potosí&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "MVZ 2341 mammal" ; Times: 1
+	Query: "unicorn" ; Times: 3
+	Query: "88765" ; Times: 1
+	Query: "Wood turtle" ; Times: 2
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Pinus contorta" ; Times: 47
+	Query: "Marmot" ; Times: 3
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "distance(location,geopoint(39.334214047124,-86.568406210183))&lt;11612" ; Times: 1
+	Query: "59215" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1169 download events in this period)
+Total number of records downloaded: 7725
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Brazil ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 2
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 14
+	Date: 2018-06-08 ; Times: 8
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-13 ; Times: 4
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 7
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 3
+	Date: 2018-06-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gray wolf" ; Times: 2
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "county:&#34;pierce&#34; stateprovince:&#34;washington&#34; continent:North America" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "vntype:specimen family:dipodidae hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "mammal Colima" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "frog" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "African elephant" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;Klickitat&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "Lynx rufus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Wood turtle" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
