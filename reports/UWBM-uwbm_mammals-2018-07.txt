@@ -1,0 +1,324 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 585
+Number of records retrieved in searches: 2574
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 5
+	Country: Mexico ; Times: 152
+	Country: El Salvador ; Times: 2
+	Country: India ; Times: 1
+	Country: Finland ; Times: 4
+	Country: Lithuania ; Times: 10
+	Country: United Kingdom ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: China ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Sri Lanka ; Times: 3
+	Country: Germany ; Times: 6
+	Country: Argentina ; Times: 6
+	Country: United States ; Times: 371
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 2
+	Country: Ukraine ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 6
+	Date: 2018-07-01 ; Times: 16
+	Date: 2018-07-02 ; Times: 31
+	Date: 2018-07-03 ; Times: 39
+	Date: 2018-07-28 ; Times: 8
+	Date: 2018-07-29 ; Times: 7
+	Date: 2018-07-08 ; Times: 7
+	Date: 2018-07-09 ; Times: 6
+	Date: 2018-07-04 ; Times: 15
+	Date: 2018-07-05 ; Times: 29
+	Date: 2018-07-06 ; Times: 10
+	Date: 2018-07-21 ; Times: 16
+	Date: 2018-07-26 ; Times: 14
+	Date: 2018-07-27 ; Times: 16
+	Date: 2018-07-24 ; Times: 29
+	Date: 2018-07-25 ; Times: 19
+	Date: 2018-07-13 ; Times: 9
+	Date: 2018-07-12 ; Times: 89
+	Date: 2018-07-11 ; Times: 10
+	Date: 2018-07-10 ; Times: 72
+	Date: 2018-07-17 ; Times: 17
+	Date: 2018-07-16 ; Times: 5
+	Date: 2018-07-15 ; Times: 12
+	Date: 2018-07-14 ; Times: 5
+	Date: 2018-07-31 ; Times: 13
+	Date: 2018-07-30 ; Times: 10
+	Date: 2018-07-19 ; Times: 11
+	Date: 2018-07-18 ; Times: 13
+	Date: 2018-07-22 ; Times: 7
+	Date: 2018-07-23 ; Times: 18
+	Date: 2018-07-20 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "53355" ; Times: 1
+	Query: "Pudu puda" ; Times: 2
+	Query: "EAR 5078" ; Times: 1
+	Query: "Pinus contorta" ; Times: 98
+	Query: "18318" ; Times: 1
+	Query: "zoo vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 1
+	Query: "uwbm 62061" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "44690" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999 institutioncode:UWBM" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 2
+	Query: "34490" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "catalognumber:82215 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:72056 institutioncode:UWBM" ; Times: 2
+	Query: "L.E. Allen" ; Times: 1
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes (skull OR skeleton)" ; Times: 1
+	Query: "47680" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "18420" ; Times: 1
+	Query: "genus:Lontra stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "catalognumber:76824 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon country:&#34;United States&#34; AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:39838 institutioncode:UWBM" ; Times: 2
+	Query: "genus:Scalopus stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "20167" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;United States&#34; year &gt;= 1970 year &lt;= 1979 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo)" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis AND (NOT captive OR zoo) year &gt;= 2009 year &lt;= 2018 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:76823 institutioncode:UWBM" ; Times: 2
+	Query: "genus:euphractus preparations:skeleton" ; Times: 16
+	Query: "catalognumber:39626 institutioncode:UWBM" ; Times: 2
+	Query: "Orcinus" ; Times: 3
+	Query: "vntype:specimen specificepithet:lupus genus:Canis AND (NOT captive OR zoo) year &gt;= 2000 year &lt;= 2009 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo)" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 65
+	Query: "Microtus richardsoni specificepithet:richardsoni genus:Microtus stateprovince:&#34;Washington&#34;" ; Times: 4
+	Query: "specificepithet:rufus genus:Canis (captive OR zoo)" ; Times: 2
+	Query: "12781" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959 institutioncode:UWBM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "specificepithet:latrans genus:Canis (Washington OR Oregon OR Idaho OR Montana OR Dakota) year &gt;= 1940 year &lt;= 1949 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "30999" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1960 year &lt;= 1969 institutioncode:UWBM" ; Times: 1
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "uwbm 50411" ; Times: 2
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:glaber genus:heterocephalus country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 3
+	Query: "EAR 3286" ; Times: 1
+	Query: "WM 3" ; Times: 1
+	Query: "UAM 52696" ; Times: 1
+	Query: "UAM 52690" ; Times: 1
+	Query: "UAM 52691" ; Times: 1
+	Query: "UAM 52692" ; Times: 1
+	Query: "UAM 52693" ; Times: 1
+	Query: "chaetophractus" ; Times: 3
+	Query: "20055" ; Times: 1
+	Query: "UAM 52699" ; Times: 1
+	Query: "catalognumber:77434 institutioncode:UWBM" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (captive OR zoo) institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:cooperi genus:synaptomys stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo) institutioncode:UWBM" ; Times: 1
+	Query: "19663" ; Times: 1
+	Query: "specificepithet:niger genus:sciurus year &gt;= 2017 year &lt;= 2018" ; Times: 2
+	Query: "Hydrodamalis" ; Times: 2
+	Query: "9524" ; Times: 1
+	Query: "Washington vntype:specimen specificepithet:elaphus genus:Cervus" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1970 year &lt;= 1979 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo) institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 2000 year &lt;= 2009 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:zerda genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "specificepithet:jacksoni genus:praomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:UWBM" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "genus:Parascalops stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Kane&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "UWBM 5965" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;United States&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil NOT Alaska NOT Iowa) year &gt;= 1930 year &lt;= 1939 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "genus:Zapus county:&#34;Whatcom&#34;" ; Times: 3
+	Query: "68499" ; Times: 1
+	Query: "specificepithet:rattus genus:rattus country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 2
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:rattus genus:rattus country:&#34;kenya&#34;" ; Times: 2
+	Query: "dipodomys stephensi" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:64744 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:jacksoni genus:praomys country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 2
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 2
+	Query: "catalognumber:69188 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 2000 year &lt;= 2009 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:UWBM" ; Times: 1
+	Query: "locality:mill valley county:&#34;marin&#34;" ; Times: 1
+	Query: "catalognumber:51144 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:tropicalis genus:otomys country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 2
+	Query: "catalognumber:71469 institutioncode:UWBM" ; Times: 2
+	Query: "UWBM 79662" ; Times: 2
+	Query: "Puma concolor" ; Times: 13
+	Query: "specificepithet:attwateri genus:Peromyscus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "42239" ; Times: 1
+	Query: "echo 39" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "73161" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;Klickitat&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1980 year &lt;= 1989 institutioncode:UWBM" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "Dugong" ; Times: 2
+	Query: "UWBM 7347" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1970 year &lt;= 1979 institutioncode:UWBM" ; Times: 1
+	Query: "49649-1" ; Times: 1
+	Query: "miniopterus inflatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1980 year &lt;= 1989 institutioncode:UWBM" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "74358" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:UWBM" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 146
+	Query: "mountain goat" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 2010 year &lt;= 2018 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 2000 year &lt;= 2009 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Scotophilus country:&#34;Kenya&#34;" ; Times: 1
+	Query: "Ochotona hyperborea" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1950 year &lt;= 1959 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex (skull OR skeleton) AND (NOT fossil) year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 2010 year &lt;= 2018 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Parascalops country:&#34;United States&#34;" ; Times: 1
+	Query: "Globicephala macrorhynchus" ; Times: 2
+	Query: "vntype:specimen specificepithet:latrans genus:Canis year &gt;= 1950 year &lt;= 1959 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis (zoo OR captive) institutioncode:UWBM" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1990 year &lt;= 1999 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Zapus county:&#34;Okanogan&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:tropicalis genus:otomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 1
+	Query: "herpailurus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1990 year &lt;= 1999 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1960 year &lt;= 1969 institutioncode:UWBM" ; Times: 1
+	Query: "pudu puda" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "UAM 52700" ; Times: 1
+	Query: "uwbm 48266" ; Times: 1
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1910 year &lt;= 1919 institutioncode:UWBM" ; Times: 1
+	Query: "56062" ; Times: 1
+	Query: "39041" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "specificepithet:wiedii genus:Leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "UWBM 7362" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "65253" ; Times: 1
+	Query: "catalognumber:46430 institutioncode:UWBM" ; Times: 2
+	Query: "genus:praomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Ctenomys haigi" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1960 year &lt;= 1969 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (captive OR zoo)" ; Times: 2
+	Query: "13625" ; Times: 1
+	Query: "Mazama americana" ; Times: 4
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "genus:Peromyscus institutioncode:UWBM" ; Times: 1
+	Query: "cervus elaphus washington" ; Times: 1
+	Query: "eubalaena australis" ; Times: 3
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:aberti genus:sciurus year &gt;= 2018" ; Times: 1
+	Query: "UAM 52701" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis year &gt;= 1980 year &lt;= 1989 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:glaber genus:heterocephalus country:&#34;kenya&#34;" ; Times: 2
+	Query: "specificepithet:aberti genus:sciurus year &gt;= 2017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 977 download events in this period)
+Total number of records downloaded: 13638
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Ukraine ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 26
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 6
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-21 ; Times: 3
+	Date: 2018-07-30 ; Times: 6
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chihuahua" ; Times: 1
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "genus:Zapus county:&#34;Okanogan&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "Dipodomys stephensi" ; Times: 1
+	Query: "Caenolestes" ; Times: 2
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "genus:ammospermophilus stateprovince:&#34;baja california&#34;" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UWBM" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma haslength:1" ; Times: 1
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "Anoura" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "genus:Peromyscus institutioncode:UWBM" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "genus:Zapus county:&#34;Whatcom&#34;" ; Times: 3
+	Query: "genus:tamiasciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:AURICULUS genus:MYOTIS" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
