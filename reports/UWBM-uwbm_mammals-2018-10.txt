@@ -1,0 +1,494 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 580
+Number of records retrieved in searches: 5692
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Unknown ; Times: 20
+	Country: France ; Times: 6
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 6
+	Country: Israel ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: El Salvador ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: China ; Times: 2
+	Country: United States ; Times: 472
+	Country: Sweden ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: New Zealand ; Times: 5
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 22
+	Date: 2018-10-04 ; Times: 63
+	Date: 2018-10-05 ; Times: 11
+	Date: 2018-10-06 ; Times: 2
+	Date: 2018-10-07 ; Times: 31
+	Date: 2018-10-01 ; Times: 28
+	Date: 2018-10-02 ; Times: 8
+	Date: 2018-10-03 ; Times: 32
+	Date: 2018-10-30 ; Times: 30
+	Date: 2018-10-22 ; Times: 7
+	Date: 2018-10-23 ; Times: 5
+	Date: 2018-10-20 ; Times: 2
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 9
+	Date: 2018-10-27 ; Times: 3
+	Date: 2018-10-24 ; Times: 14
+	Date: 2018-10-25 ; Times: 8
+	Date: 2018-10-28 ; Times: 4
+	Date: 2018-10-29 ; Times: 38
+	Date: 2018-10-08 ; Times: 97
+	Date: 2018-10-09 ; Times: 14
+	Date: 2018-10-19 ; Times: 20
+	Date: 2018-10-18 ; Times: 11
+	Date: 2018-10-13 ; Times: 9
+	Date: 2018-10-12 ; Times: 31
+	Date: 2018-10-11 ; Times: 20
+	Date: 2018-10-10 ; Times: 29
+	Date: 2018-10-17 ; Times: 6
+	Date: 2018-10-16 ; Times: 13
+	Date: 2018-10-15 ; Times: 8
+	Date: 2018-10-14 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Euderma" ; Times: 1
+	Query: "Pudu puda" ; Times: 2
+	Query: "specificepithet:magdalenae genus:Nectomys" ; Times: 2
+	Query: "Sciurus niger stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 5
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34;" ; Times: 1
+	Query: "orcinus orca" ; Times: 3
+	Query: "specificepithet:flavus genus:Potos family:Procyonidae county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 3
+	Query: "basisofrecord:PreservedSpecimen orcinus orca" ; Times: 2
+	Query: "specificepithet:dauricus genus:Spermophilus" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "specificepithet:heermanni genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:douglasii genus:Tamiasciurus" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina stateprovince:&#34;Massachusetts&#34; AND (NOT island) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Dipodomys country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;Massachusetts&#34; AND (NOT &#34;island&#34;) haslength:1" ; Times: 1
+	Query: "felis chaus" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "14342" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "specificepithet:rutilus genus:Xerus" ; Times: 4
+	Query: "specificepithet:degus genus:Octodon" ; Times: 1
+	Query: "specificepithet:crassispinis genus:Hystrix" ; Times: 4
+	Query: "Arborimus longicaudus" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "specificepithet:haigi genus:Ctenomys" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "specificepithet:nelsoni genus:Dicrostonyx" ; Times: 2
+	Query: "genus:euderma maculatum" ; Times: 1
+	Query: "specificepithet:sabrinus genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:geoffroyi genus:ateles country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:gibbsii genus:Neurotrichus hasmass:1" ; Times: 1
+	Query: "aotus" ; Times: 1
+	Query: "specificepithet:nitratoides genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;massachusetts&#34; AND (NOT &#34;Nantucket&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:compactus genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:typus genus:Eligmodontia" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;massachusetts&#34; AND (NOT &#34;Nantucket&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "family:canidae stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:sibirica genus:Marmota" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "17713" ; Times: 1
+	Query: "UWBM Mammal specimens 74357" ; Times: 1
+	Query: "CM 9263" ; Times: 3
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "genus:Dolichotis preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota" ; Times: 1
+	Query: "Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:deserti genus:Dipodomys" ; Times: 1
+	Query: "Dromiciops" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 30
+	Query: "specificepithet:arenarius genus:Geomys" ; Times: 1
+	Query: "specificepithet:umbrinus genus:Thomomys hasmass:1" ; Times: 1
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 8
+	Query: "genus:Galea preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pratti genus:Myoprocta" ; Times: 2
+	Query: "specificepithet:splendens genus:Tachyoryctes" ; Times: 1
+	Query: "specificepithet:aberti genus:Sciurus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "class:Mammalia coendou prehensilis" ; Times: 2
+	Query: "specificepithet:pallidus genus:Microdipodops" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Dasyprocta" ; Times: 2
+	Query: "genus:crocuta institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:deppei genus:Sciurus" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:gravipes genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus hasmass:1" ; Times: 1
+	Query: "specificepithet:arizonensis genus:Sciurus" ; Times: 1
+	Query: "catalognumber:79662 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;yakima&#34;" ; Times: 1
+	Query: "specificepithet:leucurus genus:Cynomys" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Ammospermophilus" ; Times: 1
+	Query: "genus:spilogale stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "EAR 3286" ; Times: 1
+	Query: "vntype:specimen specificepithet:leo genus:panthera hastissue:1" ; Times: 1
+	Query: "lynx rufus stateprovince:&#34;nebraska&#34;" ; Times: 2
+	Query: "specificepithet:cristata genus:Hystrix" ; Times: 4
+	Query: "UWBM Mammal specimens 38591" ; Times: 1
+	Query: "specificepithet:glaber genus:Heterocephalus" ; Times: 1
+	Query: "genus:martes stateprovince:&#34;british columbia&#34; AND (NOT &#34;pennanti&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "53278 mammalia" ; Times: 1
+	Query: "skeleton of Lama" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:Cynomys" ; Times: 1
+	Query: "specificepithet:spectabilis genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:petaurista genus:Petaurista" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "specificepithet:ingrahami genus:Geocapromys" ; Times: 2
+	Query: "specificepithet:trinotatus genus:Zapus" ; Times: 1
+	Query: "vntype:specimen class:mammalia locality:chiapas" ; Times: 1
+	Query: "brachylagus" ; Times: 1
+	Query: "Marmota vancouverensis" ; Times: 3
+	Query: "specificepithet:townsendii genus:Thomomys" ; Times: 1
+	Query: "genus:Tamandua " ; Times: 2
+	Query: "genus:Herpestes stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:tamiasciurus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:indica genus:Hystrix" ; Times: 1
+	Query: "genus:Echinosorex" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;massachusetts&#34; AND (NOT &#34;Nantucket&#34;) haslength:1" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Marmota" ; Times: 1
+	Query: "specificepithet:rufus genus:Oxymycterus" ; Times: 1
+	Query: "specificepithet:unalascensis genus:Dicrostonyx" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:mazama genus:Thomomys" ; Times: 1
+	Query: "catalognumber:74954 institutioncode:UWBM" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 4
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "specificepithet:oeconomus genus:microtus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;massachusetts&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "Platyrrhinus dorsalis" ; Times: 2
+	Query: "specificepithet:maculatum genus:Euderma year &gt;= 1920 year &lt;= 2019" ; Times: 2
+	Query: "Platyrrhinus vittatus" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 4
+	Query: "puma concolor startdayofyear &lt;= 1970" ; Times: 1
+	Query: "county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Sturnira erythromos" ; Times: 4
+	Query: "euderma maculatum" ; Times: 5
+	Query: "mitkof specificepithet:hudsonicus genus:tamiasciurus stateprovince:&#34;alaska&#34; hassex:1 haslength:1" ; Times: 1
+	Query: "saimiri" ; Times: 3
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:richardsoni genus:Microtus" ; Times: 1
+	Query: "Molossus bondae" ; Times: 1
+	Query: "Myotis Sodalis" ; Times: 1
+	Query: "Eira barbara" ; Times: 3
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 4
+	Query: "specificepithet:bicolor genus:Ratufa" ; Times: 8
+	Query: "Panthera onca country:&#34;Mexico&#34;" ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:rufa genus:Aplodontia" ; Times: 2
+	Query: "genus:Euderma maculatum" ; Times: 3
+	Query: "specificepithet:philippensis genus:Petaurista" ; Times: 8
+	Query: "specificepithet:carolinensis genus:Blarina hasmass:1" ; Times: 1
+	Query: "specificepithet:capensis genus:Pedetes" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis" ; Times: 1
+	Query: "MVZ 5866 mammal" ; Times: 1
+	Query: "specificepithet:Maculatum genus:Euderma" ; Times: 1
+	Query: "specificepithet:gunnisoni genus:Cynomys" ; Times: 1
+	Query: "Gliridae" ; Times: 2
+	Query: "specificepithet:longicaudus genus:Arborimus" ; Times: 1
+	Query: "specificepithet:pomo genus:Arborimus" ; Times: 1
+	Query: "MVZ 2337 mammal" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 62
+	Query: "specificepithet:pinetis genus:Geomys" ; Times: 1
+	Query: "specificepithet:parvidens genus:Cynomys" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Massachusetts&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:cyanus genus:Spalacopus" ; Times: 1
+	Query: "specificepithet:olympus genus:Marmota" ; Times: 7
+	Query: "specificepithet:vancouverensis genus:Marmota" ; Times: 1
+	Query: "32087" ; Times: 1
+	Query: "specificepithet:venustus genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:deserti genus:Dipodomys country:&#34;México&#34;" ; Times: 1
+	Query: "continent:North America Cervus elaphus" ; Times: 3
+	Query: "53280 mammalia" ; Times: 1
+	Query: "53280" ; Times: 2
+	Query: "77807" ; Times: 1
+	Query: "specificepithet:californicus genus:Dipodomys" ; Times: 1
+	Query: "Brachylagus idahoensis mappable:1" ; Times: 1
+	Query: "dasypus novemcinctus year &gt;= 1971" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;Massachusetts&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "specificepithet:bicolor genus:Coendou" ; Times: 2
+	Query: "specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "arborimus longicaudus" ; Times: 1
+	Query: "specificepithet:alborufus genus:Petaurista" ; Times: 8
+	Query: "UMMZ volans volans" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 1
+	Query: "panthera tigris length" ; Times: 1
+	Query: "specificepithet:insignis genus:Napaeozapus" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 2
+	Query: "Canis rufus" ; Times: 2
+	Query: "63225" ; Times: 1
+	Query: "Sturnira tildae" ; Times: 1
+	Query: "specificepithet:notatus genus:Callosciurus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "UWBM 66952" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "class:mammalia locality:chiapas" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys" ; Times: 1
+	Query: "specificepithet:nayaritensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "Pinus contorta" ; Times: 41
+	Query: "53793" ; Times: 1
+	Query: "vntype:specimen genus:panthera hastissue:1" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 2
+	Query: "52230" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga stateprovince:&#34;nayarit&#34;" ; Times: 2
+	Query: "Nycticebus pygmaeus" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;massachusetts&#34; (NOT &#34;Nantucket&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "peromyscus keeni island british columbia AND (NOT alaska NOT queen NOT waddington)" ; Times: 3
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex mappable:1" ; Times: 9
+	Query: "lengthtype:standard length hassex:1 haslength:1 crab" ; Times: 1
+	Query: "j 808" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina stateprovince:&#34;massachusetts&#34; AND (NOT &#34;Nantucket&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "sciurus carolinensis massachusetts" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;Oregon&#34; year &gt;= 1985 year &lt;= 2017" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "MVZ 5868 mammal" ; Times: 1
+	Query: "specificepithet:aedium genus:Plagiodontia" ; Times: 2
+	Query: "(38429)" ; Times: 1
+	Query: "specificepithet:stephensi genus:Dipodomys" ; Times: 1
+	Query: "Glis glis" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "peromyscus keeni island AND (NOT alaska NOT queen)" ; Times: 1
+	Query: "specificepithet:cooperi genus:Synaptomys hasmass:1" ; Times: 1
+	Query: "family:canidae stateprovince:&#34;Oregon&#34; year &gt;= 1990" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 3
+	Query: "specificepithet:harrisii genus:Ammospermophilus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma" ; Times: 2
+	Query: "specificepithet:monticola genus:Thomomys" ; Times: 1
+	Query: "chinchilla mammalia" ; Times: 3
+	Query: "uncia uncia" ; Times: 1
+	Query: "wood turtle" ; Times: 1
+	Query: "specificepithet:concolor genus:Sicista" ; Times: 4
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:bulbivorus genus:Thomomys" ; Times: 1
+	Query: "specificepithet:macroura genus:Ratufa" ; Times: 8
+	Query: "specificepithet:lanigera genus:Chinchilla" ; Times: 1
+	Query: "MVZ-5866" ; Times: 1
+	Query: "specificepithet:albipes genus:Arborimus" ; Times: 8
+	Query: "Lynx rufus stateprovince:&#34;nebraska&#34;" ; Times: 2
+	Query: "specificepithet:ingens genus:Dipodomys" ; Times: 1
+	Query: "biaru new guinea" ; Times: 1
+	Query: "class:Mammalia county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sciurus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 4
+	Query: "specificepithet:volans genus:Pteromys" ; Times: 1
+	Query: "UMMZ glaucomys volans" ; Times: 5
+	Query: "specificepithet:orca genus:Orcinus" ; Times: 4
+	Query: "specificepithet:broweri genus:Marmota" ; Times: 1
+	Query: "Diphylla" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:Cynomys hasmass:1" ; Times: 1
+	Query: "UMMZ glaucomys volans volans" ; Times: 30
+	Query: "nasua narica" ; Times: 2
+	Query: "Urocyon cinereoargenteus year &gt;= 1970" ; Times: 2
+	Query: "Martes pennanti" ; Times: 1
+	Query: "canis aureus" ; Times: 2
+	Query: "genus:martes stateprovince:&#34;british columbia&#34; hassex:1 haslength:1" ; Times: 1
+	Query: "Chaetodipus hispidus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maximus genus:Lagostomus" ; Times: 1
+	Query: "specificepithet:pretiosus genus:Molossus family:Molossidae" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 146 (out of 1300 download events in this period)
+Total number of records downloaded: 20378
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 7
+	Country: France ; Times: 3
+	Country: United States ; Times: 92
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-30 ; Times: 9
+	Date: 2018-10-05 ; Times: 2
+	Date: 2018-10-21 ; Times: 4
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-03 ; Times: 4
+	Date: 2018-10-04 ; Times: 17
+	Date: 2018-10-22 ; Times: 5
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-07 ; Times: 7
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-01 ; Times: 4
+	Date: 2018-10-24 ; Times: 7
+	Date: 2018-10-25 ; Times: 5
+	Date: 2018-10-28 ; Times: 3
+	Date: 2018-10-29 ; Times: 8
+	Date: 2018-10-08 ; Times: 7
+	Date: 2018-10-09 ; Times: 4
+	Date: 2018-10-19 ; Times: 7
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-13 ; Times: 8
+	Date: 2018-10-12 ; Times: 3
+	Date: 2018-10-11 ; Times: 7
+	Date: 2018-10-10 ; Times: 10
+	Date: 2018-10-17 ; Times: 3
+	Date: 2018-10-16 ; Times: 4
+	Date: 2018-10-15 ; Times: 5
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sciurus niger stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos family:Procyonidae county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina stateprovince:&#34;Massachusetts&#34; AND (NOT island) hassex:1 haslength:1" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "felis chaus" ; Times: 2
+	Query: "mitkof class:mammalia stateprovince:&#34;alaska&#34; haslength:1" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Arborimus longicaudus" ; Times: 1
+	Query: "peromyscus keeni island AND (NOT alaska NOT queen)" ; Times: 1
+	Query: "family:molossidae stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:geoffroyi genus:ateles country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;massachusetts&#34; AND (NOT &#34;Nantucket&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;massachusetts&#34; AND (NOT &#34;Nantucket&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "onychomys leucogaster AND arizona" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;Massachusetts&#34; AND (NOT island) hassex:1 haslength:1" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "genus:spilogale stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Paulson" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "neofiber alleni" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Dipodomys country:&#34;México&#34;" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;Massachusetts&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "Ochotona princeps vntype:specimen" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos country:&#34;mexico&#34;" ; Times: 1
+	Query: "vntype:specimen class:Mammalia county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "genus:martes stateprovince:&#34;british columbia&#34; hassex:1 haslength:1" ; Times: 1
+	Query: "paulson" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;yakima&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Eptesicus fuscus genus:Eptesicus" ; Times: 1
+	Query: "skeleton of Lama" ; Times: 3
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "ochotona collaris" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Sorex preblei" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;chihuahua&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Myotis septentrionalis genus:myotis" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:tamiasciurus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "Spermophilus columbianus" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(42.825504361125255,-75.76879422743627))&lt;339749" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;massachusetts&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma year &gt;= 1920 year &lt;= 2019" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "mitkof specificepithet:hudsonicus genus:tamiasciurus stateprovince:&#34;alaska&#34; hassex:1 haslength:1" ; Times: 1
+	Query: "family:vespertilionidae stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 1
+	Query: "Panthera onca country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "peromyscus maniculatus &#34;lactating&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 4
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Massachusetts&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:deserti genus:Dipodomys country:&#34;México&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "Dromiciops" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "onychomys torridus AND arizona" ; Times: 1
+	Query: "Myotis sodalis genus:myotis" ; Times: 1
+	Query: "wrangell island class:mammalia stateprovince:&#34;alaska&#34; haslength:1" ; Times: 1
+	Query: "arborimus longicaudus" ; Times: 2
+	Query: "Diphylla" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "onychomys arenicola AND new mexico" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "genus:Tamias OR Neotamias OR Eutamias" ; Times: 1
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:sabrinus genus:glaucomys stateprovince:&#34;alaska&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "myotis lucifugus vntype:specimen year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Nycticebus pygmaeus" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;massachusetts&#34; (NOT &#34;Nantucket&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina stateprovince:&#34;massachusetts&#34; AND (NOT &#34;Nantucket&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:spectabilis genus:Dipodomys country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "panthera tigris length" ; Times: 1
+	Query: "specificepithet:alleni genus:neofiber stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "onychomys torridus AND new mexico" ; Times: 1
+	Query: "onychomys leucogaster AND new mexico" ; Times: 2
+	Query: "Carlsbad Caverns vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 3
+	Query: "Chiroptera Oaxaca" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "baranof class:mammalia stateprovince:&#34;alaska&#34; haslength:1" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 1
+	Query: "class:Mammalia county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "Chiroptera Oaxaca basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "specificepithet:venustus genus:dipodomys" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "specificepithet:orca genus:Orcinus" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "UMMZ glaucomys volans volans" ; Times: 2
+	Query: "Tamias" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "notiosorex crawfordi" ; Times: 1
+	Query: "Myotis leibii genus:Myotis" ; Times: 1
+
+
+End of report.
