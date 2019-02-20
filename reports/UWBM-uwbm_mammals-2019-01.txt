@@ -1,0 +1,394 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 488
+Number of records retrieved in searches: 4365
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 5
+	Country: Russia ; Times: 11
+	Country: Netherlands ; Times: 9
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 13
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 417
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 32
+	Date: 2019-01-23 ; Times: 6
+	Date: 2019-01-26 ; Times: 13
+	Date: 2019-01-18 ; Times: 3
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 11
+	Date: 2019-01-15 ; Times: 18
+	Date: 2019-01-30 ; Times: 14
+	Date: 2019-01-17 ; Times: 8
+	Date: 2019-01-10 ; Times: 20
+	Date: 2019-01-11 ; Times: 15
+	Date: 2019-01-12 ; Times: 5
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 7
+	Date: 2019-01-02 ; Times: 16
+	Date: 2019-01-29 ; Times: 157
+	Date: 2019-01-28 ; Times: 19
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 6
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 7
+	Date: 2019-01-04 ; Times: 11
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-20 ; Times: 3
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 25
+	Date: 2019-01-25 ; Times: 37
+	Date: 2019-01-24 ; Times: 14
+	Date: 2019-01-27 ; Times: 12
+	Date: 2019-01-08 ; Times: 9
+	Date: 2019-01-16 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:79993 institutioncode:UWBM" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:ovis institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 8
+	Query: "specificepithet:alpinus genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "MVZ 5868 mammalia" ; Times: 1
+	Query: "specificepithet:durangae genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "vntype:specimen genus:ototylomys stateprovince:&#34;chiapas&#34;" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "15284" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona stateprovince:&#34;Wyoming&#34; year &gt;= 1930" ; Times: 2
+	Query: "specificepithet:musculus genus:Mus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 8
+	Query: "dromiciops gliroides" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "&#34;ailurus fulgens&#34;" ; Times: 2
+	Query: "genus:Martes stateprovince:&#34;British Columbia&#34; AND (pennanti)" ; Times: 1
+	Query: "ovis canadensis umnh" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:UWBM" ; Times: 2
+	Query: "(thf)" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "macaca fascicularis" ; Times: 1
+	Query: "(11966)" ; Times: 1
+	Query: "manidae" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;British columbia&#34; country:&#34;Canada&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:oreamnos institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:siskiyou genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "Panthera onca" ; Times: 53
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "North American opossum" ; Times: 2
+	Query: "genus:Herpestes stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 10
+	Query: "Cervus nippon" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 4
+	Query: "specificepithet:ruficaudus genus:tamias" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "class:Mammalia county:&#34;vernon&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "70516" ; Times: 1
+	Query: "weasel" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus country:&#34;Mexico&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America preparations:study hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "(Ailurus fulgens)" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "56758" ; Times: 1
+	Query: "Oryx" ; Times: 2
+	Query: "specificepithet:quadrimaculatus genus:tamias" ; Times: 3
+	Query: "catalognumber:74991" ; Times: 1
+	Query: "MVZ 38865 mammalia" ; Times: 1
+	Query: "42855" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "papio hamadryas" ; Times: 5
+	Query: "77105" ; Times: 2
+	Query: "Chiroptera Nigeria" ; Times: 1
+	Query: "genus:herpestes order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 15000 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "48586" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 14
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Peromyscus county:&#34;Riverside&#34;" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 28
+	Query: "genus:Alopex" ; Times: 10
+	Query: "Marmota vancouverensis" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "psm glaucomys sabrinus" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "LACM 307 mammalia" ; Times: 1
+	Query: "31794" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "stateprovince:&#34;ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "genus:Panthera hastissue:1" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "54461" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 6
+	Query: "pholidota" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "4481 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 12
+	Query: "35292" ; Times: 1
+	Query: "opossums" ; Times: 1
+	Query: "catalognumber:75285 institutioncode:UWBM" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:elegans genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:ochrogaster genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "uw 1546" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "(&#34;chaetophractus villosus&#34;)" ; Times: 1
+	Query: "catalognumber:79993" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 2
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;California&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:elegans genus:Spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "british columbia specificepithet:vulpes genus:vulpes family:Canidae" ; Times: 1
+	Query: "specificepithet:vison genus:mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 7
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "specificepithet:Striatus genus:Tamias continent:North america hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 13
+	Query: "Asian elephant" ; Times: 1
+	Query: "MVZ 46918" ; Times: 1
+	Query: "&#34;Vicugna pacos&#34;" ; Times: 2
+	Query: "uw madison" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;Nevada&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "specificepithet:sonomae genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "Giraffa" ; Times: 1
+	Query: "MVZ 5866 mammalia" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;united&#34;" ; Times: 1
+	Query: "specificepithet:speciosus genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:UWBM" ; Times: 3
+	Query: "catalognumber:78582 institutioncode:UWBM" ; Times: 1
+	Query: "Thylamys pallidior" ; Times: 1
+	Query: "Canis rufus louisiana" ; Times: 5
+	Query: "66527" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;Texas&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "MVZ 2337 mammalia" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 10000 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "microtus richardsoni hastissue:1" ; Times: 2
+	Query: "specificepithet:palmeri genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "vntype:specimen (dermoptera)" ; Times: 1
+	Query: "specificepithet:inflatus genus:Miniopterus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera continent:North America" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 2
+	Query: "genus:mustela stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "petaurista petaurista" ; Times: 1
+	Query: "(Giraffa camelopardalis)" ; Times: 1
+	Query: "dermoptera" ; Times: 21
+	Query: "specificepithet:striatus genus:tamias continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 5
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 18000 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "FMNH 62116" ; Times: 1
+	Query: "Panorama" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus country:&#34;Canada&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Vicugna pacos" ; Times: 5
+	Query: "35646" ; Times: 1
+	Query: "microtus chrotorrhinus new hampshire" ; Times: 1
+	Query: "class:Mammalia county:&#34;sabine&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Greene&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:wiedii genus:Leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Colorado&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:tamias" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus stateprovince:&#34;Indiana&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias" ; Times: 2
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "Dermanura phaeotis" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera hastissue:1" ; Times: 1
+	Query: "MVZ 4736" ; Times: 1
+	Query: "rangifer tarandus country:&#34;Canada&#34;" ; Times: 2
+	Query: "M-62943" ; Times: 1
+	Query: "81173" ; Times: 1
+	Query: "(&#34;ailurus fulgens&#34;)" ; Times: 1
+	Query: "family:Cervidae institutioncode:UWBM" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 2
+	Query: "specificepithet:canipes genus:tamias" ; Times: 2
+	Query: "Manidae" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "15171" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx hasmass:1 haslength:1" ; Times: 3
+	Query: "MVZ 4736 mammalia" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;sonora&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dermoptera" ; Times: 9
+	Query: "specificepithet:carolinensis genus:Sciurus continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 12
+	Query: "specificepithet:sibiricus genus:tamias" ; Times: 4
+	Query: "58523" ; Times: 1
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "bowhead" ; Times: 1
+	Query: "Pinus contorta" ; Times: 10
+	Query: "81094" ; Times: 1
+	Query: "specificepithet:rufus genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Caquetá&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:durangae genus:tamias" ; Times: 2
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 12
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "canis rufus" ; Times: 1
+	Query: "specificepithet:senex genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "class:Mammalia county:&#34;nacogdoches&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Minnesota Blarina" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "family:leporidae stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:sibiricus genus:tamias institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 176 (out of 962 download events in this period)
+Total number of records downloaded: 2742
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 147
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 28
+	Date: 2019-01-26 ; Times: 2
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 4
+	Date: 2019-01-11 ; Times: 9
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 6
+	Date: 2019-01-02 ; Times: 4
+	Date: 2019-01-29 ; Times: 42
+	Date: 2019-01-28 ; Times: 14
+	Date: 2019-01-07 ; Times: 5
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 6
+	Date: 2019-01-25 ; Times: 6
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 10
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-30 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "genus:Alces year &gt;= 1989 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "genus:sigmodon country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "specificepithet:townsendii genus:Plecotus mappable:1 year&gt;=1948 year&lt;=2019" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "specificepithet:vison genus:mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "class:Mammalia county:&#34;sabine&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "Mimon" ; Times: 1
+	Query: "Chiroptera Nigeria" ; Times: 1
+	Query: "genus:herpestes order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Santander&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Arborimus longicaudus" ; Times: 1
+	Query: "genus:Alopex" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;chambers&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:elegans genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;vernon&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;nacogdoches&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Thylamys pallidior" ; Times: 1
+	Query: "Canis rufus louisiana" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "vntype:specimen genus:Choeronycteris family:Phyllostomidae order:Chiroptera class:Mammalia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "elephas maximus" ; Times: 1
+	Query: "stateprovince:&#34;ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Herpestes stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "Bradypus variegatus" ; Times: 3
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+	Query: "specificepithet:inflatus genus:Miniopterus" ; Times: 1
+	Query: "genus:Ochotona hastissue:1" ; Times: 1
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "hastissue:1 peromyscus truei" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus family:Cricetidae hastissue:1" ; Times: 1
+	Query: "cynocephalidae" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:fulviventer genus:Sigmodon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Martes stateprovince:&#34;British Columbia&#34; AND (NOT pennanti)" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Minnesota Blarina" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+
+
+End of report.
