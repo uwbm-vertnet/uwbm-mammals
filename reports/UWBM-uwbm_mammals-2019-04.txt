@@ -1,0 +1,437 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 380
+Number of records retrieved in searches: 3018
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 89
+	Country: Italy ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Bolivia ; Times: 2
+	Country: Guatemala ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Belgium ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 178
+	Country: Trinidad and Tobago ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Vietnam ; Times: 1
+	Country: Switzerland ; Times: 6
+	Country: Russia ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 26
+	Country: India ; Times: 34
+	Country: United Kingdom ; Times: 6
+	Country: Malaysia ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 7
+	Date: 2019-04-19 ; Times: 4
+	Date: 2019-04-18 ; Times: 9
+	Date: 2019-04-05 ; Times: 5
+	Date: 2019-04-13 ; Times: 3
+	Date: 2019-04-12 ; Times: 15
+	Date: 2019-04-11 ; Times: 7
+	Date: 2019-04-10 ; Times: 13
+	Date: 2019-04-17 ; Times: 7
+	Date: 2019-04-16 ; Times: 13
+	Date: 2019-04-15 ; Times: 14
+	Date: 2019-04-14 ; Times: 7
+	Date: 2019-04-30 ; Times: 17
+	Date: 2019-04-21 ; Times: 2
+	Date: 2019-04-01 ; Times: 6
+	Date: 2019-04-02 ; Times: 40
+	Date: 2019-04-03 ; Times: 26
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-04 ; Times: 43
+	Date: 2019-04-23 ; Times: 36
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-26 ; Times: 15
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-24 ; Times: 50
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-28 ; Times: 7
+	Date: 2019-04-29 ; Times: 6
+	Date: 2019-04-08 ; Times: 10
+	Date: 2019-04-09 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:dorsatum genus:Erethizon stateprovince:&#34;New Mexico&#34; institutioncode:UWBM" ; Times: 1
+	Query: "47737" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "Potos flavus mappable:1" ; Times: 3
+	Query: "Ratufa indica" ; Times: 1
+	Query: "Uroderma magnirostrum mappable:1" ; Times: 3
+	Query: "50360" ; Times: 1
+	Query: "Dicrostonyx nelsoni" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "genus:Spermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:Spilogale institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:57883 institutioncode:UWBM" ; Times: 2
+	Query: "Lionycteris spurrelli mappable:1" ; Times: 3
+	Query: "(UWBM mammal specimens) institutioncode:UWBM" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 15
+	Query: "wizard" ; Times: 2
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "UWBM 82708" ; Times: 1
+	Query: "preparations:skeleton massing &gt;= 400000 massing &lt;= 1000000 hasmass:1" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Diphylla ecaudata mappable:1" ; Times: 3
+	Query: "Leptonycteris nivalis" ; Times: 3
+	Query: "conepatus" ; Times: 1
+	Query: "genus:caracal class:mammalia" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "80729" ; Times: 3
+	Query: "Pinus contorta mappable:1" ; Times: 1
+	Query: "Mustela frenata" ; Times: 8
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "vntype:specimen order:Rodentia (fluid OR alcohol) institutioncode:UWBM" ; Times: 2
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona country:&#34;Canada&#34;" ; Times: 1
+	Query: "UWBM 82442 genus:didelphis" ; Times: 1
+	Query: "Sturnira tildae mappable:1" ; Times: 3
+	Query: "Orcinus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus institutioncode:UWBM" ; Times: 1
+	Query: "lontra canadensis 1084" ; Times: 2
+	Query: "genus:Spermophilus OR Callospermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Artibeus cinereus mappable:1" ; Times: 2
+	Query: "wood turtle" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "Leopardus wiedii mappable:1" ; Times: 3
+	Query: "specificepithet:bendirii genus:Sorex hasmass:1" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "Grass mountain" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:canis stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; (California OR oregon)" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;Washington&#34; year &gt;= 1986 year &lt;= 1986" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias class:mammalia institutioncode:UWBM" ; Times: 1
+	Query: "Merritt institutioncode:UWBM" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;canada&#34;" ; Times: 1
+	Query: "helarctos malayanus" ; Times: 1
+	Query: "(Cynopterus) institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:fulvescens genus:Reithrodontomys county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "globicephala macrorhynchus" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 3
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "35131" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "35132" ; Times: 1
+	Query: "Plagiodontia" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Spermophilus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:taylori genus:Baiomys county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hydrodamalis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Pasco&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "specificepithet:andina andina genus:Abrothrix" ; Times: 1
+	Query: "UWBM 81906" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:flavus genus:perognathus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "64422" ; Times: 1
+	Query: "Sciurus carolinensis hastissue:1" ; Times: 2
+	Query: "Apodemus chevrieri" ; Times: 1
+	Query: "Conepatus semistriatus mappable:1" ; Times: 3
+	Query: "class:mammalia stateprovince:&#34;new hampshire&#34; institutioncode:UWBM" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Illinois&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "UWBM 67474" ; Times: 1
+	Query: "UWBM 82708 genus:didelphis" ; Times: 1
+	Query: "preparations:skeleton massing &gt;= 350000 massing &lt;= 100000000 hasmass:1" ; Times: 1
+	Query: "Abrothrix andina" ; Times: 2
+	Query: "fluid vntype:specimen order:Rodentia institutioncode:UWBM" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "Macaca nigra" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 2
+	Query: "18900" ; Times: 1
+	Query: "75298" ; Times: 1
+	Query: "specificepithet:attwateri genus:Peromyscus county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 3
+	Query: "specificepithet:ordii genus:Dipodomys county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "genus:nycticeius stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Hurley institutioncode:UWBM" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "UWBM 81973" ; Times: 1
+	Query: "Saimiri sciureus mappable:1" ; Times: 3
+	Query: "Eira barbara mappable:1" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:mexicana genus:Neotoma county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "30150 class:Mammalia" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus hastissue:1" ; Times: 1
+	Query: "Myotis albescens mappable:1" ; Times: 3
+	Query: "30033 class:Mammalia" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;vermont&#34; institutioncode:UWBM" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 3
+	Query: "specificepithet:centralis genus:Cabassous" ; Times: 3
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;maine&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Rhyncholestes" ; Times: 2
+	Query: "genus:Conepatus institutioncode:UWBM" ; Times: 1
+	Query: "30274 mammalia" ; Times: 1
+	Query: "Rhyncholestes raphanurus" ; Times: 3
+	Query: "snowshoe hare" ; Times: 5
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "arborimus longicaudus" ; Times: 1
+	Query: "10313" ; Times: 2
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 1
+	Query: "&#34;sciurus griseus&#34; institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "(mammal) institutioncode:UWBM" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 2
+	Query: "Chaetophractus nationi (Bolivia)" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 34
+	Query: "Potos flavus" ; Times: 2
+	Query: "11235" ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 3
+	Query: "marmota vancouverensis" ; Times: 3
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Abrothrix sanborni" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "genus:Mydaus" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "Oxymycterus rufus mappable:1" ; Times: 3
+	Query: "Glaucomys sabrinus stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "30033" ; Times: 2
+	Query: "genus:pteropus haslength:1" ; Times: 3
+	Query: "57103" ; Times: 1
+	Query: "specificepithet:flavus genus:Perognathus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "caracal class:mammalia" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Procavia capensis israel" ; Times: 1
+	Query: "catalognumber:57891 institutioncode:UWBM" ; Times: 2
+	Query: "herpailurus" ; Times: 2
+	Query: "vntype:specimen order:Rodentia institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "vntype:specimen genus:Cyclopes" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 12
+	Query: "Cavia aperea mappable:1" ; Times: 4
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "(Stanchak) institutioncode:UWBM" ; Times: 2
+	Query: "36394" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "specificepithet:beecheyi genus:spermophilus institutioncode:UWBM" ; Times: 2
+	Query: "vntype:specimen class:Mammalia institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "genus:tamias class:mammalia institutioncode:UWBM" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Dipodomys compactus" ; Times: 4
+	Query: "specificepithet:pernix genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pteronotus personatus mappable:1" ; Times: 1
+	Query: "(mustela frenata)" ; Times: 1
+	Query: "genus:Conepatus" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Clay&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "massing &gt;= 400000 massing &lt;= 1000000 hasmass:1" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "psm 5167" ; Times: 1
+	Query: "genus:Mephitis institutioncode:UWBM" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 3
+	Query: "UWBM 81144" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "UWBM 82442" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "Cyclopes didactylus mappable:1" ; Times: 3
+	Query: "30030 class:Mammalia" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 3
+	Query: "UWBM 81144 genus:didelphis" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "Oligoryzomys flavescens mappable:1" ; Times: 2
+	Query: "33026" ; Times: 1
+	Query: "Lutreolina crassicaudata mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 118 (out of 1263 download events in this period)
+Total number of records downloaded: 61314
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 96
+	Country: Chile ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 2
+	Country: Austria ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 13
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-15 ; Times: 7
+	Date: 2019-04-14 ; Times: 15
+	Date: 2019-04-30 ; Times: 4
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-01 ; Times: 4
+	Date: 2019-04-02 ; Times: 25
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-27 ; Times: 7
+	Date: 2019-04-24 ; Times: 5
+	Date: 2019-04-03 ; Times: 2
+	Date: 2019-04-28 ; Times: 3
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Dicrostonyx nelsoni" ; Times: 1
+	Query: "&#34;Microtus californicus&#34;" ; Times: 1
+	Query: "Myotis auriculus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "(UWBM mammal specimens) institutioncode:UWBM" ; Times: 1
+	Query: "Phyllotis darwini" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "genus:caracal class:mammalia" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "NYCTINOMOPS macrotis" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona country:&#34;Canada&#34;" ; Times: 1
+	Query: "vntype:specimen order:Rodentia (fluid OR alcohol) institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Oligoryzomys longicaudatus" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex hasmass:1" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "genus:Mydaus" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "specificepithet:taylori genus:Baiomys county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Phyllotis xanthopygus" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Pasco&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "specificepithet:pernix genus:Chaetodipus stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Apodemus chevrieri" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "carollia castanea" ; Times: 2
+	Query: "Macroscelididae" ; Times: 1
+	Query: "preparations:skeleton massing &gt;= 350000 massing &lt;= 100000000 hasmass:1" ; Times: 1
+	Query: "Abrothrix andina" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:attwateri genus:Peromyscus county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Chaetophractus nationi (Bolivia)" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:pernix genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "Abrothrix sanborni" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:attwateri genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Apodemus draco" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus institutioncode:UWBM" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Clay&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "baiomys taylori" ; Times: 1
+	Query: "specificepithet:pernix genus:Chaetodipus" ; Times: 3
+	Query: "Abrothrix olivaceus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+
+
+End of report.
