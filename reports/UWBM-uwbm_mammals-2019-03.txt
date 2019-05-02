@@ -1,0 +1,326 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 263
+Number of records retrieved in searches: 1919
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 14
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 19
+	Country: United Kingdom ; Times: 26
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 174
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 23
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 4
+	Date: 2019-03-21 ; Times: 9
+	Date: 2019-03-20 ; Times: 11
+	Date: 2019-03-05 ; Times: 5
+	Date: 2019-03-04 ; Times: 7
+	Date: 2019-03-07 ; Times: 14
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-29 ; Times: 15
+	Date: 2019-03-22 ; Times: 6
+	Date: 2019-03-15 ; Times: 6
+	Date: 2019-03-30 ; Times: 3
+	Date: 2019-03-31 ; Times: 15
+	Date: 2019-03-03 ; Times: 7
+	Date: 2019-03-18 ; Times: 10
+	Date: 2019-03-19 ; Times: 14
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 11
+	Date: 2019-03-14 ; Times: 28
+	Date: 2019-03-02 ; Times: 4
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 47
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Antilocapra americana)" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "preparations:baleen" ; Times: 2
+	Query: "Eira barbara" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Balaenoptera" ; Times: 3
+	Query: "class:Mammalia county:&#34;King&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "catalognumber:65844" ; Times: 1
+	Query: "vntype:specimen specificepithet:micropus genus:Neotoma county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "pine bush" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "class:Mammalia county:&#34;Archer&#34;" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "genus:Didelphis hasmass:1" ; Times: 1
+	Query: "specificepithet:caligata genus:marmota institutioncode:UWBM" ; Times: 1
+	Query: "CM townsend" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Artiodactyla country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:leibii genus:myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:micropus genus:Neotoma county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "catalognumber:55726" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "genus:neotoma stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "Meles meles" ; Times: 3
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "Akodon CM" ; Times: 1
+	Query: "specificepithet:villosus genus:Chaetophractus" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM)" ; Times: 1
+	Query: "locality:2 mi S of Oroville" ; Times: 1
+	Query: "county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34; Baiomys taylori" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "70265" ; Times: 2
+	Query: "FMNH 4000" ; Times: 1
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "CMC" ; Times: 1
+	Query: "Crocuta crocuta skeleton" ; Times: 1
+	Query: "Sciurus carolinensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "MVZ-46449" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; Sigmodon hispidus" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "Gorilla gorilla hasmass:1" ; Times: 1
+	Query: "Blarina" ; Times: 1
+	Query: "cabassous" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; Peromyscus leucopus" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 19
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB)" ; Times: 1
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Clay&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:taylori genus:Baiomys county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "uwbm 62034" ; Times: 1
+	Query: "uwbm 62035" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;michigan&#34; year &gt;= 1975" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hasmass:1" ; Times: 1
+	Query: "Gorilla gorilla gorilla hasmass:1" ; Times: 1
+	Query: "Microtus montanus hasmass:1" ; Times: 7
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK)" ; Times: 2
+	Query: "Centurio senex" ; Times: 1
+	Query: "class:Mammalia county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "MVZ 2733" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; Sigmodon hispidus" ; Times: 2
+	Query: "Lontra canadensis hasmass:1" ; Times: 1
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:ochrogaster genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Reithrodontomys fulvescens" ; Times: 6
+	Query: "county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34; Reithrodontomys fulvescens" ; Times: 1
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "54495" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "15088" ; Times: 1
+	Query: "13871" ; Times: 1
+	Query: "70247" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) institutioncode:UWBM" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "33977" ; Times: 1
+	Query: "Galerella sanguinea" ; Times: 1
+	Query: "61610 order:rodentia" ; Times: 3
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "62264" ; Times: 1
+	Query: "class:Mammalia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "class:Mammalia county:&#34;Young&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH)" ; Times: 1
+	Query: "class:Mammalia county:&#34;Jack&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34; Sigmodon hispidus" ; Times: 2
+	Query: "uwbm 58688" ; Times: 1
+	Query: "catalognumber:75387" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "specificepithet:nationi genus:Chaetophractus" ; Times: 7
+	Query: "Pteropus dasymallus" ; Times: 21
+	Query: "Puma concolor hasmass:1" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis family:Canidae AND (NOT UTEP)" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 8
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:velox genus:vulpes family:Canidae AND (NOT UTEP)" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 3
+	Query: "Canis rufus" ; Times: 1
+	Query: "psm lontra canadensis" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus)" ; Times: 1
+	Query: "Sorex araneus hasmass:1" ; Times: 1
+	Query: "mountain goat" ; Times: 1
+	Query: "uwbm 63062" ; Times: 1
+	Query: "specificepithet:thysanodes genus:myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:sabanicola genus:Dasypus" ; Times: 1
+	Query: "dipodomys ingens" ; Times: 4
+	Query: "37157" ; Times: 1
+	Query: "catalognumber:48497 institutioncode:UWBM" ; Times: 1
+	Query: "48319" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "Rangifer tarandus hasmass:1" ; Times: 1
+	Query: "15384" ; Times: 1
+	Query: "Epomophorus minimus" ; Times: 2
+	Query: "73139" ; Times: 1
+	Query: "Lynx canadensis hasmass:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "54471" ; Times: 1
+	Query: "60925" ; Times: 1
+	Query: "catalognumber:78125" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus hasmass:1" ; Times: 1
+	Query: "county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; Dipodomys ordii" ; Times: 1
+	Query: "county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; Peromyscus attwateri" ; Times: 1
+	Query: "Macaca mulatta hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:ORYX" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:antilocapra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Geocapromys" ; Times: 1
+	Query: "12219" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "uwbm 63249" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "county:&#34;Archer&#34; stateprovince:&#34;Texas&#34; Reithrodontomys fulvescens" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH NOT FMNH)" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom)" ; Times: 1
+	Query: "county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34; Sigmodon hispidus" ; Times: 2
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 3
+	Query: "Panthera leo hasmass:1" ; Times: 1
+	Query: "Tupaia glis hasmass:1" ; Times: 3
+	Query: "county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; Reithrodontomys montanus" ; Times: 1
+	Query: "Leopardus pardalis hasmass:1" ; Times: 2
+	Query: "vntype:specimen family:Canidae institutioncode:UWBM" ; Times: 1
+	Query: "order:cetacea stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "genus:Scapanus distance(location,geopoint(32.86599738937701,-117.568359375))&lt;100000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 1281 download events in this period)
+Total number of records downloaded: 3787
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 62
+	Country: United Kingdom ; Times: 7
+	Country: Austria ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 9
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 13
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-03 ; Times: 4
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-17 ; Times: 8
+	Date: 2019-03-14 ; Times: 7
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "vntype:specimen specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crocuta crocuta skeleton" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "class:Mammalia county:&#34;King&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "Epomophorus minimus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Brown&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "class:Mammalia county:&#34;Young&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;michigan&#34; year &gt;= 1975" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "class:Mammalia county:&#34;Jack&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Clay&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:leibii genus:myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Pteropus dasymallus" ; Times: 1
+	Query: "vntype:specimen specificepithet:taylori genus:Baiomys county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "apodemus draco" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Mellivora" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 1
+	Query: "Eothenomys melanogaster" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "class:Mammalia county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:thysanodes genus:myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "vntype:specimen family:Canidae institutioncode:UWBM" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
