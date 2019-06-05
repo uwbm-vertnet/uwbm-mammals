@@ -1,0 +1,319 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 298
+Number of records retrieved in searches: 1030
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 48
+	Country: United States ; Times: 186
+	Country: Netherlands ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Micronesia ; Times: 1
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 6
+	Country: Guatemala ; Times: 5
+	Country: Chile ; Times: 11
+	Country: Unknown ; Times: 9
+	Country: Belgium ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 13
+	Date: 2019-05-31 ; Times: 21
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 6
+	Date: 2019-05-07 ; Times: 5
+	Date: 2019-05-06 ; Times: 17
+	Date: 2019-05-05 ; Times: 10
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 5
+	Date: 2019-05-02 ; Times: 88
+	Date: 2019-05-01 ; Times: 20
+	Date: 2019-05-25 ; Times: 11
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 14
+	Date: 2019-05-26 ; Times: 5
+	Date: 2019-05-21 ; Times: 5
+	Date: 2019-05-20 ; Times: 11
+	Date: 2019-05-23 ; Times: 10
+	Date: 2019-05-22 ; Times: 11
+	Date: 2019-05-29 ; Times: 5
+	Date: 2019-05-28 ; Times: 10
+	Date: 2019-05-19 ; Times: 1
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-14 ; Times: 8
+	Date: 2019-05-15 ; Times: 7
+	Date: 2019-05-17 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "EAR 5173" ; Times: 2
+	Query: "EAR 5171" ; Times: 1
+	Query: "EAR 5170" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Ratufa indica" ; Times: 5
+	Query: "Uroderma magnirostrum mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "54721" ; Times: 1
+	Query: "XGZ 036" ; Times: 3
+	Query: "Cacahuamilpa" ; Times: 1
+	Query: "SNV 018" ; Times: 1
+	Query: "arborimus pomo" ; Times: 1
+	Query: "Lionycteris spurrelli mappable:1" ; Times: 1
+	Query: "UWBM 87484" ; Times: 1
+	Query: "Syncerus caffer mappable:1" ; Times: 1
+	Query: "Scapanus latimanus" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "Balaenoptera edeni mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "trichechus" ; Times: 3
+	Query: "SNV 047" ; Times: 4
+	Query: "specificepithet:rattus genus:Rattus stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "Diphylla ecaudata mappable:1" ; Times: 1
+	Query: "COLOTLIPA" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "genus:canis mandible" ; Times: 2
+	Query: "specificepithet:durangae genus:Tamias" ; Times: 2
+	Query: "UWBM 73914" ; Times: 2
+	Query: "UWBM 73611" ; Times: 2
+	Query: "catalognumber:568 institutioncode:UWBM" ; Times: 1
+	Query: "UWBM 73790" ; Times: 2
+	Query: "UWBM 87497" ; Times: 1
+	Query: "Nasua narica" ; Times: 2
+	Query: "AJS 131" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 5
+	Query: "Sturnira tildae mappable:1" ; Times: 1
+	Query: "thylamys pallidior" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "Cyclopes didactylus mappable:1" ; Times: 1
+	Query: "diphylla" ; Times: 4
+	Query: "Artibeus cinereus mappable:1" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Leopardus wiedii mappable:1" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "EAR 5166" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota institutioncode:UWBM" ; Times: 1
+	Query: "UWBM 73840" ; Times: 2
+	Query: "UWBM 73844" ; Times: 6
+	Query: "UWBM 75420" ; Times: 2
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 3
+	Query: "uwbm 62080" ; Times: 1
+	Query: "XGZ 058" ; Times: 4
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;clallam&#34; hastissue:1" ; Times: 1
+	Query: "UWBM 49164" ; Times: 2
+	Query: "XGZ 050" ; Times: 2
+	Query: "sciurus nayaritensis" ; Times: 2
+	Query: "uwbm 59089" ; Times: 1
+	Query: "EAR 5147" ; Times: 3
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 4
+	Query: "Gophers" ; Times: 1
+	Query: "Cynomys parvidens" ; Times: 2
+	Query: "Abrothrix andinus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 2
+	Query: "UWBM 87477" ; Times: 1
+	Query: "genus:Tamias county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "UWBM 73836" ; Times: 1
+	Query: "uwbm 62081" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "GJK 152" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela haslength:1" ; Times: 1
+	Query: "Vaccinium mappable:1" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "UWBM 74728" ; Times: 2
+	Query: "family:Balaenidae year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 2
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "UWBM 75403" ; Times: 2
+	Query: "UWBM 74726" ; Times: 2
+	Query: "UWBM 73774" ; Times: 2
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma stateprovince:&#34;California&#34; hasmass:1" ; Times: 2
+	Query: "UWBM 66786" ; Times: 1
+	Query: "UWBM 87441" ; Times: 1
+	Query: "thylamys pallidior year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "LACM 1741" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Abrothrix andinus mappable:1" ; Times: 1
+	Query: "UWBM 73822" ; Times: 3
+	Query: "Eira barbara mappable:1" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "UWBM 73945" ; Times: 2
+	Query: "Lutreolina crassicaudata mappable:1" ; Times: 1
+	Query: "Myotis albescens mappable:1" ; Times: 1
+	Query: "UWBM 74729" ; Times: 3
+	Query: "UWBM 79662" ; Times: 2
+	Query: "XGZ 286" ; Times: 1
+	Query: "UWBM 74724" ; Times: 2
+	Query: "UWBM 74723" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Mt. Rainier county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Saimiri sciureus mappable:1" ; Times: 1
+	Query: "Canis lupus familiaris mappable:1 year&gt;=1970 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Breviceps hasmass:1" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Illinois&#34; year &gt;= 2000" ; Times: 1
+	Query: "UWBM 87453" ; Times: 1
+	Query: "UWBM 74052" ; Times: 2
+	Query: "NCP 892" ; Times: 2
+	Query: "specificepithet:cinerea genus:Neotoma hasmass:1" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "dicerorhinus" ; Times: 1
+	Query: "Herpailurus yaguarondi" ; Times: 2
+	Query: "myotis stateprovince:&#34;nuevo leon&#34;" ; Times: 1
+	Query: "uwbm 59059" ; Times: 1
+	Query: "antilocapra americana" ; Times: 1
+	Query: "SNV 045" ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 1
+	Query: "Myocastor coypus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "UWBM Mamm 52161" ; Times: 1
+	Query: "genus:nycticebus preparations:skeleton" ; Times: 2
+	Query: "specificepithet:coypus continent:america" ; Times: 1
+	Query: "catalognumber:32742 institutioncode:UWBM" ; Times: 1
+	Query: "Pinus contorta" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;kittitas&#34; hastissue:1" ; Times: 1
+	Query: "UWBM 80702" ; Times: 1
+	Query: "sorex 39926" ; Times: 2
+	Query: "Oxymycterus rufus mappable:1" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "XGZ 305" ; Times: 1
+	Query: "genus:myocastor" ; Times: 2
+	Query: "genus: canis mandible" ; Times: 2
+	Query: "17610" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;nuevo leon&#34; AND (myotis )" ; Times: 1
+	Query: "XGZ 159" ; Times: 1
+	Query: "genus:Notomys preparations:skeleton" ; Times: 2
+	Query: "Rhyncholestes raphanurus" ; Times: 1
+	Query: "Spalacopus cyanus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "UWBM 72501" ; Times: 2
+	Query: "34130" ; Times: 1
+	Query: "Cavia aperea mappable:1" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "0245" ; Times: 1
+	Query: "specificepithet:catta genus:lemur preparations:skeleton" ; Times: 1
+	Query: "EAR 5185" ; Times: 2
+	Query: "EAR 5182" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 2
+	Query: "UWBM 75450" ; Times: 1
+	Query: "genus:lemur preparations:skeleton" ; Times: 2
+	Query: "UWBM 65094" ; Times: 1
+	Query: "genus:perodicticus preparations:skeleton" ; Times: 1
+	Query: "Kenyon AND ISland" ; Times: 1
+	Query: "locality:Rongelap country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "EAR 5167" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "EAR 5169" ; Times: 1
+	Query: "Mirounga leonina mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Conepatus semistriatus mappable:1" ; Times: 1
+	Query: "XGZ 004" ; Times: 3
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "UWBM 87439" ; Times: 1
+	Query: "genital" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "59408" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 1
+	Query: "genus:loris preparations:skeleton" ; Times: 1
+	Query: "XGZ 321" ; Times: 3
+	Query: "XGZ 128" ; Times: 1
+	Query: "uwbm 62082" ; Times: 1
+	Query: "UWBM 73638" ; Times: 2
+	Query: "SNV 190" ; Times: 1
+	Query: "76486" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "UAM 52701" ; Times: 1
+	Query: "UWBM 65101" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 940 download events in this period)
+Total number of records downloaded: 5798
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 8
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-06 ; Times: 10
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 4
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-13 ; Times: 4
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "thylamys pallidior year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sorex sonomae" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Philander opossum year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "arborimus pomo" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "thylamys elegans year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "Rhyncholestes raphanurus" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "didelphis marsupialis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "didelphis albiventris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "diphylla" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+
+End of report.
