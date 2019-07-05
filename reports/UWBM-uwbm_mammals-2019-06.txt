@@ -1,0 +1,626 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 613
+Number of records retrieved in searches: 5167
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 27
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 23
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 11
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 2
+	Country: Peru ; Times: 4
+	Country: United States ; Times: 500
+	Country: Netherlands ; Times: 4
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 8
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 10
+	Date: 2019-06-21 ; Times: 7
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-23 ; Times: 6
+	Date: 2019-06-24 ; Times: 8
+	Date: 2019-06-25 ; Times: 17
+	Date: 2019-06-08 ; Times: 7
+	Date: 2019-06-09 ; Times: 7
+	Date: 2019-06-06 ; Times: 15
+	Date: 2019-06-07 ; Times: 5
+	Date: 2019-06-04 ; Times: 11
+	Date: 2019-06-05 ; Times: 11
+	Date: 2019-06-02 ; Times: 3
+	Date: 2019-06-03 ; Times: 11
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-26 ; Times: 7
+	Date: 2019-06-27 ; Times: 3
+	Date: 2019-06-28 ; Times: 6
+	Date: 2019-06-19 ; Times: 4
+	Date: 2019-06-18 ; Times: 8
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-15 ; Times: 1
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-17 ; Times: 5
+	Date: 2019-06-16 ; Times: 2
+	Date: 2019-06-11 ; Times: 231
+	Date: 2019-06-10 ; Times: 208
+	Date: 2019-06-13 ; Times: 7
+	Date: 2019-06-12 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "59890" ; Times: 1
+	Query: "genus:Eidolon specificepithet:helvum" ; Times: 1
+	Query: "genus:Heteromys specificepithet:desmarestianus" ; Times: 1
+	Query: "MVZ-46357" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "genus:Crocidura specificepithet:olivieri" ; Times: 2
+	Query: "melursus ursinus" ; Times: 1
+	Query: "parahyaena" ; Times: 1
+	Query: "genus:Centurio specificepithet:senex" ; Times: 1
+	Query: "genus:Canis specificepithet:mesomelas" ; Times: 2
+	Query: "genus:Metachirus specificepithet:nudicaudatus" ; Times: 1
+	Query: "Caluromys derbianus year &gt;= 1969 year &lt;= 2020" ; Times: 2
+	Query: "genus:Nycteris specificepithet:thebaica" ; Times: 1
+	Query: "genus:Pteropus specificepithet:lylei" ; Times: 1
+	Query: "genus:Dasyurus specificepithet:maculatus" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "genus:Carollia specificepithet:subrufa" ; Times: 1
+	Query: "genus:Aotus specificepithet:trivirgatus" ; Times: 2
+	Query: "genus:Balaenoptera specificepithet:acutorostrata" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:pectoralis" ; Times: 1
+	Query: "genus:Spalacopus specificepithet:cyanus" ; Times: 2
+	Query: "genus:Triaenops specificepithet:persicus" ; Times: 1
+	Query: "genus:Leontopithecus specificepithet:rosalia" ; Times: 2
+	Query: "genus:Galea specificepithet:musteloides" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:humulis" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis county:&#34;Grant&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Otomops specificepithet:martiensseni" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;Yakima&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Phascogale specificepithet:tapoatafa" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 1
+	Query: "genus:Leptonycteris specificepithet:nivalis" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:difficilis" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 2
+	Query: "genus:Epomops specificepithet:franqueti" ; Times: 1
+	Query: "mountain goat" ; Times: 3
+	Query: "genus:Balantiopteryx specificepithet:io" ; Times: 2
+	Query: "mephitis oregon" ; Times: 1
+	Query: "catalognumber: 61002" ; Times: 1
+	Query: "genus:Myotis specificepithet:vivesi" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "genus:Rhinolophus specificepithet:fumigatus" ; Times: 1
+	Query: "genus:Myotis specificepithet:auriculus" ; Times: 1
+	Query: "genus:choeronycteris stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "74085" ; Times: 1
+	Query: "genus:Euphractus specificepithet:sexcinctus" ; Times: 2
+	Query: "CM 2653" ; Times: 1
+	Query: "genus:Mesophylla specificepithet:macconnelli" ; Times: 1
+	Query: "genus:Hylobates specificepithet:agilis" ; Times: 2
+	Query: "genus:Gerbillus specificepithet:gerbillus" ; Times: 1
+	Query: "43054" ; Times: 1
+	Query: "72010" ; Times: 1
+	Query: "(ursus thibetanus)" ; Times: 5
+	Query: "genus:Noctilio specificepithet:leporinus" ; Times: 1
+	Query: "Mephitis Oregon" ; Times: 1
+	Query: "genus:Ochotona specificepithet:hyperborea" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:sabrinus" ; Times: 1
+	Query: "genus:Myotis specificepithet:thysanodes" ; Times: 1
+	Query: "genus:Baiomys specificepithet:taylori" ; Times: 2
+	Query: "genus:Neofiber specificepithet:alleni" ; Times: 1
+	Query: "Spalacopus cyanus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "genus:Cebus specificepithet:capucinus" ; Times: 2
+	Query: "panthera tigris" ; Times: 4
+	Query: "genus:Scotophilus specificepithet:kuhlii" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "genus:Mustela specificepithet:nivalis" ; Times: 1
+	Query: "genus:Arvicanthis specificepithet:niloticus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34; AND (NOT PSM NOT UAM)" ; Times: 1
+	Query: "genus:Rousettus specificepithet:amplexicaudatus" ; Times: 1
+	Query: "genus:Martes specificepithet:pennanti" ; Times: 1
+	Query: "genus:Phascolarctos specificepithet:cinereus" ; Times: 1
+	Query: "genus:Pteronotus specificepithet:parnellii" ; Times: 1
+	Query: "genus:Rhinolophus specificepithet:ferrumequinum" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 2
+	Query: "genus:Mandrillus specificepithet:sphinx" ; Times: 2
+	Query: "Chaetophractus villosus" ; Times: 6
+	Query: "genus:Petaurus specificepithet:breviceps" ; Times: 1
+	Query: "genus:Pteronotus specificepithet:personatus" ; Times: 1
+	Query: "J. King AND Island" ; Times: 1
+	Query: "genus:Ptenochirus specificepithet:minor" ; Times: 1
+	Query: "genus:Xerus specificepithet:rutilus" ; Times: 1
+	Query: "genus:Orycteropus specificepithet:afer" ; Times: 1
+	Query: "genus:Lophuromys specificepithet:flavopunctatus" ; Times: 1
+	Query: "genus:Macaca specificepithet:mulatta" ; Times: 2
+	Query: "Cyclopes" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;pima&#34;" ; Times: 1
+	Query: "genus:Didelphis specificepithet:marsupialis" ; Times: 2
+	Query: "ferrets" ; Times: 1
+	Query: "genus:Bradypus specificepithet:variegatus" ; Times: 1
+	Query: "genus:Neurotrichus specificepithet:gibbsii" ; Times: 1
+	Query: "genus:Lionycteris specificepithet:spurrelli" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "57804" ; Times: 1
+	Query: "genus:Taphozous specificepithet:melanopogon" ; Times: 1
+	Query: "North American Beavers" ; Times: 3
+	Query: "genus:Pogonomys" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "ursus thibetanus" ; Times: 9
+	Query: "genus:Petaurista specificepithet:petaurista" ; Times: 3
+	Query: "Island vntype:specimen genus:Mus hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 2
+	Query: "genus:Didelphis specificepithet:albiventris" ; Times: 1
+	Query: "genus:Neomys specificepithet:fodiens" ; Times: 1
+	Query: "hylobates lar" ; Times: 1
+	Query: "genus:Desmodus specificepithet:rotundus" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Yukon&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Aplodontia specificepithet:rufa" ; Times: 2
+	Query: "genus:Neofelis specificepithet:nebulosa" ; Times: 1
+	Query: "genus:Plecotus specificepithet:auritus" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus" ; Times: 1
+	Query: "genus:Helarctos specificepithet:malayanus" ; Times: 1
+	Query: "genus:Myotis specificepithet:albescens" ; Times: 1
+	Query: "genus:Nycteris specificepithet:hispida" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:borealis" ; Times: 1
+	Query: "genus:Eonycteris specificepithet:spelaea" ; Times: 1
+	Query: "genus:Tupaia specificepithet:glis" ; Times: 2
+	Query: "genus:Ornithorhynchus specificepithet:anatinus" ; Times: 1
+	Query: "genus pod" ; Times: 1
+	Query: "genus:Ateles specificepithet:paniscus" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:spectabilis" ; Times: 2
+	Query: "genus:Lepus specificepithet:californicus" ; Times: 1
+	Query: "genus:Acerodon specificepithet:jubatus" ; Times: 1
+	Query: "genus:Taphozous specificepithet:mauritianus" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:melanotis" ; Times: 1
+	Query: "genus:Podomys specificepithet:floridanus" ; Times: 1
+	Query: "genus:Parahyaena specificepithet:brunnea" ; Times: 2
+	Query: "genus:Dromiciops specificepithet:gliroides" ; Times: 1
+	Query: "catalognumber:76863" ; Times: 1
+	Query: "genus:Oxymycterus specificepithet:rufus" ; Times: 1
+	Query: "genus:Geomys specificepithet:bursarius" ; Times: 1
+	Query: "genus:Dasypus specificepithet:sabanicola" ; Times: 1
+	Query: "genus:Neotoma specificepithet:floridana" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;new hampshire&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "genus:Didelphis country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Redunca" ; Times: 1
+	Query: "genus:Natalus specificepithet:stramineus" ; Times: 1
+	Query: "genus:Tapirus specificepithet:terrestris" ; Times: 2
+	Query: "genus:Puma specificepithet:concolor" ; Times: 1
+	Query: "genus:Oryzomys specificepithet:couesi" ; Times: 1
+	Query: "Papantla" ; Times: 2
+	Query: "genus:Acrobates specificepithet:pygmaeus" ; Times: 1
+	Query: "41484" ; Times: 2
+	Query: "genus:Suricata specificepithet:suricatta" ; Times: 1
+	Query: "genus:Lontra specificepithet:canadensis" ; Times: 1
+	Query: "genus:Pteropus specificepithet:poliocephalus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes county:&#34;Kitsap&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34; AND (NOT PSM NOT UAM)" ; Times: 1
+	Query: "Mirounga leonina mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Dicrostonyx specificepithet:richardsoni" ; Times: 1
+	Query: "genus:Lepus specificepithet:townsendii" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:melanophrys" ; Times: 1
+	Query: "genus:Chaetophractus specificepithet:nationi" ; Times: 1
+	Query: "genus:Cabassous specificepithet:centralis" ; Times: 1
+	Query: "genus:Rousettus specificepithet:aegyptiacus" ; Times: 1
+	Query: "genus:Colobus specificepithet:polykomos" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes county:&#34;Thurston&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34; AND (NOT PSM NOT UAM)" ; Times: 1
+	Query: "genus:cynopterus country:&#34;thailand&#34;" ; Times: 1
+	Query: "genus:Panthera specificepithet:leo" ; Times: 2
+	Query: "genus:Mastomys" ; Times: 1
+	Query: "genus:Platyrrhinus specificepithet:vittatus" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1976 year &lt;= 1985" ; Times: 1
+	Query: "genus:Mirounga specificepithet:angustirostris" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 3
+	Query: "genus:Tamandua specificepithet:mexicana" ; Times: 1
+	Query: "white tail deer" ; Times: 3
+	Query: "genus:Nyctimene specificepithet:albiventer" ; Times: 1
+	Query: "genus:Hypsiprymnodon specificepithet:moschatus" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:douglasii" ; Times: 1
+	Query: "genus:Choeronycteris specificepithet:mexicana" ; Times: 1
+	Query: "genus:Myotis specificepithet:formosus" ; Times: 1
+	Query: "Potos Flavus" ; Times: 1
+	Query: "genus:Mustela specificepithet:sibirica" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:intermedius" ; Times: 1
+	Query: "genus:Chiroderma specificepithet:villosum" ; Times: 1
+	Query: "genus:Pteropus specificepithet:alecto" ; Times: 1
+	Query: "genus:Balantiopteryx specificepithet:plicata" ; Times: 1
+	Query: "genus:Petrodromus specificepithet:tetradactylus" ; Times: 2
+	Query: "genus:Tamandua specificepithet:tetradactyla" ; Times: 1
+	Query: "38252" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:bachmani" ; Times: 1
+	Query: "genus:Brachylagus specificepithet:idahoensis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 2
+	Query: "dogs" ; Times: 1
+	Query: "genus:Macrotus specificepithet:californicus" ; Times: 1
+	Query: "genus:Pedetes specificepithet:capensis" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:UWBM" ; Times: 1
+	Query: "44785" ; Times: 1
+	Query: "genus:Pteropus specificepithet:vampyrus" ; Times: 1
+	Query: "genus:Thylamys specificepithet:pallidior" ; Times: 1
+	Query: "genus:Lemur specificepithet:catta" ; Times: 3
+	Query: "genus:Herpestes specificepithet:javanicus" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 2
+	Query: "genus:Anoura specificepithet:geoffroyi" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;maine&#34; institutioncode:UWBM" ; Times: 1
+	Query: "15478 class:mammalia" ; Times: 2
+	Query: "catalognumber:38834" ; Times: 1
+	Query: "genus:Tachyglossus specificepithet:aculeatus" ; Times: 1
+	Query: "chiroptera minas gerais" ; Times: 1
+	Query: "genus:Pteromys" ; Times: 1
+	Query: "bob cat" ; Times: 1
+	Query: "Taphozous hildegardeae" ; Times: 2
+	Query: "genus:Galago specificepithet:senegalensis" ; Times: 2
+	Query: "genus:Echinops specificepithet:telfairi" ; Times: 2
+	Query: "genus:Otolemur specificepithet:garnettii" ; Times: 3
+	Query: "genus:Colobus specificepithet:guereza" ; Times: 2
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1986 year &lt;= 1986" ; Times: 2
+	Query: "genus:Ptenochirus specificepithet:jagori" ; Times: 1
+	Query: "genus:Mustela specificepithet:putorius" ; Times: 1
+	Query: "specificepithet:caracal genus:Caracal" ; Times: 6
+	Query: "39671" ; Times: 1
+	Query: "genus:Ailurus specificepithet:fulgens" ; Times: 1
+	Query: "genus:Arctictis specificepithet:binturong" ; Times: 2
+	Query: "genus:Pipistrellus specificepithet:javanicus" ; Times: 1
+	Query: "30586" ; Times: 1
+	Query: "71744" ; Times: 1
+	Query: "genus:Callithrix specificepithet:pygmaea" ; Times: 2
+	Query: "genus:Sciurus specificepithet:vulgaris" ; Times: 1
+	Query: "genus:Platyrrhinus specificepithet:dorsalis" ; Times: 1
+	Query: "genus:Lutreolina specificepithet:crassicaudata" ; Times: 1
+	Query: "genus:Noctilio specificepithet:albiventris" ; Times: 1
+	Query: "genus:Globicephala specificepithet:macrorhynchus" ; Times: 2
+	Query: "genus:Pipistrellus specificepithet:tenuis" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 3
+	Query: "Abrothrix andinus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "71119" ; Times: 1
+	Query: "mephitis psm" ; Times: 1
+	Query: "genus:Myocastor specificepithet:coypus" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "Ratufa indica" ; Times: 1
+	Query: "genus:Cercopithecus specificepithet:diana" ; Times: 2
+	Query: "UWBM 53984" ; Times: 2
+	Query: "41814" ; Times: 1
+	Query: "genus:Cyclopes specificepithet:didactylus" ; Times: 1
+	Query: "genus:Crocidura specificepithet:russula" ; Times: 1
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 3
+	Query: "Choloepus" ; Times: 2
+	Query: "genus:Apodemus specificepithet:agrarius" ; Times: 1
+	Query: "genus:Papio specificepithet:ursinus" ; Times: 3
+	Query: "genus:Papio specificepithet:cynocephalus" ; Times: 3
+	Query: "ARG 3450" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:Microtus specificepithet:chrotorrhinus" ; Times: 1
+	Query: "genus:Taxidea specificepithet:taxus" ; Times: 1
+	Query: "Mephitis mephitis PSM Oregon" ; Times: 1
+	Query: "genus:Nycticeius specificepithet:humeralis" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias class:mammalia institutioncode:UWBM" ; Times: 1
+	Query: "genus:Antrozous stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 3
+	Query: "genus:Hystrix specificepithet:cristata" ; Times: 1
+	Query: "locality:Bonney Lake stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "locality:Steilacoom Lake stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 3
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "genus:Antilocapra specificepithet:americana" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Dicerorhinus specificepithet:sumatrensis" ; Times: 2
+	Query: "badger claw" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "vntype:specimen specificepithet:hispidus genus:Sigmodon county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Beavers" ; Times: 1
+	Query: "genus:Perameles specificepithet:nasuta" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "Marmosa canescens year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "genus:Erythrocebus specificepithet:patas" ; Times: 2
+	Query: "53536" ; Times: 1
+	Query: "genus:Sturnira specificepithet:tildae" ; Times: 1
+	Query: "53533" ; Times: 1
+	Query: "genus:Otolemur specificepithet:crassicaudatus" ; Times: 3
+	Query: "UWBM 87089" ; Times: 1
+	Query: "genus:Cavia specificepithet:porcellus" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus class:mammalia institutioncode:UWBM" ; Times: 1
+	Query: "genus:Chaetophractus specificepithet:villosus" ; Times: 2
+	Query: "genus:Nycticebus specificepithet:coucang" ; Times: 2
+	Query: "genus:Rhyncholestes specificepithet:raphanurus" ; Times: 1
+	Query: "genus:Uroderma specificepithet:magnirostrum" ; Times: 1
+	Query: "genus:Tapirus specificepithet:indicus" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;vermont&#34; institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:37434" ; Times: 1
+	Query: "Ursus thibetanus" ; Times: 1
+	Query: "genus:Loris specificepithet:tardigradus" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "catalognumber:63705 institutioncode:UWBM" ; Times: 1
+	Query: "Mephitis PSM Oregon" ; Times: 1
+	Query: "genus:Rattus specificepithet:norvegicus" ; Times: 1
+	Query: "genus:Graomys specificepithet:griseoflavus" ; Times: 1
+	Query: "Myocastor coypus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Cricetomys specificepithet:gambianus" ; Times: 2
+	Query: "genus:Callithrix specificepithet:jacchus" ; Times: 2
+	Query: "genus:Myotis specificepithet:evotis" ; Times: 1
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 2
+	Query: "genus:Meles specificepithet:meles" ; Times: 1
+	Query: "genus:Nasua specificepithet:narica" ; Times: 2
+	Query: "genus:Nyctinomops specificepithet:macrotis" ; Times: 1
+	Query: "genus:Philander specificepithet:opossum" ; Times: 2
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 1
+	Query: "locality:Bay Lake stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "42086" ; Times: 1
+	Query: "genus:Neotomodon specificepithet:alstoni" ; Times: 1
+	Query: "genus:Cebus specificepithet:albifrons" ; Times: 2
+	Query: "specificepithet:parryii locality:lawrence stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Eligmodontia specificepithet:typus" ; Times: 1
+	Query: "genus:Loxodonta specificepithet:africana" ; Times: 1
+	Query: "Abrothrix andinus" ; Times: 1
+	Query: "genus:Ochrotomys specificepithet:nuttalli" ; Times: 1
+	Query: "genus:Glossophaga specificepithet:longirostris" ; Times: 1
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 1
+	Query: "53753" ; Times: 2
+	Query: "53973" ; Times: 1
+	Query: "genus:Martes specificepithet:zibellina" ; Times: 1
+	Query: "catalognumber:32210" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "locality:American Lake stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "genus:Hylobates specificepithet:syndactylus" ; Times: 2
+	Query: "genus:Chlorocebus specificepithet:aethiops" ; Times: 2
+	Query: "61002" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi" ; Times: 2
+	Query: "genus:Choloepus specificepithet:hoffmanni" ; Times: 1
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 2
+	Query: "genus:Hipposideros specificepithet:cyclops" ; Times: 1
+	Query: "locality:Crescent Lake stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "genus:Lepus specificepithet:alleni" ; Times: 1
+	Query: "genus:Melursus specificepithet:ursinus" ; Times: 1
+	Query: "catalognumber:55633" ; Times: 1
+	Query: "columbian white-tailed deer" ; Times: 1
+	Query: "genus:Elephantulus specificepithet:rufescens" ; Times: 1
+	Query: "genus:Capromys specificepithet:pilorides" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:cinereus" ; Times: 1
+	Query: "genus:Lycaon specificepithet:pictus" ; Times: 1
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 1
+	Query: "mephitis psm oregon" ; Times: 1
+	Query: "genus:Epomophorus specificepithet:wahlbergi" ; Times: 1
+	Query: "genus:Bos specificepithet:taurus" ; Times: 1
+	Query: "54126" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Washington&#34; country:&#34;United States&#34; AND (NOT PSM NOT UAM)" ; Times: 1
+	Query: "genus:Dendrolagus specificepithet:inustus" ; Times: 2
+	Query: "genus:Sarcophilus specificepithet:laniarius" ; Times: 1
+	Query: "genus:Diphylla specificepithet:ecaudata" ; Times: 1
+	Query: "genus:Dendrohyrax specificepithet:arboreus" ; Times: 1
+	Query: "genus:Thylamys specificepithet:elegans" ; Times: 1
+	Query: "locality:North Lake stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Lagostomus specificepithet:maximus" ; Times: 1
+	Query: "genus:Chinchilla specificepithet:lanigera" ; Times: 1
+	Query: "Mount Rainier specificepithet:vulpes genus:Vulpes stateprovince:&#34;Washington&#34; country:&#34;United States&#34; AND (NOT PSM NOT UAM)" ; Times: 1
+	Query: "genus:Lagothrix specificepithet:lagotricha" ; Times: 2
+	Query: "specificepithet:physalus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Hyaena specificepithet:hyaena" ; Times: 2
+	Query: "genus:Hipposideros specificepithet:armiger" ; Times: 2
+	Query: "86159" ; Times: 1
+	Query: "locality:Spanaway Lake stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "PAPANTLA" ; Times: 2
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 3
+	Query: "genus:Myotis specificepithet:austroriparius" ; Times: 1
+	Query: "Lutreolina crassicaudata year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "genus:Platyrrhinus specificepithet:helleri" ; Times: 1
+	Query: "genus:Petauroides specificepithet:volans" ; Times: 1
+	Query: "genus:Emballonura specificepithet:semicaudata" ; Times: 1
+	Query: "genus:Eptesicus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "genus:Perodicticus specificepithet:potto" ; Times: 2
+	Query: "genus:Ochotona specificepithet:collaris" ; Times: 1
+	Query: "genus:Aepyprymnus specificepithet:rufescens" ; Times: 1
+	Query: "58088" ; Times: 1
+	Query: "genus:Diceros specificepithet:bicornis" ; Times: 2
+	Query: "genus:Cercopithecus specificepithet:neglectus" ; Times: 2
+	Query: "Kenyon AND Island" ; Times: 1
+	Query: "genus:Coendou specificepithet:prehensilis" ; Times: 2
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "genus:Phenacomys specificepithet:intermedius" ; Times: 1
+	Query: "genus:Caluromys specificepithet:derbianus" ; Times: 2
+	Query: "beavers" ; Times: 2
+	Query: "genus:Manis specificepithet:javanica" ; Times: 1
+	Query: "genus:Eira specificepithet:barbara" ; Times: 1
+	Query: "genus:Tachyoryctes specificepithet:splendens" ; Times: 1
+	Query: "genus:Hylobates specificepithet:lar" ; Times: 2
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "genus:Oligoryzomys specificepithet:fulvescens" ; Times: 1
+	Query: "genus:Ototylomys specificepithet:phyllotis" ; Times: 2
+	Query: "genus:Micromys specificepithet:minutus" ; Times: 2
+	Query: "beaver oregon" ; Times: 1
+	Query: "genus:Zalophus specificepithet:californianus" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus" ; Times: 2
+	Query: "Mimon bennettii" ; Times: 1
+	Query: "mephitis Oregon" ; Times: 2
+	Query: "red tailed deer" ; Times: 1
+	Query: "genus:Saguinus specificepithet:oedipus" ; Times: 2
+	Query: "genus:Nycticebus specificepithet:pygmaeus" ; Times: 2
+	Query: "genus:Thomomys specificepithet:mazama" ; Times: 1
+	Query: "genus:Heterocephalus specificepithet:glaber" ; Times: 1
+	Query: "genus:Cricetus specificepithet:cricetus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "genus:Eulemur specificepithet:macaco" ; Times: 2
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:Ursus specificepithet:maritimus" ; Times: 1
+	Query: "catalognumber:70000" ; Times: 1
+	Query: "genus:Macaca specificepithet:nigra" ; Times: 2
+	Query: "42001" ; Times: 1
+	Query: "genus:Arctocephalus specificepithet:townsendi" ; Times: 1
+	Query: "genus:Pteronotus specificepithet:davyi" ; Times: 1
+	Query: "genus:Myoprocta specificepithet:acouchy" ; Times: 1
+	Query: "genus:Balaenoptera specificepithet:physalus" ; Times: 1
+	Query: "genus:Neotoma specificepithet:mexicana" ; Times: 1
+	Query: "genus:Nyctereutes" ; Times: 1
+	Query: "genus:Macaca specificepithet:nemestrina" ; Times: 2
+	Query: "Praomys" ; Times: 1
+	Query: "hasmass:1 and &#34;Marmota flaviventris&#34;" ; Times: 1
+	Query: "uwbm 70787" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes county:&#34;Yakima&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34; AND (NOT PSM NOT UAM)" ; Times: 1
+	Query: "genus:Sturnira specificepithet:ludovici" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:laticaudatus" ; Times: 1
+	Query: "pudu puda" ; Times: 1
+	Query: "genus:Myotis specificepithet:sodalis" ; Times: 1
+	Query: "genus:Thylogale specificepithet:stigmatica" ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 3
+	Query: "genus:Choloepus specificepithet:didactylus " ; Times: 1
+	Query: "genus:Pan specificepithet:troglodytes" ; Times: 3
+	Query: "genus:Macaca specificepithet:fascicularis" ; Times: 2
+	Query: "genus:Octodon specificepithet:degus" ; Times: 1
+	Query: "Bodley" ; Times: 2
+	Query: "catalognumber:71895" ; Times: 1
+	Query: "genus:Pteropus specificepithet:scapulatus" ; Times: 1
+	Query: "genus:Pteropus specificepithet:tonganus" ; Times: 1
+	Query: "genus:Coleura specificepithet:afra" ; Times: 1
+	Query: "genus:Cardioderma specificepithet:cor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 117 (out of 1182 download events in this period)
+Total number of records downloaded: 6663
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 88
+	Country: Peru ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-21 ; Times: 2
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-24 ; Times: 5
+	Date: 2019-06-18 ; Times: 3
+	Date: 2019-06-08 ; Times: 6
+	Date: 2019-06-27 ; Times: 1
+	Date: 2019-06-06 ; Times: 11
+	Date: 2019-06-07 ; Times: 17
+	Date: 2019-06-04 ; Times: 19
+	Date: 2019-06-05 ; Times: 11
+	Date: 2019-06-11 ; Times: 6
+	Date: 2019-06-03 ; Times: 5
+	Date: 2019-06-13 ; Times: 10
+	Date: 2019-06-10 ; Times: 6
+	Date: 2019-06-30 ; Times: 2
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-17 ; Times: 3
+	Date: 2019-06-26 ; Times: 3
+	Date: 2019-06-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "(frog)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "columbian white-tailed deer" ; Times: 1
+	Query: "cougar" ; Times: 5
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1946 year &lt;= 1955" ; Times: 1
+	Query: "rhinolophus simulator" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1926 year &lt;= 1935" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1956 year &lt;= 1975" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "continent:europe hasmass:1" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Papantla" ; Times: 2
+	Query: "Rathbun" ; Times: 1
+	Query: "specificepithet:Princeps genus:Ochotona year &gt;= 2001 year &lt;= 2020" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "lutrinae" ; Times: 2
+	Query: "PAPANTLA" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "A. alces" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "genus:Tamiasciurus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Eptesicus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1976 year &lt;= 1985" ; Times: 1
+	Query: "Beavers" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "spotted owl" ; Times: 1
+	Query: "Marmosa canescens year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "wolf" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "specificepithet:gapperi genus:Clethrionomys" ; Times: 1
+	Query: "order:Cingulata" ; Times: 1
+	Query: "Caluromys derbianus year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "Arctocephalus australis" ; Times: 2
+	Query: "Opossum" ; Times: 1
+	Query: "beaver oregon" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "bobcat" ; Times: 3
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Mimon bennettii" ; Times: 1
+	Query: "mephitis Oregon" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Metachirus nudicaudatus year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Alces alces" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1936 year &lt;= 1945" ; Times: 1
+	Query: "genus:melursus" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "continent:North America (wolf canis lupus)" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "tamandua tetradactyla year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "chiroptera minas gerais" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "Praomys" ; Times: 1
+	Query: "bob cat" ; Times: 1
+	Query: "marmot" ; Times: 2
+	Query: "Cougar" ; Times: 1
+	Query: "Abrothrix andinus" ; Times: 1
+	Query: "beaver" ; Times: 8
+	Query: "BEAVER" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1986 year &lt;= 1986" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:Princeps genus:Ochotona year &gt;= 1989 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:caracal genus:Caracal" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "ursus thibetanus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Lutreolina crassicaudata year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1901 year &lt;= 1925" ; Times: 1
+
+
+End of report.
