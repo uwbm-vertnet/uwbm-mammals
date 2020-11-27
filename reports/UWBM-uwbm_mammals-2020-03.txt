@@ -1,0 +1,468 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 451
+Number of records retrieved in searches: 1967
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 117
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 2
+	Country: Finland ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 16
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: United States ; Times: 275
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 40
+	Date: 2020-03-30 ; Times: 3
+	Date: 2020-03-31 ; Times: 21
+	Date: 2020-03-02 ; Times: 64
+	Date: 2020-03-18 ; Times: 85
+	Date: 2020-03-19 ; Times: 13
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-09 ; Times: 11
+	Date: 2020-03-14 ; Times: 4
+	Date: 2020-03-12 ; Times: 6
+	Date: 2020-03-13 ; Times: 5
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-17 ; Times: 5
+	Date: 2020-03-06 ; Times: 4
+	Date: 2020-03-27 ; Times: 23
+	Date: 2020-03-26 ; Times: 4
+	Date: 2020-03-25 ; Times: 7
+	Date: 2020-03-24 ; Times: 14
+	Date: 2020-03-23 ; Times: 18
+	Date: 2020-03-22 ; Times: 11
+	Date: 2020-03-21 ; Times: 5
+	Date: 2020-03-20 ; Times: 34
+	Date: 2020-03-05 ; Times: 21
+	Date: 2020-03-04 ; Times: 8
+	Date: 2020-03-07 ; Times: 4
+	Date: 2020-03-11 ; Times: 4
+	Date: 2020-03-29 ; Times: 23
+	Date: 2020-03-28 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "(74781) institutioncode:UWBM" ; Times: 2
+	Query: "Epomophorus wahlbergi" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "catalognumber:31962 institutioncode:UWBM" ; Times: 2
+	Query: "Sapajus" ; Times: 1
+	Query: "Scotophilus nux" ; Times: 1
+	Query: "Rousettus lanosus" ; Times: 1
+	Query: "Dermanura phaeotis" ; Times: 1
+	Query: "Taphozous perforatus" ; Times: 1
+	Query: "catalognumber:82238 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Neotoma class:Mammalia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "caquetá" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 2
+	Query: "Natalus stramineus" ; Times: 1
+	Query: "Rhinolophus simulator" ; Times: 1
+	Query: "Megaerops wetmorei" ; Times: 2
+	Query: "Choloepus didactylus mappable:1" ; Times: 2
+	Query: "specificepithet:amurensis genus:Erinaceus haslength:1" ; Times: 1
+	Query: "(75236) institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:nanus genus:Sorex" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "catalognumber:31915 institutioncode:UWBM" ; Times: 2
+	Query: "14984" ; Times: 1
+	Query: "Platyrrhinus dorsalis" ; Times: 1
+	Query: "Otomops martiensseni" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Pteronotus personatus" ; Times: 1
+	Query: "genus:Phacochoerus specificepithet:aethiopicus" ; Times: 2
+	Query: "neotoma county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "catalognumber:52673 institutioncode:UWBM" ; Times: 2
+	Query: "sigmodon hispidus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "catalognumber:59083 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:59011 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:nuttallii genus:Sylvilagus haslength:1" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 18
+	Query: "genus:didelphis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "S. coeruleoalba" ; Times: 1
+	Query: "dipodomys chiricahua county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "47738" ; Times: 1
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "Rhinolophus fumigatus" ; Times: 1
+	Query: "57155" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "catalognumber:31934 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:32042 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "specificepithet:hamadryas genus:Papio haslength:1" ; Times: 2
+	Query: "Rousettus aegyptiacus" ; Times: 1
+	Query: "genus:Chlorocebus specificepithet:aethiops" ; Times: 2
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 2
+	Query: "60753" ; Times: 1
+	Query: "Pteropus tonganus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 2
+	Query: "Nyctereutes" ; Times: 2
+	Query: "tamandua mexicana" ; Times: 5
+	Query: "specificepithet:cuniculus genus:Oryctolagus haslength:1" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "lamb county texas" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:31916 institutioncode:UWBM" ; Times: 2
+	Query: "Scotophilus dinganii" ; Times: 1
+	Query: "catalognumber:32066 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:32046 institutioncode:UWBM" ; Times: 2
+	Query: "76842" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Myotis muricola" ; Times: 1
+	Query: "(H 59-40)" ; Times: 1
+	Query: "UWBM 75677" ; Times: 2
+	Query: "bradley county:&#34;lamb&#34;" ; Times: 1
+	Query: "Sapajus apella" ; Times: 1
+	Query: "Cebus" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "50807" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:pennanti" ; Times: 4
+	Query: "R.57365" ; Times: 1
+	Query: "76847" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos" ; Times: 2
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "Hipposideros bicolor" ; Times: 1
+	Query: "catalognumber:39402 institutioncode:UWBM" ; Times: 2
+	Query: "Nycteris hispida" ; Times: 2
+	Query: "BBM-NG-52102" ; Times: 1
+	Query: "MAMM (6657)" ; Times: 2
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 1
+	Query: "genus:Hystrix specificepithet:cristata" ; Times: 2
+	Query: "Myotis grisescens" ; Times: 2
+	Query: "Myotis formosus" ; Times: 2
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "specificepithet:nivalis genus:Mustela haslength:1" ; Times: 1
+	Query: "genus:Didelphis family:Didelphidae stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "(frog) AND (NOT Australia) haslength:1" ; Times: 2
+	Query: "catalognumber:31983 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:harrisii genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "family:Galagonidae" ; Times: 1
+	Query: "catalognumber:39490 institutioncode:UWBM" ; Times: 2
+	Query: "Murina leucogaster" ; Times: 2
+	Query: "catalognumber:80612 institutioncode:UWBM" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 2
+	Query: "catalognumber:32043 institutioncode:UWBM" ; Times: 2
+	Query: "Myotis auriculus" ; Times: 2
+	Query: "Myotis leibii" ; Times: 1
+	Query: "Eptesicus serotinus" ; Times: 1
+	Query: "family:viverridae hastissue:1" ; Times: 2
+	Query: "baiomys county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "hartii" ; Times: 1
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "Coleura afra" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "76294" ; Times: 1
+	Query: "catalognumber:81631 institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "specificepithet:parvidens genus:Cynomys haslength:1" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "catalognumber:12931 institutioncode:UWBM" ; Times: 2
+	Query: "Mimon bennettii" ; Times: 4
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "catalognumber:52675 institutioncode:UWBM" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "Lagenorhynchus obliquidens" ; Times: 1
+	Query: "Pipistrellus tenuis" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Brachylagus haslength:1" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "Cardioderma cor" ; Times: 1
+	Query: "catalognumber:12566 institutioncode:UWBM" ; Times: 2
+	Query: "family:Pteropodidae institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela haslength:1" ; Times: 1
+	Query: "58767" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "catalognumber:55919 institutioncode:UWBM" ; Times: 1
+	Query: "Myotis keenii" ; Times: 2
+	Query: "Nyctalus lasiopterus" ; Times: 2
+	Query: "77071" ; Times: 1
+	Query: "catalognumber:31933 institutioncode:UWBM" ; Times: 2
+	Query: "(frog) AND (NOT &#34;Australia&#34; &#34;Mammalia&#34;) haslength:1" ; Times: 1
+	Query: "Nyctimene albiventer" ; Times: 2
+	Query: "genus:Manis" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "(75141) institutioncode:UWBM" ; Times: 2
+	Query: "(18641)" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "(55759)" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys haslength:1" ; Times: 1
+	Query: "&#34;La Democracia&#34;" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Uroderma magnirostrum" ; Times: 1
+	Query: "Hipposideros dinops" ; Times: 1
+	Query: "22544" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "specificepithet:lar genus:hylobates" ; Times: 2
+	Query: "Molossus pretiosus" ; Times: 2
+	Query: "30384" ; Times: 1
+	Query: "(49083)" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Caquetá&#34;" ; Times: 1
+	Query: "Acerodon jubatus" ; Times: 1
+	Query: "Dave Long" ; Times: 2
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "locality:El Tambo " ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "specificepithet:lar genus:hylobates haslength:1" ; Times: 2
+	Query: "Sturnira ludovici" ; Times: 1
+	Query: "Pteropus alecto" ; Times: 1
+	Query: "(76777) institutioncode:UWBM" ; Times: 3
+	Query: "Felis margarita" ; Times: 1
+	Query: "47045" ; Times: 1
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "Dobsonia moluccensis" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias" ; Times: 1
+	Query: "Pteropus scapulatus" ; Times: 1
+	Query: "Miniopterus inflatus" ; Times: 2
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mexicana genus:tamandua" ; Times: 1
+	Query: "71221" ; Times: 1
+	Query: "(15209)" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "Pteropus dasymallus" ; Times: 1
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis family:Didelphidae stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:75808 institutioncode:UWBM" ; Times: 2
+	Query: "(14976)" ; Times: 1
+	Query: "catalognumber:34161 institutioncode:UWBM" ; Times: 2
+	Query: "family:Viverridae" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 2
+	Query: "57087" ; Times: 1
+	Query: "Sturnira tildae" ; Times: 1
+	Query: "genus:Manis hastissue:1" ; Times: 1
+	Query: "genus:Oreotragus specificepithet:oreotragus" ; Times: 2
+	Query: "Grampus griseus" ; Times: 2
+	Query: "31896" ; Times: 1
+	Query: "Pteropus rodricensis" ; Times: 1
+	Query: "Pteropus vampyrus" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "R.39075" ; Times: 1
+	Query: "Glossophaga longirostris" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "rattus steini" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "60756" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "Bos taurus" ; Times: 1
+	Query: "catalognumber:39489 institutioncode:UWBM" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Pteropus giganteus" ; Times: 1
+	Query: "52022" ; Times: 1
+	Query: "37094" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "specificepithet:albiventris genus:Atelerix haslength:1" ; Times: 1
+	Query: "catalognumber:52683 institutioncode:UWBM" ; Times: 2
+	Query: "genus:Tragelaphus specificepithet:imberbis" ; Times: 2
+	Query: "catalognumber:82706 institutioncode:UWBM" ; Times: 2
+	Query: "Pteropus poliocephalus" ; Times: 1
+	Query: "Epomophorus minimus" ; Times: 1
+	Query: "Epomops franqueti" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "Hipposideros cyclops" ; Times: 1
+	Query: "66066" ; Times: 1
+	Query: "(76777)" ; Times: 2
+	Query: "catalognumber:32037 institutioncode:UWBM" ; Times: 2
+	Query: "Emballonura semicaudata" ; Times: 1
+	Query: "Myotis frater" ; Times: 2
+	Query: "Vulpes vulpes stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Taphozous hildegardeae" ; Times: 1
+	Query: "UWBM 82847" ; Times: 2
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "Hipposideros armiger" ; Times: 1
+	Query: "32113" ; Times: 1
+	Query: "catalognumber:33290 institutioncode:UWBM" ; Times: 2
+	Query: "Ptenochirus jagori" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "Delphinus capensis" ; Times: 1
+	Query: "Myotis ikonnikovi" ; Times: 2
+	Query: "institutioncode:AMNH OR ANSP OR ASNHC OR AUM OR BLB OR BSNS OR BUMMC OR BYU OR CAS OR CCBER OR CHAS OR CLO OR CM OR COA OR CRCM OR CSUC OR CSULB OR CUMV OR DMNH OR DMNS OR EMU OR FHSM OR FLARCH OR FMNH OR GSU OR HSU OR ISM OR ISU OR KNWR OR KSTC OR KU OR LACM OR LSUMZ OR MCZ OR MLZ OR MMNH OR MMNS OR MPM OR MSB OR MSU OR MSUM OR MVZ OR NCSM OR NMMNH OR OS OR OSUM OR PMNS OR PSM OR SBMNH OR SKNHM OR SLU OR SUI OR TCWC OR TNHC OR TTRS OR TTU OR TU OR UA OR UAFMC OR UAM OR UAZ OR UCLA OR UCM OR UCMP OR UCONN OR UF OR UMMZ OR UMNH UMZC OR UNR OR USNM OR UTA OR UTEP OR UWBM OR UWFC OR UWYMV OR VMNH OR WFVZ OR WNMU OR WPM RHINOLOPHIDAE" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "country:&#34;United States&#34; (frog) AND (NOT &#34;Australia&#34;) haslength:1" ; Times: 2
+	Query: "genus:Tragelaphus specificepithet:strepsiceros" ; Times: 2
+	Query: "catalognumber:13570 institutioncode:UWBM" ; Times: 1
+	Query: "429109" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "79924" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "Scotoecus hirundo" ; Times: 1
+	Query: "Pipistrellus javanicus" ; Times: 1
+	Query: "genus:Tamandua" ; Times: 1
+	Query: "Ptenochirus minor" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus haslength:1" ; Times: 2
+	Query: "(53280)" ; Times: 1
+	Query: "Myotis albescens" ; Times: 2
+	Query: "UWBM 66525" ; Times: 1
+	Query: "Taphozous mauritianus" ; Times: 1
+	Query: "Triaenops persicus" ; Times: 1
+	Query: "Lavia frons" ; Times: 2
+	Query: "30740" ; Times: 1
+	Query: "specificepithet:leucurus genus:Cynomys haslength:1" ; Times: 1
+	Query: "Eonycteris spelaea" ; Times: 1
+	Query: "TTU Myotis velifer" ; Times: 1
+	Query: "Platyrrhinus vittatus" ; Times: 1
+	Query: "specificepithet:gunnisoni genus:Cynomys haslength:1" ; Times: 1
+	Query: "UWBM 44623" ; Times: 2
+	Query: "Abrothrix sanborni" ; Times: 1
+	Query: "(49096)" ; Times: 4
+	Query: "specificepithet:panamintinus genus:tamias" ; Times: 4
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "specificepithet:sibirica genus:Mustela haslength:1" ; Times: 1
+	Query: "locality:Rio Blanco " ; Times: 1
+	Query: "catalognumber:51054 institutioncode:UWBM" ; Times: 2
+	Query: "Miniopterus minor" ; Times: 2
+	Query: "52484" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "catalognumber:34162 institutioncode:UWBM" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "41248" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus stateprovince:&#34;california&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Lionycteris spurrelli" ; Times: 2
+	Query: "catalognumber:31984 institutioncode:UWBM" ; Times: 2
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "catalognumber:55918 institutioncode:UWBM" ; Times: 2
+	Query: "67214" ; Times: 1
+	Query: "catalognumber:34160 institutioncode:UWBM" ; Times: 2
+	Query: "SAPAJUS APELLA" ; Times: 1
+	Query: "vntype:specimen class:Mammalia institutioncode:UWBM" ; Times: 1
+	Query: "88872" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "specificepithet:putorius genus:Mustela haslength:1" ; Times: 1
+	Query: "Myonycteris relicta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 853 download events in this period)
+Total number of records downloaded: 746
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 26
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Indonesia ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-22 ; Times: 3
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 9
+	Date: 2020-03-18 ; Times: 5
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-12 ; Times: 3
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-21 ; Times: 3
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "genus:ursus" ; Times: 2
+	Query: "Sapajus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH RHINOLOPHIDAE" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "family:Galagonidae" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;indiana&#34;" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "specificepithet:mexicana genus:tamandua" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vagrans genus:Sorex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "SAPAJUS APELLA" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Rhinolophidae" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Indiana&#34;" ; Times: 3
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "Sapajus apella" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "bradypus variegatus" ; Times: 3
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
