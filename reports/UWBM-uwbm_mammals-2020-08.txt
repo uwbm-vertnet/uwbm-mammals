@@ -1,0 +1,359 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 273
+Number of records retrieved in searches: 1589
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Netherlands ; Times: 13
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 8
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 140
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 39
+	Country: Ireland ; Times: 37
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 7
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-17 ; Times: 3
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-15 ; Times: 5
+	Date: 2020-08-14 ; Times: 10
+	Date: 2020-08-13 ; Times: 4
+	Date: 2020-08-12 ; Times: 5
+	Date: 2020-08-11 ; Times: 13
+	Date: 2020-08-10 ; Times: 10
+	Date: 2020-08-30 ; Times: 7
+	Date: 2020-08-19 ; Times: 6
+	Date: 2020-08-18 ; Times: 4
+	Date: 2020-08-20 ; Times: 25
+	Date: 2020-08-08 ; Times: 13
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-02 ; Times: 5
+	Date: 2020-08-03 ; Times: 7
+	Date: 2020-08-04 ; Times: 7
+	Date: 2020-08-05 ; Times: 5
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-07 ; Times: 11
+	Date: 2020-08-26 ; Times: 5
+	Date: 2020-08-27 ; Times: 5
+	Date: 2020-08-24 ; Times: 11
+	Date: 2020-08-25 ; Times: 39
+	Date: 2020-08-22 ; Times: 2
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-09 ; Times: 2
+	Date: 2020-08-21 ; Times: 53
+
+List of queries that retrieved data from the resource: 
+	Query: "Macaca nemestrina" ; Times: 1
+	Query: "specificepithet:lanigera genus:Chinchilla hasmass:1" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Cheyenne Mountain Zoo" ; Times: 1
+	Query: "specificepithet:alleni genus:lepus haslength:1" ; Times: 1
+	Query: "Apodemus mystacinus" ; Times: 1
+	Query: "Macaca fascicularis" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British columbia&#34; country:&#34;Canada&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Symphalangus syndactylus" ; Times: 1
+	Query: "MVZ 52384" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus haslifestage:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes year&gt;=1900 year&lt;=1940" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; institutioncode:UWBM" ; Times: 3
+	Query: "UWBM 76317" ; Times: 2
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; castor" ; Times: 1
+	Query: "31594" ; Times: 1
+	Query: "Mandrillus sphinx" ; Times: 1
+	Query: "UWBM 47258" ; Times: 2
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020 martes" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "scientificname:Lepus timidus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "specificepithet:lucifugus stateprovince:&#34;Washington&#34; year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "UWBM 47259" ; Times: 2
+	Query: "80729" ; Times: 5
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "specificepithet:rufa genus:Aplodontia hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Wyoming&#34; institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus hasmass:1" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "mappable:1 scientificname:Myocastor coypus" ; Times: 1
+	Query: "genus:Microtus institutioncode:UWBM" ; Times: 1
+	Query: "euderma" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "71370" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Papio hamadryas" ; Times: 1
+	Query: "genus:Tamias specificepithet:merriami mappable:1 stateprovince:california" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis stateprovince:&#34;Washington&#34; year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "35359" ; Times: 1
+	Query: "specificepithet:californicus genus:chAETODIPUS county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "UWBM 71756" ; Times: 2
+	Query: "scientificname:Leopardus tigrinus" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "Lepus othus" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 5
+	Query: "Eira" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1900 year &lt;= 2020" ; Times: 2
+	Query: "Arvicanthis niloticus" ; Times: 1
+	Query: "specificepithet:cephalophus genus:Elaphodus" ; Times: 1
+	Query: "Sweetwater Mountain county:&#34;Mono&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:chAETODIPUS county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "UWBM 71917" ; Times: 4
+	Query: "UWBM 71916" ; Times: 1
+	Query: "UWBM 71915" ; Times: 2
+	Query: "Pongo pygmaeus" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Tamiasciurus Wyoming" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "6502 order:rodentia" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "Pan troglodytes" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "mappable:1 scientificname:Genetta genetta" ; Times: 1
+	Query: "UWBM 72163" ; Times: 2
+	Query: "genus:Antilocapra stateprovince:california" ; Times: 4
+	Query: "Felis margarita" ; Times: 1
+	Query: "UMNH Mammal 42150" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Cercopithecus neglectus" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; castor year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "71376" ; Times: 1
+	Query: "UWBM 47384" ; Times: 2
+	Query: "UWBM 47383" ; Times: 2
+	Query: "UWBM 47382" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "Lycaon pictus hastissue:1" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "69660" ; Times: 1
+	Query: "genus:Giraffa" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "UWBM 72162" ; Times: 3
+	Query: "specificepithet:formosus genus:chAETODIPUS county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "unicorn" ; Times: 2
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "genus:Tamias specificepithet:merriami stateprovince:california" ; Times: 2
+	Query: "75459" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Iowa&#34; year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "Dasymys incomtus" ; Times: 1
+	Query: "Muntiacus reevesi" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "class:mammalia catalognumber:30627" ; Times: 2
+	Query: "Lepus timidus" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 3
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Mustela vison" ; Times: 1
+	Query: "Hylobates agilis" ; Times: 1
+	Query: "mustela nigripes" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "&#34;Dipodomys ordii&#34; stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 3
+	Query: "35358" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "Canis rufus" ; Times: 4
+	Query: "Lepus capensis" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "specificepithet:gulo genus:gulo haslength:1" ; Times: 1
+	Query: "tamias merriami" ; Times: 1
+	Query: "UWBM 42885" ; Times: 2
+	Query: "specificepithet:rufa genus:Aplodontia lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "45388" ; Times: 1
+	Query: "specificepithet:leibii genus:Myotis" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "Sweetwater county:&#34;Lyon&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "Papio ursinus" ; Times: 1
+	Query: "Macaca nigra" ; Times: 1
+	Query: "70345" ; Times: 2
+	Query: "genetta" ; Times: 1
+	Query: "lemur catta" ; Times: 1
+	Query: "specificepithet:macroura genus:Mephitis hasmass:1 haslength:1" ; Times: 1
+	Query: "UWBM 42872" ; Times: 2
+	Query: "genus:Marmota stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eger" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; martes" ; Times: 3
+	Query: "genus:Erythrocebus" ; Times: 7
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 3
+	Query: "specificepithet:crocuta genus:Crocuta hasmass:1" ; Times: 1
+	Query: "&#34;martes americana&#34; OR &#34;castor canadensis&#34; stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:formosus genus:chaetodipus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UWBM" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "specificepithet:lanigera genus:Chinchilla haslength:1" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga haslength:1" ; Times: 2
+	Query: "52769" ; Times: 1
+	Query: "37848 order:rodentia" ; Times: 2
+	Query: "Myotis auriculus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:californicus stateprovince:&#34;Washington&#34; year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:cavia haslength:1" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Wood turtle" ; Times: 1
+	Query: "genus:Erythrocebus year &gt;= 1861" ; Times: 1
+	Query: "Erythrocebus" ; Times: 5
+	Query: "19285" ; Times: 1
+	Query: "UMMZ 62534" ; Times: 1
+	Query: "xerus" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:macroura genus:mephitis hasmass:1 haslength:1" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "Otocolobus manul" ; Times: 13
+	Query: "UWBM 46946" ; Times: 2
+	Query: "71606" ; Times: 1
+	Query: "UWBM 46945" ; Times: 3
+	Query: "Lepus townsendii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 756 download events in this period)
+Total number of records downloaded: 7625
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 72
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-10 ; Times: 8
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-14 ; Times: 3
+	Date: 2020-08-13 ; Times: 6
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-07 ; Times: 6
+	Date: 2020-08-08 ; Times: 17
+	Date: 2020-08-24 ; Times: 11
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-26 ; Times: 11
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mustela stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Canis sp" ; Times: 1
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus haslifestage:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 3
+	Query: "genus:Ochotona stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "Ochotona" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "genus:Pongo" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:pongo" ; Times: 2
+	Query: "specificepithet:austroriparius genus:myotis" ; Times: 2
+	Query: "genus:Zapus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "vntype:specimen class:Mammalia county:&#34;Accomack&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Utah&#34;" ; Times: 1
+
+
+End of report.
