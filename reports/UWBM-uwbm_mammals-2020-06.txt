@@ -1,0 +1,170 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 168
+Number of records retrieved in searches: 2146
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 87
+	Country: Bolivia ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 2
+	Country: India ; Times: 12
+	Country: Peru ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 35
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-21 ; Times: 1
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-08 ; Times: 27
+	Date: 2020-06-09 ; Times: 4
+	Date: 2020-06-06 ; Times: 5
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 16
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 3
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-14 ; Times: 1
+	Date: 2020-06-10 ; Times: 53
+	Date: 2020-06-11 ; Times: 12
+	Date: 2020-06-12 ; Times: 10
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-17 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:79495 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "orcinus" ; Times: 1
+	Query: "mustela asia" ; Times: 2
+	Query: "genus:mus specificepithet:caroli" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "nasua nasua" ; Times: 1
+	Query: "catalognumber:76799 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:72108 institutioncode:UWBM" ; Times: 3
+	Query: "catalognumber:76811 institutioncode:UWBM" ; Times: 2
+	Query: "37841" ; Times: 1
+	Query: "catalognumber:49066 institutioncode:UWBM" ; Times: 2
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "catalognumber:76813 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:76808 institutioncode:UWBM" ; Times: 2
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "Nasua narica" ; Times: 1
+	Query: "catalognumber:78001 institutioncode:UWBM" ; Times: 2
+	Query: "Redunca redunca" ; Times: 1
+	Query: "catalognumber:72137 institutioncode:UWBM" ; Times: 3
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "catalognumber:79658 institutioncode:UWBM" ; Times: 2
+	Query: "82441" ; Times: 1
+	Query: "catalognumber:78139 institutioncode:UWBM" ; Times: 2
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "catalognumber:75217 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:73810 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "catalognumber:78606 institutioncode:UWBM" ; Times: 2
+	Query: "59011" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 8
+	Query: "catalognumber:76697 institutioncode:UWBM" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 12
+	Query: "Geomys arenarius" ; Times: 2
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "catalognumber:72106 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "UWBM 57510" ; Times: 2
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "catalognumber:72517 institutioncode:UWBM" ; Times: 1
+	Query: "Eschrichtius" ; Times: 2
+	Query: "Catopuma temminckii" ; Times: 4
+	Query: "66075 UWBM" ; Times: 2
+	Query: "Nasua nasua" ; Times: 3
+	Query: "Bos taurus" ; Times: 6
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "genus:paguma" ; Times: 1
+	Query: "Hexaprotodon liberiensis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "catalognumber:78852 institutioncode:UWBM" ; Times: 2
+	Query: "Nycticebus pygmaeus" ; Times: 1
+	Query: "Otocolobus manul" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "RT 286" ; Times: 2
+	Query: "RT 287" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "steelhead" ; Times: 1
+	Query: "catalognumber:78604 institutioncode:UWBM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 474 download events in this period)
+Total number of records downloaded: 851
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Brazil ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-04 ; Times: 8
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+
+
+End of report.
