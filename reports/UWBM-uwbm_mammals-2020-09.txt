@@ -1,0 +1,361 @@
+Report for Institution Code UWBM, Resource uwbm_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 407
+Number of records retrieved in searches: 4362
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 50
+	Country: Unknown ; Times: 13
+	Country: Panama ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Hong Kong ; Times: 3
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 14
+	Country: United States ; Times: 305
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 12
+	Date: 2020-09-08 ; Times: 48
+	Date: 2020-09-03 ; Times: 11
+	Date: 2020-09-02 ; Times: 10
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-07 ; Times: 6
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-21 ; Times: 16
+	Date: 2020-09-20 ; Times: 5
+	Date: 2020-09-23 ; Times: 3
+	Date: 2020-09-22 ; Times: 37
+	Date: 2020-09-25 ; Times: 31
+	Date: 2020-09-24 ; Times: 17
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-26 ; Times: 11
+	Date: 2020-09-29 ; Times: 12
+	Date: 2020-09-28 ; Times: 29
+	Date: 2020-09-16 ; Times: 7
+	Date: 2020-09-14 ; Times: 7
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 8
+	Date: 2020-09-17 ; Times: 19
+	Date: 2020-09-10 ; Times: 17
+	Date: 2020-09-11 ; Times: 20
+	Date: 2020-09-12 ; Times: 7
+	Date: 2020-09-13 ; Times: 49
+	Date: 2020-09-18 ; Times: 12
+	Date: 2020-09-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Aplodontia sex:female hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 4
+	Query: "specificepithet:ludovicianus genus:Cynomys distance(location,geopoint(38.29518709012489,-100.1220703125))&lt;226672" ; Times: 1
+	Query: "32708" ; Times: 3
+	Query: "scientificname:Pan Troglodytes" ; Times: 3
+	Query: "cynomys ludovicianus" ; Times: 20
+	Query: "specificepithet:monax genus:Marmota hasmass:1" ; Times: 11
+	Query: "specificepithet:vulpes genus:vulpes continent:North America hasmass:1" ; Times: 1
+	Query: "specificepithet:fuliginosus genus:Caenolestes country:&#34;ecuador&#34;" ; Times: 1
+	Query: "genus:Lontra hastissue:1" ; Times: 1
+	Query: "76541" ; Times: 1
+	Query: "sylvilagus floridanus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:striatus genus:Tamias country:&#34;United States&#34; lengthtype:total length haslength:1" ; Times: 2
+	Query: "LACM 2671" ; Times: 2
+	Query: "Cricetomys" ; Times: 4
+	Query: "genus:Sciurus carolinensis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 19
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "horseshoe c" ; Times: 1
+	Query: "scientificname:Lepus timidus" ; Times: 1
+	Query: "&#34;leopardus pardalis&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "48360 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:nitratoides nitratoides genus:Dipodomys hasmass:1" ; Times: 1
+	Query: "specificepithet:musculus genus:mus country:&#34;Canada&#34; haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:intermedius genus:Chaetodipus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Crocuta hastissue:1" ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur hasmass:1" ; Times: 1
+	Query: "63240" ; Times: 1
+	Query: "vntype:specimen specificepithet:fuliginosus genus:Caenolestes country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "specificepithet:monax genus:Marmota stateprovince:&#34;Alaska&#34; hasmass:1" ; Times: 4
+	Query: "277 specificepithet:niger genus:sciurus" ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris hasmass:1" ; Times: 3
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Meles meles" ; Times: 7
+	Query: "Nasua nasua" ; Times: 3
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 6
+	Query: "Cricetomys gambianus vntype:specimen institutioncode:UWBM" ; Times: 3
+	Query: "specificepithet:mazama genus:Thomomys county:&#34;clallam&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Brachylagus hasmass:1" ; Times: 5
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Cabassous" ; Times: 2
+	Query: "scientificname:Oryzomys alfaroi" ; Times: 1
+	Query: "specificepithet:semicaudata semicaudata genus:Emballonura" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon continent:North America institutioncode:UWBM hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:martes county:&#34;lane&#34; stateprovince:&#34;oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 7
+	Query: "ailurus" ; Times: 1
+	Query: "Artibeus FMNH" ; Times: 1
+	Query: "monodon vntype:specimen country:&#34;united states&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;leopardus wiedii&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "iglesia" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "mammal scat" ; Times: 1
+	Query: "87306" ; Times: 3
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "scientificname:Leopardus tigrinus" ; Times: 2
+	Query: "&#34;Eira barbara&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 3
+	Query: "Panthera onca México" ; Times: 1
+	Query: "scientificname:Oligoryzomys fulvescens" ; Times: 3
+	Query: "specificepithet:musculus genus:Mus country:&#34;Canada&#34; haslength:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; continent:North America sex:Female lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;washington&#34; year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "31504" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;washington&#34;" ; Times: 3
+	Query: "genus:Felis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "genus:Odobenus year &gt;= 2015" ; Times: 1
+	Query: "cavia porcellus hasmass:1" ; Times: 1
+	Query: "genus:Arctocephalus hastissue:1" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Pan troglodytes" ; Times: 2
+	Query: "wizard" ; Times: 9
+	Query: "scientificname:Cebus capucinus" ; Times: 1
+	Query: "specificepithet:monoceros genus:Monodon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UWBM 79382" ; Times: 1
+	Query: "acomys subspinosus" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota stateprovince:&#34;Michigan&#34; hasmass:1" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "genus:Aplodontia hastissue:1" ; Times: 3
+	Query: "75208" ; Times: 1
+	Query: "specificepithet:Leucopus genus:peromyscus continent:North America year &gt;= 1951 year &lt;= 2010 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "monodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:musculus genus:mus country:&#34;canada&#34; haslength:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex preparations:skull institutioncode:UWBM" ; Times: 1
+	Query: "65175" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 6
+	Query: "scientificname:Reithrodontomys sumichrasti" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex preparations:skull" ; Times: 3
+	Query: "genus:Peromyscus leucopus stateprovince:&#34;Illinois&#34; continent:North America year &lt;= 1950 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;Norte de Santander&#34; country:&#34;Colombia&#34;" ; Times: 4
+	Query: "genus:Lynx stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "genus:Peromyscus leucopus continent:North America (ear) year &lt;= 1950 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;panthera onca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:GRISESCENS genus:MYOTIS hasmass:1" ; Times: 3
+	Query: "&#34;Ototylomys phyllotis&#34; country:&#34;México&#34;" ; Times: 3
+	Query: "scientificname:Peromyscus melanotis" ; Times: 2
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;washington&#34; year &gt;= 2008 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex preparations:skull" ; Times: 4
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 6
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 6
+	Query: "scientificname:Liomys irroratus" ; Times: 4
+	Query: "Sturnira ludovici" ; Times: 1
+	Query: "cavia porcellus genus:Cavia hasmass:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "62992 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:rosalia genus:Leontopithecus hasmass:1" ; Times: 1
+	Query: "ateles" ; Times: 1
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:rufus genus:Canis hasmass:1" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;washington&#34; year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UWBM" ; Times: 1
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "specificepithet:monax genus:Marmota AND (juvenile) hasmass:1" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "marmosa mexicana" ; Times: 2
+	Query: "genus:Leopardus hastissue:1" ; Times: 1
+	Query: "Cricetomys gambianus vntype:specimen" ; Times: 3
+	Query: "scientificname:Meles meles" ; Times: 2
+	Query: "277 specificepithet:niger genus:sciurus year &gt;= 1970 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:siskiyou genus:Tamias stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Aplodontia sex:male hasmass:1 haslength:1" ; Times: 1
+	Query: "bos taurus" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias stateprovince:&#34;New York&#34; country:&#34;United States&#34; continent:North America sex:Female lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Didelphis virginiana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "genus:Peromyscus leucopus continent:North America year &lt;= 1950 hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:cuniculus genus:Oryctolagus" ; Times: 1
+	Query: "Aplodontia rufa vntype:specimen hastissue:1" ; Times: 1
+	Query: "Aplodontia rufa vntype:specimen haslength:1 hastissue:1" ; Times: 1
+	Query: "Herpailurus yaguarondi Mexico" ; Times: 1
+	Query: "nasua nasua" ; Times: 3
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;washington&#34; year &gt;= 208 year &lt;= 2020" ; Times: 1
+	Query: "scientificname:Reithrodontomys megalotis" ; Times: 1
+	Query: "specificepithet:musculus genus:mus haslength:1 Canada" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias country:&#34;United States&#34; lengthtype:total length hasmass:1" ; Times: 9
+	Query: "galea" ; Times: 1
+	Query: "scientificname:Lagothrix lagotricha" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:martes county:&#34;benton&#34; stateprovince:&#34;oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes continent:North America hasmass:1 haslength:1" ; Times: 2
+	Query: "UWBM 49955" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "sciurus aberti american museum" ; Times: 1
+	Query: "scientificname:Peromyscus keeni" ; Times: 2
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "chaetodipus intermedius valley of fires" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias county:&#34;jefferson&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "blackfoot river" ; Times: 2
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "genus:Aplodontia hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota stateprovince:&#34;New York&#34; hasmass:1" ; Times: 2
+	Query: "scientificname:Peromyscus difficilis" ; Times: 4
+	Query: "specificepithet:canadensis genus:Lontra continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 6
+	Query: "specificepithet:lagopus genus:Alopex" ; Times: 8
+	Query: "15075" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "scientificname:Pan troglodytes" ; Times: 30
+	Query: "38572" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 3
+	Query: "specificepithet:pribilofensis genus:Sorex hasmass:1" ; Times: 1
+	Query: "specificepithet:heermanni genus:Dipodomys order:Rodentia county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:ingens genus:Dipodomys hasmass:1" ; Times: 1
+	Query: "Aplodontia rufa vntype:specimen haslength:1" ; Times: 1
+	Query: "specificepithet:SODALIS genus:MYOTIS hasmass:1" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias year &gt;= 1900 year &lt;= 1999 hasmass:1" ; Times: 1
+	Query: "cetacean" ; Times: 1
+	Query: "otomys" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus hasmass:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 92 (out of 976 download events in this period)
+Total number of records downloaded: 15734
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 74
+	Country: Colombia ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 11
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-06 ; Times: 3
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-20 ; Times: 3
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-24 ; Times: 6
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 5
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-17 ; Times: 7
+	Date: 2020-09-10 ; Times: 6
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-18 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;san bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "abrothrix longipilis" ; Times: 2
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias sex:Female hasmass:1" ; Times: 1
+	Query: "specificepithet:musculus genus:mus lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus hasmass:1" ; Times: 1
+	Query: "Herpailurus yaguarondi Mexico" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "specificepithet:lupus arctos genus:canis" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 2
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "specificepithet:ingens genus:Dipodomys hasmass:1" ; Times: 1
+	Query: "specificepithet:fuliginosus genus:Caenolestes country:&#34;ecuador&#34;" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "genus:Lynx stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "artibeus cinereus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nitratoides nitratoides genus:Dipodomys hasmass:1" ; Times: 2
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 3
+	Query: "Leopardus pardalis México" ; Times: 1
+	Query: "Panthera onca México" ; Times: 1
+	Query: "Aplodontia rufa vntype:specimen haslength:1" ; Times: 1
+	Query: "genus:Aplodontia sex:female hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 2
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 1
+	Query: "genus:Tamias striatus haslength:1" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "genus:Martes specificepithet:americana*" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:SODALIS genus:MYOTIS hasmass:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:GRISESCENS genus:MYOTIS hasmass:1" ; Times: 2
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris hasmass:1" ; Times: 2
+	Query: "Aplodontia" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:fuliginosus genus:Caenolestes country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "E. R. Pianka" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "genus:Aplodontia sex:male hasmass:1 haslength:1" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex preparations:skull" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Brachylagus hasmass:1" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "family:Canidae hastissue:1" ; Times: 1
+
+
+End of report.
